@@ -18,5 +18,6 @@
     href: https://dev.to/paulasantamaria/introduction-to-yaml-125f
 - text: News
   href: /news/
-- text: Hello
-  href: /Hello
+# Your new page goes here
+- text: Hello world
+  href: /hello
