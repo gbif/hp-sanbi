@@ -1,3 +1,4 @@
+---
 layout: post
 title: Welcome
 background: https://via.placeholder.com/1000x400
