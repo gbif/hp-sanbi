@@ -1,8 +1,12 @@
+layout: post
+title: Welcome
+background: https://via.placeholder.com/1000x400
+description: Most layout assume the fields `background`, `title` and an optional `description`
 ---
-layout: page
-Title: 
----
-# SANBI-GBIF 
-The South African node of the Global Biodiversity Information Facility (GBIF)
+This is my first table
 
-A Gateway to all occurrence data published by South Africa via the GBIF portal  
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      | $12   |
+| tables        | are useful    | $1    |
