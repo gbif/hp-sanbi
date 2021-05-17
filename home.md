@@ -1,8 +1,14 @@
 ---
 lang-ref: home
 layout: home
-title: Template headline
-description: Lesser saw seas own have can’t kind Also to every own yielding there stars one itself lights seed yielding dominion lesser from lesser were divide be their spirit one behold a they’re grass called open.
+title: Home
+description: SANBI-GBIF 
+South African National Biodiversity Institute – Global Biodiversity Information Facility 
+SANBI-GBIF aims to grow and support a network of partners in biodiversity informatics through capacity enhancement and data mobilization, publication and use
+
+Your Gateway to news and occurrence records of South Africa 
+Your Gateways to news and occurrence records published by South African Institutions
+
 background: https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Fstatic.inaturalist.org%2Fphotos%2F58912610%2Foriginal.jpeg%3F1577953995
 imageLicense: |
   *Xylaria hypoxylon* (L.) Grev. Photo by Alexis via [iNaturalist](https://www.gbif.org/occurrence/2542961803)
@@ -15,16 +21,14 @@ cta:
 permalink: /
 ---
 
-Edit `/home.md` to change the text.
+SANBI-GBIF is the South African Voting  Node of the Global Biodiversity Information Facility (GBIF) and is funded by the Department of Science and Innovation.  The Vision of the SANBI-GBIF Node is to contribute to South Africa’s sustainable development by facilitating access to biodiversity and related information on the internet. 
 
-Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
-flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo
-pontum ut** avus quamquam de trabes vestemque cruorem tremor.
-
-Viscera mercibus isdem hebetarat undas! Iubet ora ire unum telis adicit, si
-Telephus *valent*, instructo refers. Ille **est resque**, sic ruris erit ante
-profana detegeret. Et cogor tractus arboribus prensurum praesens memorantur
-neque inplet iussus temeraria merui **fas ecce** aethera dixit fieretque [plura
-tollebat altius](http://virgineusque.net/est.html).
-
+This portal was created as part of the GBIF National Portal Implementation Project and aims to provide resources, news and information of activities and efforts of Nodes at the National level.
+ 
+SANBI-GBIF Strategic Objectives
+Promoting the sharing of data and information under a common set of standards
+Contributing to education, training and capacity enhancement, and to develop biodiversity informatics as a field of science.
+To develop a stronger network of biodiversity informatics professionals through coordination 
+Supporting data use through highlighting the impacts of data mobilisation across the data-science-policy interface.
+Advising on national and international initiatives, and strategy development to further support efforts to grow the impact of the SANBI-GBIF Node.
 
