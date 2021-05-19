@@ -10,8 +10,11 @@
   text: Data-Science-Policy/Dta Use and Impact
   href:Data-Science-Policy/Dta Use and Impact/Data-Science-Policy/Dta Use and Impact
  - text: HCD
-  href: /HCD
-- text:Regional Engagement
+  href: /HCD 
+  menu: # Dropdown menu (one level deep only)
+  text: Elearning
+  href: /Elearning
+  - text:Regional Engagement
   href: /Regional Engagement
 - text: News/Events
   href: /News/Events
