@@ -1,7 +1,7 @@
 ---
-lang-ref: home
+lang-ref: en-us
 layout: home
-title: Home
+title: Home-Landing Page
 description: SANBI-GBIF 
 
 background: https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Fstatic.inaturalist.org%2Fphotos%2F58912610%2Foriginal.jpeg%3F1577953995
@@ -15,6 +15,7 @@ cta:
     href: /about
 permalink: /
 ---
+<!----
 .home1 {
   padding: 10px; /* some padding */
   text-align: center; /* center the text */
@@ -44,7 +45,7 @@ This portal was created as part of the GBIF National Portal Implementation Proje
  <li> Contributing to education, training and <strong>capacity enhancement</strong>, and to <strong>develop biodiversity informatics as a field of science.</strong></li>
  <li> To develop a stronger network of biodiversity informatics professionals through coordination </li> 
  <li> Supporting data use through highlighting the impacts of data mobilisation across the data-science-policy interface</li>
- <li> Advising on <strong>national</strong> and international initiatives, and strategy development to further support efforts to grow the impact of the SANBI-GBIF Node.
+ <li> Advising on <strong>national</strong> and <strong>international</strong> initiatives, and strategy development to further support efforts to grow the impact of the SANBI-GBIF Node</li>
 
 
 
