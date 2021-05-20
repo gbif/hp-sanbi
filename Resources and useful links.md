@@ -6,11 +6,11 @@ description: Most layout assume the fields `background`, `title` and an optional
 ---
 # **Links and Resources**
 
-#   **Strategy documents**
+##   **Strategy documents**
    - Annual Report
    - Strategic Plans
     
- # **Technical Documents/Papers/Manuals**
+ ## **Technical Documents/Papers/Manuals**
    - GBIO
    - White paper-STI
    - Position Paper-fitness for use
@@ -19,7 +19,7 @@ description: Most layout assume the fields `background`, `title` and an optional
    - Task group Recommendations
    - Scientific Papers
    
-   # **Usefull Website Links**
+  ## **Usefull Website Links**
  
  - GBIF - https://www.gbif.org/
  - IPBES - https://www.ipbes.net/
