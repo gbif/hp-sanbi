@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Links and Resources</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create three equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+ul {
+list-style-type:none;}
+
+</style>
+</head>
+<body>
+
+<h2>Links and Resources</h2>
+
+<div class="row">
+  <div class="column" style="background-color:#aaa;">
+    <h2><strong>Strategy documents</strong></h2>
+    <p>Annual Report</p>
+    <p> Strategic Plans</p>
+    <ul>
+      <li>Annual Report</li>
+      <li>Strategic Plans</li>
+    </ul>  
+  </div>
+  <div class="column" style="background-color:#bbb;">
+    <h2><strong>Technical Documents/Papers/Manuals</strong></h2>
+    <ul>
+      <li>GBIO</li>
+      <li>White paper-STI/li>
+      <li>Position Paper-fitness for use</li>
+      <li>New GBIF Manuals</li>
+      <li>GBIF Science Review</li>
+      <li>Task group Recommendations</li>
+      <li> Scientific Papers</li>
+    </ul>  
+  </div>
+  <div class="column" style="background-color:#ccc;">
+    <h2><strong> Usefule Website Links</strong></h2>
+   <ul>
+      <li>GBIF - https://www.gbif.org/</li>
+      <li>IPBES - https://www.ipbes.net//li>
+      <li>TDWG - https://www.tdwg.org/</li>
+      <li>GEOBON - https://geobon.org/</li>
+      <li>Data Carpentries - Data Carpentry for Biologists</li>
+      <li>Biodiversity Informatics Training Curriculum-http://biodiversity-informatics-training.org/</li>
+      <li>iNaturalist - https://www.inaturalist.org/</li>
+      <li>Atlas of Living Australia - https://www.ala.org.au/<li>
+  </ul>   
+</p>
+  </div>
+</div>
+
+</body>
+</html>
