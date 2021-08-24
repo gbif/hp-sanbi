@@ -37,8 +37,8 @@ This portal was created as part of the GBIF National Portal Implementation Proje
 
 - Supporting data use through highlighting the impacts of data mobilisation across the data-science-policy interface
 
-- Advising on <strong>national</strong> and <strong>international</strong> initiatives, and strategy development to further support efforts to grow the impact of 
-- the SANBI-GBIF  Node
+- Advising on **national** and **international** initiatives, and strategy development to further support efforts to grow the impact of 
+ the SANBI-GBIF  Node
 
 
 
