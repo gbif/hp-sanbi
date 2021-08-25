@@ -15,7 +15,7 @@ cta:
     href: /about
 permalink: /
 ---
-**SANBI-GBIF** 
+## **SANBI-GBIF** 
 
 SANBI-GBIF aims to grow and support a network of partners in biodiversity informatics through capacity enhancement and 
 data mobilization, publication and use.
@@ -29,18 +29,18 @@ to biodiversity and related information on the internet.
 This portal was created as part of the GBIF National Portal Implementation Project and aims to provide resources, 
 news and information of activities and efforts of Nodes at the National level.
 
-**SANBI-GBIF Strategic Objectives**
+## **SANBI-GBIF Strategic Objectives**
 
-- A. Promoting the **sharing of data** and information under a common set of **standards**.
+ > A. Promoting the **sharing of data** and information under a common set of **standards**.
 
-- B. Contributing to education, training and **capacity enhancement**, and to **develop biodiversity informatics as a field of science.**
+ > B. Contributing to education, training and **capacity enhancement**, and to **develop biodiversity informatics as a field of science.**
 
-- C. To develop a stronger network of biodiversity informatics professionals through coordination. 
+ > C. To develop a stronger network of biodiversity informatics professionals through coordination. 
 
-- D. Supporting data use through highlighting the impacts of data mobilisation across the data-science-policy interface.
+ > D. Supporting data use through highlighting the impacts of data mobilisation across the data-science-policy interface.
 
-- E. Advising on **national** and **international** initiatives, and strategy development to further support efforts to grow the impact of 
-     the SANBI-GBIF Node.
+  >E. Advising on **national** and **international** initiatives, and strategy development to further support efforts to grow the impact of 
+  >> the SANBI-GBIF Node.
 
 
 
