@@ -25,6 +25,6 @@ SANBI-GBIF was established in 2003 by the Department of Science and Technology (
 |SANBI
 
 
-  ![Network of Partners](/assets/images/Networks of Partners "Network of Partners")
+  ![Network of Partners](/assets/images/NetworksofPartners.jpg "Network of Partners")
 
 
