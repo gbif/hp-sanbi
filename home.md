@@ -39,7 +39,7 @@ news and information of activities and efforts of Nodes at the National level.
 
  > D. Supporting data use through highlighting the impacts of data mobilisation across the data-science-policy interface.
 
-  >E. Advising on **national** and **international** initiatives, and strategy development to further support efforts to grow the impact of 
+ > E. Advising on **national** and **international** initiatives, and strategy development to further support efforts to grow the impact of 
   >> the SANBI-GBIF Node.
 
 
