@@ -1,7 +1,7 @@
 ---
 lang-ref: about
 title: Welcome to the SANBI-GBIF Node Website
-description: About SANBI-GBIF
+description: 
 background: /assets/images/moss.jpg
 imageLicense: |
   Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
