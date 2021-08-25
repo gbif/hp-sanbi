@@ -4,7 +4,7 @@
   menu: # Dropdown menu (one level deep only)
    - text: Contact us
      href: /Contact us
-   - text: Netowrk Partners
+   - text: Network Partners
      href: /Network Partners
 - text: Data Mobilisation
   menu: # Dropdown menu (one level deep only)
@@ -24,7 +24,6 @@
   href: /News/Events
 - text: Resources and useful links
   href: /Resources and useful links
-
 - text: Data
   href: /data
 - text: Links
