@@ -1,42 +1,43 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
+# Links listed below will be included in your site's navbar (navigation at the top)
+- text: About
+  href: /About
 - text: Data Mobilisation
   href: /Data Mobilisation
   menu: # Dropdown menu (one level deep only)
-  text: GBIF SA Data Portal
-  href: /GBIF SA Data Portal
-  text: Data Publishing-SANBI-GBIF IPT
-  href: /Data Publishing-SANBI-GBIF IPT
-  text: Data-Science-Policy/Dta Use and Impact
-  href:Data-Science-Policy/Dta Use and Impact/Data-Science-Policy/Dta Use and Impact
+ - text: GBIF SA Data Portal
+   href: /GBIF SA Data Portal
+ - text: Data Publishing-SANBI-GBIF IPT
+   href: /Data Publishing-SANBI-GBIF IPT
+ - text: Data-Science-Policy/Dta Use and Impact
+   href:Data-Science-Policy and Data Use and Impact
  - text: HCD
-  href: /HCD 
-  - text: GBIF SA Data Portal
-    href: /GBIF SA Data Portal
-  - text: Data Publishing-SANBI-GBIF IPT
-    href: /Data Publishing-SANBI-GBIF IPT
-  - text: Data-Science-Policy/Dta Use and Impact
-    href: Data-Science-Policy/Dta Use and Impact/Data-Science-Policy/Dta Use and Impact
-- text: HCD
-  menu: # Dropdown menu (one level deep only)
-  text: Elearning
-  href: /Elearning
-  - text:Regional Engagement
+   href: /HCD 
+   menu: # Dropdown menu (one level deep only)
+   - text: Elearning
+     href: /Elearning
+- text:Regional Engagement
   href: /Regional Engagement
-  - text: Elearning
-    href: /Elearning
-  - text: Regional Engagement
-    href: /Regional Engagement
-- text: News/Events
-  href: /News/Events
  - text: News/Events
-  - text:Resources and useful links
-  href: /Resources and useful links
-
-- text: Resources and useful links
+   href: /News/Events
+ - text:Resources and useful links
+   href: /Resources and useful links
   menu: # Dropdown menu (one level deep only)
   - text: Base theme demo
     href: https://hp-base-theme.gbif-staging.org/
+  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
+  - text: "Docs" # Title for block of menu items
+  - text: Jekyll documentation
+    href: https://jekyllrb.com/docs/pages/
+  - text: Markdown tutorial
+    href: https://guides.github.com/features/mastering-markdown/
+  - text: YAML tutorial
+    href: https://dev.to/paulasantamaria/introduction-to-yaml-125f
+- text: News
+  href: /news/
+# Your new page goes here
+
 
 
   
