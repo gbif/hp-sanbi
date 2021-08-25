@@ -1,5 +1,5 @@
 - text: Data Mobilisation
-- menu: # Dropdown menu (one level deep only)
+  menu: # Dropdown menu (one level deep only)
   - text: GBIF SA Data Portal
     href: /GBIF SA Data Portal
   - text: Data Publishing-SANBI-GBIF IPT
@@ -7,7 +7,7 @@
   - text: Data-Science-Policy/Dta Use and Impact
     href: Data-Science-Policy/Dta Use and Impact/Data-Science-Policy/Dta Use and Impact
 - text: HCD
-- menu: # Dropdown menu (one level deep only)
+  menu: # Dropdown menu (one level deep only)
   - text: Elearning
     href: /Elearning
   - text: Regional Engagement
