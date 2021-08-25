@@ -3,9 +3,8 @@ lang-ref: en-us
 layout: home
 title: SANBI-GBIF
 description: **South African National Biodiversity Institute – Global Biodiversity Information Facility** 
-  - SANBI-GBIF aims to support and grow  a network of partners in biodiversity informatics through data mobilization, capacity enhancement, publication and use.
-
-background: https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Fstatic.inaturalist.org%2Fphotos%2F58912610%2Foriginal.jpeg%3F1577953995
+ 
+ background: https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Fstatic.inaturalist.org%2Fphotos%2F58912610%2Foriginal.jpeg%3F1577953995
 imageLicense: |
   *Xylaria hypoxylon* (L.) Grev. Photo by Alexis via [iNaturalist](https://www.gbif.org/occurrence/2542961803)
  
@@ -19,10 +18,10 @@ permalink: /
 ---
 **SANBI-GBIF** 
 
-- SANBI-GBIF aims to grow and support a network of partners in biodiversity informatics through capacity enhancement and 
+SANBI-GBIF aims to grow and support a network of partners in biodiversity informatics through capacity enhancement and 
 data mobilization, publication and use.
-- Your Gateways to news and occurrence records published by South African Institutions.
-- 
+Your Gateways to news and occurrence records published by South African Institutions.
+
 SANBI-GBIF is the South African Voting  Node of the Global Biodiversity Information Facility (GBIF) and is funded by the
 Department of Science and Innovation. 
 The Vision of the SANBI-GBIF Node is to contribute to South Africa’s sustainable development by facilitating access 
