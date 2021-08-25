@@ -15,10 +15,16 @@ End Users and Partners include museums, herbaria, universities, conservation age
 # **Our history**
 SANBI-GBIF was established in 2003 by the Department of Science and Technology (DST) in collaboration with the National Research Foundation, Council for Scientific and Industrial Research as well as members of the scientific community.  The SANBI-GBIF Node, which is now institutionalised in SANBI, was initially established as a programme called the South African Biodiversity Information Facility (SABIF), with a focus on providing funding for data mobilization, and was hosted by the NRF.  With the establishment of SANBI, it was felt that the SABIF programme was more in line with the mission of SANBI. Thus 2006 saw the handover of SABIF from the NRF to SANBI. The DST funded SABIF since its establishment in 2003. With the handover of SABIF from NRF in 2006, DST continued its commitment to fund the SABIF under SANBI for 3 years, starting in the 2006-07 financial year and ending at the end of the 2010 financial year. In June 2005 the SABIF web portal was launched by the Deputy Minister of Science and Technology, Mr Derek Hanekom.
 
-<p align="center"># **Contact Us**
-<p align="center">Contact Details of the Node
-<p align="center">Fatima Parker-Allie (F.Parker@sanbi.org.za)
-<p align="center">SANBI-GBIF Node Manager
-<p align="center">Foundational Biodiversity Science Division
-<p align="center">SANBI
+
+
+| Contact Us                                     | Social Media          
+| -------------                                  |:-------------:|
+|Fatima Parker-Allie (F.Parker@sanbi.org.za)    |https://www.sanbi.org/
+|SANBI-GBIF Node Manager                        |https://www.gbif.org/country/ZA/summary
+|Foundational Biodiversity Science Division     
+|SANBI
+
+
+  
+
 
