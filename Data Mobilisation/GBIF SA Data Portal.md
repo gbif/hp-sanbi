@@ -1,6 +1,6 @@
-layout
-page
-Data mobilisation
+---
+layout: page
+---
 
 # Data and Data Metrics Overview
 Biodiversity information is the key resource which drives research and innovation, supports planning and policy development processes, informs decisions and is the basis to evaluate progress and impact. It is therefore important that our biodiversity information is managed as a strategic asset that will leverage shared value to South Africa in supporting sustainable decisions towards the broader national developmental objectives.
