@@ -1,6 +1,6 @@
 ---
 lang-ref: about
-title: Welcome to the SANBI-GBIF Node Website 2
+title: Welcome to the SANBI-GBIF Node Website
 description: 
 background: /assets/images/moss.jpg
 imageLicense: |
