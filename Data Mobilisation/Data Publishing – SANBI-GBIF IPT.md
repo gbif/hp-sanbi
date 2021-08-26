@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 # Publishing by South African Institutions
 
 ![Data mobilization](/assets/images/Datamobilization.jpg)
