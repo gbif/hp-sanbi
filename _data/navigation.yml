@@ -1,5 +1,5 @@
 - text: About
-  menu: # Dropdown menu (one level deep only)
+ menu: # Dropdown menu (one level deep only)
   - text: Contact Us
     href: /Contact Us
   - text: Network Partners
