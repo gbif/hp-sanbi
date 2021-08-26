@@ -1,3 +1,4 @@
 # Publishing by South African Institutions
 
-![alt text](image.jpg)
+![Data mobilization](/assets/images/Data mobilization.jpg)
+![Data mobilization](/assets/images/Data mobilization 1.jpg)
