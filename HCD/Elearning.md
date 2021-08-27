@@ -32,8 +32,11 @@ digitise, share and use biodiversity information.
 
 SANBI-GBIF supports the community through physical training events and an online eLearning Platform, as a repository of re-usable training materials for various
 scientific areas including: data management (data cleaning, formatting and publishing), geo-referencing, data mobilisation, data use and its applications.  
-SANBI wishes to recognize GBIF-Spain who is the host of the eLearning Platform Technology.   
+SANBI wishes to recognize GBIF-Spain who is the host of the eLearning Platform Technology.  
+
+![Training Schedule](/assets/images/TrainingSchedule.jpg)
 
 [Training-and-e-learning](https://elearning.gbif.es)
+
 
 
