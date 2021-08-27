@@ -20,3 +20,5 @@ the SANBI-GBIF Node has been instrumental in developing a holistic approach to c
 
 **Holistic Apporoach to Human Capital Development**
 ![Holistic Approach to Human Development](/assets/images/Holistic.jpg)
+
+**Training and e-Learning**
