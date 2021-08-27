@@ -6,12 +6,12 @@ description: Most layout assume the fields `background`, `title` and an optional
 ---
 # **Links and Resources**
 
-##   **Strategy documents**
+## Strategy Documents
    - Annual Report
    - Strategic Plans
     
  ## **Technical Documents/Papers/Manuals**
-   - GBIO
+   -
    - White paper-STI
    - Position Paper-fitness for use
    - New GBIF Manuals
