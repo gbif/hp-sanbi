@@ -12,3 +12,7 @@ Ultimately, we need to ensure that the data which supports our analysis, are mob
 
 # Data Metrics 
 South African institutions have published over 28 000 000 primary biodiversity data records which are globally distributed.  These occurrences are distributed across the different plant kingdoms, with a vaste majority belonging to the Kingdom Animalia.  Birds, make up a large proportion of the animal data, followed by insects, mammals and bony fish. The plant data also comprise over 2 million biodiversity data records, which is a very significant contribution from the botanical network of partners.
+
+![Data Avalialbility](/assets/images/Taxonomiccoverage1.jpg)
+
+![Data Avalialbility](/assets/images/DataAvailability.jpg)
