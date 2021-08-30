@@ -13,10 +13,11 @@
     href: /Data Mobilisation/Data-Publishing
   - text: Data-Science-Policy/Data Use and Impact
     href: /Data Mobilisation/Data-Science-Policy and Data Use and impact
-- text: HCD
+- text: Human Capital Development
+    href: /Human Capital Development
 - menu:
   - text: Elearning
-    href: /HCD/Elearning
+    href: /Human Capital Development/Elearning
 - text: Regional Engagement
   href: /Regional Engagement
 - text: News/Events
