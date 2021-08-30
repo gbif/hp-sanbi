@@ -11,7 +11,6 @@ description: Most layout assume the fields `background`, `title` and an optional
    - Strategic Plans
     
 ## Technical Documents/Papers/Manuals
-   -
    - White paper-STI
    - Position Paper-fitness for use
    - New GBIF Manuals
