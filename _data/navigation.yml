@@ -2,7 +2,7 @@
 - menu: # Dropdown menu (one level deep only)
     href: /About-us/About-us/
   - text: Network Partners
-    href: /About Us/Network Partners
+    href: /About-us/Network Partners
 - text: Data Mobilisation
 - menu: # Dropdown menu (one level deep only)
   - text: GBIF SA Data Portal
