@@ -25,7 +25,7 @@ the SANBI-GBIF Node has been instrumental in developing a holistic approach to c
 - iii) to improve the quality and use of data
 - iv) to grow an inspired and coordinated network in biodiversity informatics/information management
 
-**Holistic Apporoach to Human Capital Development**
+**Holistic Approach to Human Capital Development**
 ![Holistic Approach to Human Development](/assets/images/Holistic.jpg)
 
 **Training and e-Learning**
@@ -39,11 +39,14 @@ digitise, share and use biodiversity information.
 
 SANBI-GBIF supports the community through physical training events and an online eLearning Platform, as a repository of re-usable training materials for various
 scientific areas including: data management (data cleaning, formatting and publishing), geo-referencing, data mobilisation, data use and its applications.  
-SANBI wishes to recognize GBIF-Spain who is the host of the eLearning Platform Technology.  
+SANBI wishes to recognize GBIF-Spain who is the host of the eLearning Platform Technology. 
+
+# Click on link to go to the SANBI-GBIF eLearning Platform
+
+[Training-and-e-learning](https://elearning.gbif.es)                
+
 
 ![Training Schedule](/assets/images/TrainingSchedule.jpg)
-
-[Training-and-e-learning](https://elearning.gbif.es)
 
 
 
