@@ -1,3 +1,7 @@
+- text: HCD
+- menu:
+  - text: Elearning
+    href: /HCD/Elearning
 - text: Regional Engagement
   href: /Regional Engagement
 - text: News/Events
