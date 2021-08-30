@@ -1,7 +1,10 @@
 ---
-layout: page
+layout: default
+title: HCD
+background: https://via.placeholder.com/1000x400
+description: Most layout assume the fields `background`, `title` and an optional `description`
 ---
-# **Human Capital Development**
+# Human Capital Development
 In South Africa, as in other parts of the world, Biodiversity Informatics is a young field, lies at the nexus of a number of disciplines.  
 The broad application of information science and computational tools to the management and analysis of biodiversity data including species’ occurrences,
 taxonomic characters, and multimedia and image data, have led to the development of the emerging field of biodiversity informatics.  Thus, biodiversity 
