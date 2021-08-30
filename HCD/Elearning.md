@@ -41,9 +41,8 @@ SANBI-GBIF supports the community through physical training events and an online
 scientific areas including: data management (data cleaning, formatting and publishing), geo-referencing, data mobilisation, data use and its applications.  
 SANBI wishes to recognize GBIF-Spain who is the host of the eLearning Platform Technology. 
 
-# Click on link to go to the SANBI-GBIF eLearning Platform
-
-[Training-and-e-learning](https://elearning.gbif.es)                
+# Link to the SANBI-GBIF eLearning Platform -  [Training-and-e-learning](https://elearning.gbif.es) 
+              
 
 
 ![Training Schedule](/assets/images/TrainingSchedule.jpg)
