@@ -1,5 +1,8 @@
 ---
-layout: page
+layout: default
+title: Data mobilisation
+background: https://via.placeholder.com/1000x400
+description: Most layout assume the fields `background`, `title` and an optional `description`
 ---
 # **Data mobilisation**
 Biodiversity information is the key resource which drives research and innovation, supports planning and policy development processes, informs decisions and is the basis to evaluate progress and impact. It is therefore important that our biodiversity information is managed as a strategic asset that will leverage shared value to South Africa in supporting sustainable decisions towards the broader national developmental objectives.
