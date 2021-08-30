@@ -1,5 +1,7 @@
-- text About Us
-  href: /About-us
+  - text: About Us
+  - menu:
+  - text: Contact Us
+    href: /Contact-us
 - text: Data Mobilisation
 - menu:
   - text: GBIF SA Data Portal
