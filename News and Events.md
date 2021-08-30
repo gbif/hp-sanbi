@@ -1,8 +1,10 @@
 ---
 layout: default
-title: News and Events
+title: Reources and useful links
+background: https://via.placeholder.com/1000x400
+description: Most layout assume the fields `background`, `title` and an optional `description`
 ---
-# **News and Events**
+# News and Events
 
   
 | **GBIF Young Researchers Award in biodiversity informatics** | **The 2021 Ebbe Nielsen Challenge**|
