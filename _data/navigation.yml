@@ -1,11 +1,12 @@
 - text: About Us
   href: /About
 - menu:
-  - text: Contact Us
-    href: /Contact-us
-  - text: Network Partners
-    href: /Network Partners
+ - text: Contact Us
+   href: /Contact-us
+ - text: Network Partners
+   href: /Network Partners
 - text: Data Mobilisation
+  href: /Data Mobilisation
  - menu:
   - text: GBIF SA Data Portal
     href: /Data Mobilisation/GBIF SA Data Portal
