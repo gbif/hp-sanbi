@@ -1,4 +1,9 @@
-
+---
+layout: default
+title: Regional Engagement
+background: https://via.placeholder.com/1000x400
+description: Most layout assume the fields `background`, `title` and an optional `description`
+---
 # Regional Engagement
 ![Regional Engagement](/assets/images/Regionalengagement.jpg)
 
