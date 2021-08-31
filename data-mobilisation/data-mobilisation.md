@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Data mobilisation
-background: https://via.placeholder.com/1000x400
+background: assets/images/Mountains.jpg
 description: Most layout assume the fields `background`, `title` and an optional `description`
 permalink: /data-mobilisation
 ---
