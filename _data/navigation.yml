@@ -1,5 +1,5 @@
   - text: About Us
-    href: /About Us/About Us/
+    href: /About
   - text: Network Partners
     href: /About Us/Network Partners
 - text: Data Mobilisation
@@ -11,9 +11,10 @@
   - text: Data-Science-Policy/Data Use and Impact
     href: /Data Mobilisation/Data-Science-Policy and Data Use and impact
 - text: Human Capital Development
+  href: /Human Capital D
 - menu: # Dropdown menu (one level deep only)
   - text: Elearning
-    href: /HCD/Elearning
+    href: /Elearning
 - text: Regional Engagement
   href: /Regional Engagement
 - text: News/Events
