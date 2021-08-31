@@ -1,7 +1,7 @@
 ---
 layout: page
 title: contact-us
-background: /assets/images/moss.jpg
+background: /assets/images/20201004_CoralTree_MagicForest.jpg
 description: Most layout assume the fields `background`, `title` and an optional `description`
 permalink: contact-us
 ---
