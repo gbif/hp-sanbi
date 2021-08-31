@@ -1,7 +1,7 @@
-  - text: About Us
-    href: /About
-  - text: Network Partners
-    href: /About Us/Network Partners
+ - text: About Us
+   href: /About
+ - text: Network Partners
+   href: /About Us/Network Partners
 - text: Data Mobilisation
 - menu: # Dropdown menu (one level deep only)
   - text: GBIF SA Data Portal
