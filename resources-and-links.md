@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Resources and useful links
-background: https://via.placeholder.com/1000x400
+background: assets/images/ProteaBettysBay.jpg
 description: Most layout assume the fields `background`, `title` and an optional `description`
 ---
 # Links and Resources
