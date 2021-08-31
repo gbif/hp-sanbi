@@ -7,7 +7,7 @@ description: |
   
   SANBI-GBIF aims to support and grow a network of partners in biodiversity informatics through data mobilisation, capacity enhancement, publication and use. The Node provides   access to biodiversity occurrence records published by South African Institutions.
      
-background: https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Fstatic.inaturalist.org%2Fphotos%2F58912610%2Foriginal.jpeg%3F1577953995
+background: /assets/images/20180114_tsitsikamma-res.jpg
 imageLicense: |
   *Xylaria hypoxylon* (L.) Grev. Photo by Alexis via [iNaturalist](https://www.gbif.org/occurrence/2542961803)
  
