@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Regional Engagement
-background: https://via.placeholder.com/1000x400
+background: assets/images/LandscapeBettysBay.jpg
 description: Most layout assume the fields `background`, `title` and an optional `description`
 ---
 # Regional Engagement
