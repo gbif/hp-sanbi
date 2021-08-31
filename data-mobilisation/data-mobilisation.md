@@ -2,7 +2,7 @@
 layout: post
 title: Data mobilisation
 background: assets/images/Mountains.jpg
-description: Most layout assume the fields `background`, `title` and an optional `description`
+description: 
 permalink: /data-mobilisation
 ---
 
