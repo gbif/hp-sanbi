@@ -1,9 +1,8 @@
 - text: About Us
   href: /about
 - menu: # Dropdown menu (one level deep only)  
- - text: Contact Us
-   href: /Contact-us
-
+- text: Contact us
+  href: /Contact-us
 
  
 
