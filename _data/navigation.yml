@@ -1,5 +1,13 @@
-- text: Human Capital Development
-  href: /Human Capital D
+- text: Data Mobilisation
+- menu: # Dropdown menu (one level deep only)
+ - text: GBIF SA Data Portal
+   href: /Data Mobilisation/GBIF SA Data Portal
+ - text: Data Publishing-SANBI-GBIF IPT
+   href: /Data Mobilisation/Data Publishing-SANBI-GBIF IPT
+ - text: Data-Science-Policy/Data Use and Impact
+   href: /Data Mobilisation/Data-Science-Policy and Data Use and impact
+ - text: Human Capital Development
+   href: /Human Capital D
 - menu: # Dropdown menu (one level deep only)
   - text: Elearning
     href: /HCD/Elearning
