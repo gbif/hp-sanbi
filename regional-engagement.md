@@ -2,7 +2,7 @@
 layout: page
 title: Regional Engagement
 background: assets/images/LandscapeBettysBay.jpg
-description: Most layout assume the fields `background`, `title` and an optional `description`
+description: 
 ---
 # Regional Engagement
 ![Regional Engagement](/assets/images/Regionalengagement.jpg)
