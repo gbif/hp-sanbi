@@ -1,8 +1,5 @@
- - text: Human Capital Development
-   href: /Human Capital D
- - menu: # Dropdown menu (one level deep only)
-  - text: Elearning
-    href: /HCD/Elearning
+- text: Human Capital Development
+  href: /Human Capital D
 - text: Regional Engagement
   href: /Regional Engagement
 - text: News/Events
