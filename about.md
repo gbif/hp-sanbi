@@ -9,7 +9,8 @@ height: 70vh
 ---
 
 # **About us**
-SANBI-GBIF is a network consisting of key national partners and stakeholders who provide and publish data through the SANBI-GBIF portal or to GBIF directly through the Integrated Publishing Toolkit (IPT) enabling the Node to support national reporting.  This also includes the end-user community that makes use of the data. The scope of the efforts of the SANBI-GBIF Node has extended towards  driving regional and international collaborations and strategic approaches to supporting biodiversity informatics.  
+SANBI-GBIF is a network consisting of key national partners and stakeholders who provide and publish data through the SANBI-GBIF portal or to GBIF directly through the Integrated Publishing Toolkit (IPT) enabling the Node to support national reporting.  This also includes the end-user community that makes use of the data. The scope of the efforts of the SANBI-GBIF Node has extended towards  driving regional and international collaborations and strategic approaches to supporting biodiversity informatics.
+
 End Users and Partners include museums, herbaria, universities, conservation agencies, government agencies and departments and non-governmental organisations.  It is intended to build the network of data providers and contributors to the initiative, so that the Node can best serve the country’s needs by mobilising foundational data to fill the data and knowledge gaps in support of education, research, analysis and use that is necessary for decision making for sustainable development.
 
 # **Our history**
