@@ -2,7 +2,7 @@
 title:  GBIF Young Researchers Award in biodiversity informatics
 date:   2021-08-31
 # categories: jekyll update
-background: http://via.placeholder.com/600x300
+background: /assets/images/ProteaBettysBay.jpg
 ---
 
 The SANBI-GBIF Node, in consultation with the Department of Science and Innovation is calling South African graduate students in Masters and Doctorate programmes at universities, whose studies rely on GBIF mediated data for the 2021 GBIF Young Researchers Award in biodiversity informatics.
