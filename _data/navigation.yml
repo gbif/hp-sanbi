@@ -1,8 +1,7 @@
- - text: About Us
-   href: /About
- - menu: # Dropdown menu (one level deep only
- - text: Network Partners
-   href: /Network Partners
+  - text: About Us
+    href: /About
+  - text: Network Partners
+    href: /About Us/Network Partners
 - text: Data Mobilisation
 - menu: # Dropdown menu (one level deep only)
   - text: GBIF SA Data Portal
@@ -11,11 +10,10 @@
     href: /Data Mobilisation/Data Publishing-SANBI-GBIF IPT
   - text: Data-Science-Policy/Data Use and Impact
     href: /Data Mobilisation/Data-Science-Policy and Data Use and impact
-- text: Human Capital Development
-  href: /Human Capital D
+- text: HCD
 - menu: # Dropdown menu (one level deep only)
   - text: Elearning
-    href: /Elearning
+    href: /HCD/Elearning
 - text: Regional Engagement
   href: /Regional Engagement
 - text: News/Events
