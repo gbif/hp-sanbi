@@ -4,7 +4,7 @@
   - text: Contact US
     href: /Contact-us
   - text: Network Partners
-    href: /About Us/Network Partners
+    href: /Network Partners
 - text: Data Mobilisation
 - menu: # Dropdown menu (one level deep only)
   - text: GBIF SA Data Portal
