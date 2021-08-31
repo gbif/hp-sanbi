@@ -1,8 +1,5 @@
-- text: About Us
-  href: /About
-- menu: # Dropdown menu (one level deep only)
- - text: Contact US
-   href: /Contact-us
+ - text: About Us
+   href: /About
  - text: Network Partners
    href: /Network Partners
 - text: Data Mobilisation
