@@ -6,7 +6,7 @@
 columns:
   - name: SANBI-GBIF Node Manager (F.Parker@sanbi.org.za)
     description: | # Can be Markdown
-      Social icons links defined in `_config.yml`
+ #    Social icons links defined in `_config.yml`
       * Kirstenbosch
       * Cape Town
       * South Africa
