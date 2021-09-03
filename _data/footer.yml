@@ -2,11 +2,12 @@
 # You can also add a small print license statement at the bottom.
 
 # Columns (the more you add, the narrower they will be)
-background: [footer](/assets/images/footer.jpg)
+
 
 columns:
   - name: SANBI-GBIF Node Manager (F.Parker@sanbi.org.za)
     description: | # Can be Markdown
+    background: [footer](/assets/images/footer.jpg)
  # Social icons links defined in `_config.yml`
       * Kirstenbosch
       * Cape Town
