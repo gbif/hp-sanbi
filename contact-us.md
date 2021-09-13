@@ -1,5 +1,5 @@
 ---
-layout: hero
+layout: compose
 title: Contact Us
 background: /assets/images/20201004_CoralTree_MagicForest.jpg
 description:
