@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Contact Us
 background: /assets/images/20201004_CoralTree_MagicForest.jpg
 description:
