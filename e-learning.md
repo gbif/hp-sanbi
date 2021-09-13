@@ -18,8 +18,8 @@ SANBI-GBIF supports the community through physical training events and an online
 scientific areas including: data management (data cleaning, formatting and publishing), geo-referencing, data mobilisation, data use and its applications.  
 SANBI wishes to acknowledge GBIF-Spain, as the host of the eLearning Technology Platform. 
 
-# Link to the SANBI-GBIF eLearning Platform -  [Training-and-e-learning](https://elearning.gbif.es) 
-              
+# Link to the SANBI-GBIF eLearning Platform  
+# [Training-and-e-learning](https://elearning.gbif.es)             
 | Number|Course Name|Trainer|Date| Venue|
 | :------- | :-----: | ----: | :------: | --: |
 |1|Biodiversity Data Science|Dr. Zingfa Wala, Ms Parker-Allie, Mr. Selwyn Willoughby, Douglas Harebottle| |Kirstenbosch|
