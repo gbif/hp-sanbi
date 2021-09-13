@@ -20,7 +20,7 @@ scientific areas including: data management (data cleaning, formatting and publi
 SANBI wishes to acknowledge GBIF-Spain, as the host of the eLearning Technology Platform. 
 
 # SANBI-GBIF eLearning Platform Link 
-[Training-and-e-learning](https://elearning.gbif.es) 
+[Training-and-e-learning Link](https://elearning.gbif.es) 
 
 | Course Name     | Trainer     | Date    |Venue |
 | :------------- | :----------: | :----------: |----------:|
