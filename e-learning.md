@@ -21,5 +21,5 @@ SANBI wishes to acknowledge GBIF-Spain, as the host of the eLearning Technology 
 # Link to the SANBI-GBIF eLearning Platform  
 # [Training-and-e-learning](https://elearning.gbif.es)             
 | Number|Course Name|Trainer|Date| Venue|
-| :------- | :-----: | ----: | :------: | --:|
+| :------- | :-----: | :----: | :------: | --:|
 
