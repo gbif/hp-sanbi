@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Elearning
-background: https://via.placeholder.com/1000x400
-description: Most layout assume the fields `background`, `title` and an optional `description`
+background: /assets/images/20201004_CoralTree_MagicForest.jpg
+description: 
 ---
 
 **Training and e-Learning**
