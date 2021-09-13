@@ -10,7 +10,7 @@ description: Most layout assume the fields `background`, `title` and an optional
    - Annual Report
    - Strategic Plans
     
-## Technical Documents/Papers/Manuals
+## Technical Documents
    - White paper-STI
    - Position Paper-fitness for use
    - New GBIF Manuals
