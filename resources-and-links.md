@@ -6,25 +6,13 @@ description: Most layout assume the fields `background`, `title` and an optional
 ---
 # Links and Resources
 
-## Strategy Documents
-   - Annual Report
-   - Strategic Plans
-    
-## Technical Documents
-   - White paper-STI
-   - Position Paper-fitness for use
-   - New GBIF Manuals
-   - GBIF Science Review
-   - Task group Recommendations
-   - Scientific Papers
-   
-## Usefull Website Links
- 
- - GBIF - https://www.gbif.org/
- - IPBES - https://www.ipbes.net/
- - TDWG - https://www.tdwg.org/
- - GEOBON - https://geobon.org/
- - Data Carpentries - Data Carpentry for Biologists
- - Biodiversity Informatics Training Curriculum-http://biodiversity-informatics-training.org/
- - iNaturalist - https://www.inaturalist.org/
- - Atlas of Living Australia - https://www.ala.org.au/ 
+## Strategy Documents                                    Technical Documents                        Usefull Website Links
+   - Strategic Plans                                     GBIO                                       GBIF - https://www.gbif.org/
+   - Twenty Year review of GBIF (CODATA,Paris 2020)      White Paper - STI                          IPBES - https://www.ipbes.net/
+   - A world that counts                                 Position Paper - fitness for use           TDWG - https://www.tdwg.org/
+                                                         New GBIF Manuals                           GEOBON - https://geobon.org/
+                                                         GBIF Science Review                        Data Carpentries - Data Carpentry for Biologists
+                                                         Task group Recommendations                 Biodiversity Informatics Training Curriculum-http://biodiversity-informatics-                                                                                                       training.org/
+                                                                                                    iNaturalist - https://www.inaturalist.org/
+                                                                                                    Atlas of Living Australia - https://www.ala.org.au/ 
+
