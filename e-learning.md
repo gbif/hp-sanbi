@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Elearning
 background: https://via.placeholder.com/1000x400
 description: Most layout assume the fields `background`, `title` and an optional `description`
@@ -19,7 +19,9 @@ scientific areas including: data management (data cleaning, formatting and publi
 SANBI wishes to acknowledge GBIF-Spain, as the host of the eLearning Technology Platform. 
 
 # Link to the SANBI-GBIF eLearning Platform  
-# [Training-and-e-learning](https://elearning.gbif.es)             
-| Number|Course Name|Trainer|Date| Venue|
-| :------- | :-----: | :----: | :------: | --:|
+# [Training-and-e-learning](https://elearning.gbif.es) 
+
+| Course Name     | Trainer     | Data    |Venue |
+| :------------- | :----------: | :----------: |----------:|
+|Biodiversity Data Science | Dr.Zingfa Wala, Ms Parker-Aillie, Mr. Selwyn Willoughby, Douglas Harebottle   ||Kirstenbosch|
 
