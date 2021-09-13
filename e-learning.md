@@ -21,10 +21,5 @@ SANBI wishes to acknowledge GBIF-Spain, as the host of the eLearning Technology 
 # Link to the SANBI-GBIF eLearning Platform  
 # [Training-and-e-learning](https://elearning.gbif.es)             
 | Number|Course Name|Trainer|Date| Venue|
-| :------- | :-----: | ----: | :------: | --: |
-|1|Biodiversity Data Science|Dr. Zingfa Wala, Ms Parker-Allie, Mr. Selwyn Willoughby, Douglas Harebottle| |Kirstenbosch|
-|2|Niche Modelling|Dr.Vernon Visser| |Kirstenbosch|
-|3|Bioinformatics training|Dr. Morne du Plessis| |Kirstenbosch|
-|4|Data Management|Dr. Vernon Visser|| Kirstenbbosch| 
-|5|Biodiversity Informatics|Fatima Parker-Allie and Selwyn Willoughby| |Kirstenbosch|
+| :------- | :-----: | ----: | :------: | --:|
 
