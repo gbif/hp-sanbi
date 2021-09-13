@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Resources and useful links
 background: assets/images/ProteaBettysBay.jpg
 description: Most layout assume the fields `background`, `title` and an optional `description`
