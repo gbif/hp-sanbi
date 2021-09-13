@@ -27,4 +27,4 @@ SANBI wishes to acknowledge GBIF-Spain, as the host of the eLearning Technology 
 |Niche Modelling|Dr.Vernon Visser||Kirstenbosch|
 |Bioinformatics training|Dr.Morne du Plessis| |Kirstenbosch|
 |Data Management| Dr.Vernon Visser| |Kirstenbosch|
-|Biodiversity Informatics|Fatima Parker-Allie and Selwyn Wiloughby|Kirstenbosch|
+|Biodiversity Informatics|Fatima Parker-Allie and Selwyn Wiloughby||Kirstenbosch|
