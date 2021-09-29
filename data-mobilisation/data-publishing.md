@@ -1,9 +1,9 @@
 ---
-layout: page
+layout: post
 title: Data-Publishing
 background: https://via.placeholder.com/1000x400
 description: 
-permalink: data-publishing
+permalink: /data-publishing
 ---
 
 SANBI-GBIF IPT - linking
