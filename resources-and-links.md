@@ -13,6 +13,6 @@ description:
 ||New GBIF Manuals |GEOBON - https://geobon.org/|                                                      
 ||GBIF Science Review|Data Carpentries- Data Carpentry for Biologists|||
 ||Task group Recommendations|Biodiversity Informatics Training Curriculum-http://biodiversity-informatics-training.org/|                                                           
-|||iNaturalist - https://www.inaturalist.org/|                                                      |                                               |                             |||Atlas of Living Australia - https://www.ala.org.au/ |                                          
+|||iNaturalist - https://www.inaturalist.org/|                                                      |                                               |                             |||Atlas of Living Australia - https://www.ala.org.au/|                                          
                                                                                                    
 
