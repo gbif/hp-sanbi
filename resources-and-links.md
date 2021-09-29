@@ -2,7 +2,7 @@
 layout: page
 title: Resources and useful links
 background: assets/images/ProteaBettysBay.jpg
-description: Most layout assume the fields `background`, `title` and an optional `description`
+description: 
 ---
 
 | Strategy Documents| Technical Documents|Usefull Website Links|
