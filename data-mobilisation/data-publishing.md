@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Data-Publishing
-background: https://via.placeholder.com/1000x400
+background: assets/images/Mountains.jpg
 description: 
 permalink: /data-publishing
 ---
