@@ -1,5 +1,5 @@
 ---
-layout: layout
+layout: page
 title: Data-Publishing
 background: https://via.placeholder.com/1000x400
 description: 
