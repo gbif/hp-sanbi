@@ -11,7 +11,7 @@ description:
 |Twenty Year review of GBIF (CODATA,Paris 2020)|White Paper-STI|IPBES - https://www.ipbes.net/|
 |A world that counts|Positon Paper - fitness for use|TDWG - https://www.tdwg.org/|
 ||New GBIF Manuals |GEOBON - https://geobon.org/|                                                      
-||GBIF Science Review|Data Carpentries- Data Carpentry for Biologists|||
+||GBIF Science Review|Data Carpentries- <u>Data Carpentry for Biologists</u>|||
 ||Task group Recommendations|Biodiversity Informatics Training Curriculum-http://biodiversity-informatics-training.org/|                                                           
 |||iNaturalist - https://www.inaturalist.org/|                                                      |                                               |                             |||Atlas of Living Australia - https://www.ala.org.au/| 
 ||||
