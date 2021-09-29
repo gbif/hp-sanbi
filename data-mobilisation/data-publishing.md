@@ -8,4 +8,4 @@ permalink: /data-publishing
 
 SANBI-GBIF IPT - linking
 
-[ipt Link](http://ipt.sanbi.org.za/iptsanbi/)                                                     
+[SANBI-GBIF IPT](http://ipt.sanbi.org.za/iptsanbi/)                                                     
