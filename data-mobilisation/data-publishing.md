@@ -6,4 +6,6 @@ description:
 permalink: data-publishing
 ---
 
-                                                      [ipt Link http://ipt.sanbi.org.za/iptsanbi/](http://ipt.sanbi.org.za/iptsanbi/)
+SANBI-GBIF IPT - linking
+
+[ipt Link](http://ipt.sanbi.org.za/iptsanbi/)                                                     
