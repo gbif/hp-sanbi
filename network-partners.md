@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Network Partners
-background: https://via.placeholder.com/1000x400
+background: /assets/images/Strelitzia.jpg
 description: 
 ---
   **SANBI-GBIF Network of Partners**
