@@ -19,14 +19,11 @@ scientific areas including: data management (data cleaning, formatting and publi
 
 SANBI wishes to acknowledge GBIF-Spain, as the host of the eLearning Technology Platform. 
 
-# SANBI-GBIF eLearning Platform Link
+[SANBI-GBIF eLearning Platform Link](https://elearning.gbif.es) 
 
-[Training-and-e-learning Link](https://elearning.gbif.es) 
+| Number     | Course    | Trainer/s   |Date |Venue|
+| :------------- | :---------- | :---------- |:----------|:----------|
+|1|Data Management and Cleaning supporting science, policy and sustainable development|Vernon Visser, Fatima Parker-Allie and Hannelie Snyman|February 2022|Kirstenbosch National Botanical Gardens|
+|2|Species Distribution Modelling|Vernon Visser|To be Confirmed (2022)|Kirstenbosch National Botanical Gardens|
+|3|Biodiversity Informatics: Data Analysis, Use and Impact|Vernon Visser|To be Confirmed (2022)|Kirstenbosch National Botanical Gardens|
 
-| Course Name     | Trainer     | Date    |Venue |
-| :------------- | :----------: | :----------: |----------:|
-|Biodiversity Data Science | Dr.Zingfa Wala, Ms Parker-Aillie, Mr. Selwyn Willoughby, Douglas Harebottle   ||Kirstenbosch|
-|Niche Modelling|Dr.Vernon Visser||Kirstenbosch|
-|Bioinformatics Training|Dr.Morne du Plessis| |Kirstenbosch|
-|Data Management| Dr.Vernon Visser| |Kirstenbosch|
-|Biodiversity Informatics|Fatima Parker-Allie and Selwyn Wiloughby||Kirstenbosch|
