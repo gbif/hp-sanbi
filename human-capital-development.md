@@ -22,7 +22,7 @@ of science, policy and decision-making.  In order to support this activity at th
 the SANBI-GBIF Node has been instrumental in developing a **holistic approach to capacity development in Biodiversity Informatics.**  This includes: 
 
 
-- a 5 year strategy and a curriculum for biodiversity informatics which is core to the development of academic and work-based teaching and training efforts;</li>
+- a 5 year strategy and a curriculum for biodiversity informatics which is core to the development of academic and work-based teaching and training efforts;
 - developing robust in-house capacity
 - to improve the quality and use of data
 - to grow an inspired and coordinated network in biodiversity informatics/information management
