@@ -26,6 +26,8 @@ the SANBI-GBIF Node has been instrumental in developing a **holistic approach to
 - developing robust in-house capacity
 - to improve the quality and use of data
 - to grow an inspired and coordinated network in biodiversity informatics/information management
+
+![Holistic Approach to Capacity Development](assets/images/Holistic.jpg)
   
 
 
