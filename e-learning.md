@@ -5,7 +5,7 @@ background: /assets/images/20201004_CoralTree_MagicForest.jpg
 description: 
 ---
 
-# Training and e-Learning
+# Training and eLearning
 
 **To support capacity enhancement activities in the network SANBI-GBIF aims to:** 
 
