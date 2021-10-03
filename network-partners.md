@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Network Partners
 background: /assets/images/Strelitzia.jpg
 description: 
