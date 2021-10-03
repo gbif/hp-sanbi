@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Human Capital Development
 background: /assets/images/HCD2.jpg
 description: 
