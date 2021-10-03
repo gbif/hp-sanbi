@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Human Capital Development
-background: https://assets/images/HCD2.jpg
+background: /assets/images/HCD2.jpg
 description: 
 ---
 # Human Capital Development
