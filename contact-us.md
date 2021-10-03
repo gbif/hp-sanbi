@@ -1,12 +1,13 @@
 ---
-layout: page
+layout: post
 title: Contact Us
 background: /assets/images/20201004_CoralTree_MagicForest.jpg
 description:
 permalink: contact-us
 ---
                                                        
-                                                        
+         
+         Fatima Parker-Allie                                             
          SANBI-GBIF Node Manager                                 Dr Yonah Seleti
          Foundational Biodiversity Science Division              Head of delegation
          South African National Biodiversity Institute           Department of Science and Innovation
