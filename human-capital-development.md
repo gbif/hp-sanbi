@@ -2,7 +2,7 @@
 layout: default
 title: Human Capital Development
 background: https://via.placeholder.com/1000x400
-description: Most layout assume the fields `background`, `title` and an optional `description`
+description: 
 ---
 # Human Capital Development
 In South Africa, as in other parts of the world, Biodiversity Informatics is a young field, lies at the nexus of a number of disciplines.  
