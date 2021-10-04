@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Resources and useful links
-background: assets/images/ProteaBettysBay.jpg
+background: assets/images/Protea.jpg
 description: 
 ---
 
