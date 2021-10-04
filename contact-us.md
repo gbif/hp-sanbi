@@ -29,6 +29,6 @@ permalink: contact-us
     Newlands, 7735                                           building 53, CSIR Campus Meiring Naude, Brumeria
     Cape Town, South Africa                                  Pretoria 0001             
                                                              South Africa
-                                                             <Leluma.matooane@dst.gov.za> 
+                                                             Leluma.matooane@dst.gov.za 
                                                              +27 12 843 6437
                                                           
