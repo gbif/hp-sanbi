@@ -7,6 +7,7 @@
   - name: SANBI-GBIF Node Manager (F.Parker@sanbi.org.za)
     description: | # Can be Markdown
       Social icons links defined in `_config.yml`
+      ![Footer] (/assets/images/sanbi_footer.png)
       * Kirstenbosch
       * Cape Town
       * South Africa
