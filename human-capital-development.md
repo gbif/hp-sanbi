@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-background: assets/images/HCD2.jpg
+background: assets/images/Strelitzia.jpg
 description: 
 ---
 ![Banner](assets/images/HCD2.jpg)
