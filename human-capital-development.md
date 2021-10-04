@@ -4,7 +4,7 @@ title:
 background: assets/images/HCD2.jpg
 description: 
 ---
-![Holistic Approach to Capacity Development](assets/images/HCD2.jpg)
+![Banner](assets/images/HCD2.jpg)
 # Human Capital Development
 In South Africa, as in other parts of the world, Biodiversity Informatics is a young field, lies at the nexus of a number of disciplines.  
 The broad application of information science and computational tools to the management and analysis of biodiversity data including species’ occurrences,
