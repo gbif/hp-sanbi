@@ -5,6 +5,7 @@ background: assets/images/Strelitzia.jpg
 description: 
 ---
 # Regional Engagement
+![Regional Engagement](/assets/images/Regionalengagement.jpg)
 
 Africa is one of the most megadiverse continents in the world.  Here biodiversity plays a critical role in sustainable development, provides vital ecosystem services and is one of our greatest regional assets.  The benefits of biodiversity are crucial to key economic sectors (i.e. forestry, agriculture, fisheries, tourism, health and energy) and to providing solutions to sustainable development and poverty alleviation on the continent. The management of our natural assets and the information related to this are crucial, making it critical that biodiversity is managed as a strategic regional asset. 
 
