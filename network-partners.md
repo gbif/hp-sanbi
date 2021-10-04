@@ -4,13 +4,13 @@ title: Network Partners
 background: /assets/images/Strelitzia.jpg
 description: 
 ---
-  **SANBI-GBIF Network of Partners**
+#  **SANBI-GBIF Network of Partners**
 
 SANBI-GBIF’s Network of Partners are composed of stakeholders from academia, museums and herbaria, provincial agencies, the conservation sector, national government agencies, scientists, research councils and institutions, non-governmental organizations (NGO’s), policymakers, amongst others.
 
 Partners engage with the Node on a range of activities including capacity development, data mobilization and publishing, data use and its applications, strategic engagements, etc.  Partners may have signed the SABIF Data Sharing Agreement, SANBI Institutional Data Sharing Agreement and/or have published data via the SANBI-GBIF Integrated Publishing Toolkit (IPT) or via their own Institutional IPT.  This includes members of the Foundational Biodiversity Information Programme (FBIP), who are publishing biodiversity data via the SANBI-GBIF IPT.  
 
-**Partnerships**
+# **Partnerships**
 
 **Data Partners**
 
