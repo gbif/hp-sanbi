@@ -4,16 +4,22 @@ date:   2021-11-07
 # categories: jekyll update
 background: /assets/images/Strelitzia.jpg
 ---
+An exciting joint project entitled “BioDATA Advanced - Accelerating biodiversity research through DNA barcodes, 
+collection and observation data” was submitted from the Museum of Natural History at the University of Oslo in 
+cooperation with the South African National Biodiversity Institute and 
+Altai State University.  This Partnership between national nodes of GBIF from 
+Norway (GBIF Norway), South Africa (SANBI-GBIF) and the Altai State University including a
+team of researchers from the South Siberian Botanical Garden in Russia, has been successfully
+approved and is to be funded by the Norwegian Agency for International Cooperation and Improvement 
+of the Quality of Higher Education (DIKU), for 5 years.  It is further supported 
+by Professor Dmitry Shchigel (GBIF Secretariat, Copenhagen, Denmark) and the project
+is being led by Professor Hugo de Boer from the University of Oslo, Norway.
 
-An exciting joint project entitled “BioDATA Advanced - Accelerating biodiversity research through DNA barcodes, collection and observation data” was
-submitted from the Museum of Natural History at the University of Oslo in cooperation with the South African National Biodiversity Institute and 
-Altai State University.  This Partnership between national nodes of GBIF from Norway (GBIF Norway), South Africa (SANBI-GBIF) and the Altai State
-University including a team of researchers from the South Siberian Botanical Garden in Russia, has been successfully approved and is to be funded 
-by the Norwegian Agency for International Cooperation and Improvement of the Quality of Higher Education (DIKU), for 5 years.  It is further supported 
-by Professor Dmitry Shchigel (GBIF Secretariat, Copenhagen, Denmark) and the project is being led by Professor Hugo de Boer from the University of Oslo, Norway.
-
-The project will offer young researchers from South Africa, Norway and Russia, the opportunity to participate in academic mobility and professional training
-in the study of biodiversity, using modern skills in the field of methods of obtaining, processing, publishing and using open data.
-Eight courses in advanced biodiversity data skills are planned and six student internships.  The courses are designed to create a network of exchange
-between professionals and students through targeted internships and to facilitate open access to biodiversity data both in the participating countries 
-and around the world.
+The project will offer young researchers from South Africa, Norway and Russia, the opportunity 
+to participate in academic mobility and professional training
+in the study of biodiversity, using modern skills in the field of 
+methods of obtaining, processing, publishing and using open data.
+Eight courses in advanced biodiversity data skills are planned and 
+six student internships.  The courses are designed to create a network of exchange
+between professionals and students through targeted internships and to facilitate
+open access to biodiversity data both in the participating countries and around the world.
