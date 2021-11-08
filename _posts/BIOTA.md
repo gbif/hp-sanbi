@@ -4,6 +4,7 @@ date:   2021-11-07
 # categories: jekyll update
 background: /assets/images/Strelitzia.jpg
 ---
+
 An exciting joint project entitled “BioDATA Advanced - Accelerating biodiversity research through DNA barcodes, 
 collection and observation data” was submitted from the Museum of Natural History at the University of Oslo in 
 cooperation with the South African National Biodiversity Institute and 
