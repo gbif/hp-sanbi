@@ -8,6 +8,8 @@ background: /assets/images/Strelitzia.jpg
 **National Process developed to support biodiversity informatics skills and 
 capacity development - The Establishment of the SANBI-GBIF Young Researchers Award Advisory Panel**
 
+![The Establishment of the SANBI-GBIF Young Researchers Award Advisory Panel](/assets/images/National Process.png)
+
 One of the key focus areas for the SANBI-GBIF Node is to grow capacity and skills in biodiversity informatics, to support the mobilisation, management, use and
 application of biodiversity data for science, policy and decision making. In line with this the Global Biodiversity Information Facility (GBIF) has issued a 
 call for the 2021 **GBIF Young Researchers Award.**  
