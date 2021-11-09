@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Network Partners
-background: /assets/images/Strelitzia.jpg
+background: /assets/images/Partnerships.jpg
 description: 
 ---
 #  **SANBI-GBIF Network of Partners**
