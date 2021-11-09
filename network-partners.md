@@ -50,6 +50,17 @@ Partners engage with the Node on a range of activities including capacity develo
 
 **Academic Partners**
 
+|Institutions  | Partnership Mechanisms|
+| :------------- | :-------------|
+|Sol Plaatje University|Institutional MoU, Post-Doctoral Fellowship Agreement|
+|University of Western Cape|Institutional MoU, Post-Doctoral Fellowship Agreement|
+|University of Cape Town (Centre for Statistics in Ecology)|Institutional MoU, Post-Doctoral Fellowship Agreement, Training Provider Agreement|
+|Rhodes University|SANBI-GBIF Student Agreement|
+|University of Kwazulu Natal|SANBI-GBIF Student Agreement|
+|Conquest Analytics and Training|SANBI-GBIF Training Provider Agreement|
+|University of Witswaterand|SANBI-GBIF Training Provider Agreement|
+
+
 
 
 
