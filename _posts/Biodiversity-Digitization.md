@@ -1,5 +1,5 @@
 ---
-title: Biodiversity-Digitization-Conference
+title: Biodiversity Digitization Conference
 date:   2021-11-7
 # categories: jekyll update
 background: /assets/images/Strelitzia.jpg
