@@ -25,5 +25,43 @@ Partners engage with the Node on a range of activities including capacity develo
 |Durban Natural Science Museum|SABIF Fund Agreements; SANBI Institutional Agreement|
 |East London Museum|FBIP funded Project/s & SANBI-GBIF Data Publisher, SANBI Institutional Data Sharing Agreement|
 |Endangered Wildlife Trust|Institutional MoU; SABIF Fund Agreement|
+|FitzPatrick Institute of African Ornithology/Animal Demography Unit|SANBI Funding Agreements, SANBIF Fund Agreements, SANBIF Data Provider Agreement|
+|Garden Route Botanical Gardens Trust|SABIF Fund Agreement|
+|Hermanus Botanical Society|FBIP funded project & SANBI-GBIF Data Publisher|
+|ziko SA Museum|SABIF Data Provider Agreement, SABIF Fund Agreements, FBIP funded Projects & SANBI-GBIF Data Publisher|
+|Kwa-Zulu-Natal Museum|SABIF Data Provider Agreement /SANBI Institutional Agreement|
+|Nelson Mandela Metropolitan University|FBIP funded project & SANBI-GBIF Data Publisher|
+|North-West University|FBIP funded project & SANBI-GBIF Data Publisher|
+|Rhodes University|SABIF Fund Agreement, FBIP funded project & SANBI-GBIF Data Publisher|
+|South African Environmental Observation Network (SAEON)|FBIP funded Project/s & SANBI-GBIF Data Publisher|
+|South African Institute for Aquatic Biodiversity|SABIF Data Provider Agreement, SABIF Fund Agreements|'
+|Stellenbosch University|FBIP funded projects & SANBI-GBIF Data Publisher|
+|University of Kwa-Zulu Natal, Bews Herbarium (NU)|SABIF Fund Agreement, FBIP funded projects & SANBI-GBIF Data Publisher|
+|University of Cape Town - Biological Science Department|FBIP funded project & SANBI-GBIF Data Publisher|
+|University of Cape Town - Botany Department|SABIF Fund Agreement|
+|University of Cape Town - Molecular and Cell Biology Department (MCB)|FBIP funded project & SANBI-GBIF Data Publisher|
+|University of Cape Town (Bolus Herbarium)|SABIF Fund Agreements|
+|University of Johannesburg|FBIP funded project & SANBI-GBIF Data Publisher|
+|University of Mpumalanga|Institutional MoU, FBIP funded project/s & SANBI-GBIF Data Publisher|
+|University of Pretoria|Institutional MoU, SABIF Fund Agreements, FBIP funded projects & SANBI-GBIF Data Publisher|
+|University of the Free State|FBIP funded project/s & SANBI-GBIF Data Publisher|
+|University of the Witwatersrand|Institutional MoU, FBIP funded project/s & SANBI-GBIF Data Publisher|
+|University of Western Cape|FBIP funded project & SANBI-GBIF Data Publisher|
+
+**Academic Partners**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
