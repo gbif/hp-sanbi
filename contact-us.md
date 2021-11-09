@@ -11,7 +11,7 @@ permalink: contact-us
     South African National Biodiversity Institute            Private Bag X894 Pretoria 0001
     Kirstenbosch Research Center P/Bag X 7 Claremont 7735    South Africa
     Cape Town South Africa                                   Yonah.Seleti@dst.gov.za
-    [F.Parker@sanbi.org.za](mailto:F.Parker@sanbi.org.za)    +27 12 843 6450/6683                                                                       
+    F.Parker@sanbi.org.za                                    +27 12 843 6450/6683                                                                       
     + 27 21 799 8698                             
                              
     Joseph Ramagai Sebola                                    Kgahlisho Kgoale Mphahlele                                           
