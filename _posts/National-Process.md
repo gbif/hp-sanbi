@@ -1,5 +1,5 @@
 ---
-title:  National-Process
+title: SANBI-GBIF Young Researchers Award Advisory Panel
 date:   2021-11-07
 # categories: jekyll update
 background: /assets/images/Strelitzia.jpg
