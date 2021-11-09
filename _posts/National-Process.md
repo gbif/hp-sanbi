@@ -1,5 +1,5 @@
 ---
-title:  The Establishment of the SANBI-GBIF Young Researchers Award Advisory Pane
+title:  National-Process
 date:   2021-11-07
 # categories: jekyll update
 background: /assets/images/Strelitzia.jpg
