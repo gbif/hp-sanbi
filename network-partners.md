@@ -12,9 +12,9 @@ Partners engage with the Node on a range of activities including capacity develo
 
 # **Partnerships**
 
-**Data Partners**
+# **Data Partners**
 
-|Institutions  | Partnership Mechanisms|
+|**Institutions**  |**Partnership Mechanisms**|
 | :------------- | :-------------|
 |Agricultural Research Council| SABIF Funding agreements, Institutional MoU, FBIP funded project & SANBI-GBIF Data Publisher|
 |Albany Museum|SABIF Data Provider Agreement / SABIF Fund Agreements; SANBI Institutional Agreement, FBIP funded project & SANBI-GBIF Data Publisher|
@@ -48,9 +48,9 @@ Partners engage with the Node on a range of activities including capacity develo
 |University of the Witwatersrand|Institutional MoU, FBIP funded project/s & SANBI-GBIF Data Publisher|
 |University of Western Cape|FBIP funded project & SANBI-GBIF Data Publisher|
 
-**Academic Partners**
+# **Academic Partners**
 
-|Institutions  | Partnership Mechanisms|
+|**Institutions**  |**Partnership Mechanisms**|
 | :------------- | :-------------|
 |Sol Plaatje University|Institutional MoU, Post-Doctoral Fellowship Agreement|
 |University of Western Cape|Institutional MoU, Post-Doctoral Fellowship Agreement|
@@ -59,6 +59,17 @@ Partners engage with the Node on a range of activities including capacity develo
 |University of Kwazulu Natal|SANBI-GBIF Student Agreement|
 |Conquest Analytics and Training|SANBI-GBIF Training Provider Agreement|
 |University of Witswaterand|SANBI-GBIF Training Provider Agreement|
+
+# **International Partners**
+
+|**International Collaborations**  | |
+| :------------- | :-------------|
+|GBIF Norway|Natural History Museum, University of Oslo|
+|GBIF Spain|Real Jardin Botanico -CSIC, Madrid, Spain|
+|Department of Ecology and Evolutionary Biology|University of Kansas|
+|Australian Biodiversity Information Services| |
+|Vertnet|University of California Berkeley|
+
 
 
 
