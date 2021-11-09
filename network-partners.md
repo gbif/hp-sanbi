@@ -26,4 +26,4 @@ Partners engage with the Node on a range of activities including capacity develo
 |East London Museum|FBIP funded Project/s & SANBI-GBIF Data Publisher, SANBI Institutional Data Sharing Agreement|
 |Endangered Wildlife Trust|Institutional MoU; SABIF Fund Agreement|
 
-![Network of Partners](/assets/images/NetworksofPartners.jpg "Network of Partners")
+
