@@ -2,7 +2,7 @@
 title: SANBI-GBIF Young Researchers Award Advisory Panel
 date:   2021-11-07
 # categories: jekyll update
-background: /assets/images/Strelitzia.jpg
+background: (/assets/images/National Process.png)
 ---
 
 **National Process developed to support biodiversity informatics skills and 
