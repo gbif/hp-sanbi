@@ -1,6 +1,5 @@
 ---
-title:  SANBI-GBIF Partners in the BioDATA Advanced Initiative between Norway, South Africa and Russia 
-date:   2021-11-07
+title:  BIOTA
 # categories: jekyll update
 background: /assets/images/Strelitzia.jpg
 ---
