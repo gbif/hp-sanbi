@@ -1,5 +1,5 @@
 ---
-title:  SANBI-GBIF Participates at the Biodiversity Digitization Conference
+title: Biodiversity-Digitization
 date:   2021-11-7
 # categories: jekyll update
 background: /assets/images/Strelitzia.jpg
