@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about
 title: Contact Us
 background: /assets/images/Protea.jpg
 description:
