@@ -6,6 +6,6 @@ description:
 permalink: /data-publishing
 ---
 
-Click [here](http://ipt.sanbi.org.za/iptsanbi/) to access the SANBI-GBIF IPT Link
+Click [Visit the SANBI IPT](http://ipt.sanbi.org.za/iptsanbi/) to access the SANBI-GBIF IPT Link
 
                                                     
