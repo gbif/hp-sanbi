@@ -6,14 +6,14 @@ description:
 permalink: contact-us
 ---
 
-    Fatima Parker-Allie                                                         Dr Yonah Seleti       
-    SANBI-GBIF Node Manager                                                     Head of delegation
-    Foundational Biodiversity Science Division                                  Department of Science and Innovation
-    South African National Biodiversity Institute                               Private Bag X894 Pretoria 0001
-    Kirstenbosch Research Center P/Bag X 7 Claremont 7735                       South Africa
-    Cape Town South Africa                                                      Yonah.Seleti@dst.gov.za
-    F.Parker@sanbi.org.za                                                       +27 12 843 6450/6683                                                                       
-    + 27 21 799 8698                             
+    Fatima Parker-Allie..                                                  Dr Yonah Seleti       
+    SANBI-GBIF.Node Manager..                                                  Head of delegation
+    Foundational.Biodiversity.Science.Division..                              Department of Science and Innovation
+    South.African.National.Biodiversity.Institute..                            Private Bag X894 Pretoria 0001
+    Kirstenbosch.Research.Center.P/BagX7.Claremont.7735..                    South Africa
+    Cape.Town.South Africa..                                                    Yonah.Seleti@dst.gov.za
+    F.Parker@sanbi.org.za..                                                       +27 12 843 6450/6683                                                                       
+    + 27 21 799 8698</p>                         
                              
     Joseph Ramagai Sebola                                                      Kgahlisho Kgoale Mphahlele                                           
     Chief Director: Foundational Biodiversity Science                          Deputy Director: Earth Systems Science
