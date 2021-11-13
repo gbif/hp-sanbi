@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Training and eLearning
 background: /assets/images/Protea.jpg
 description: 
 ---
