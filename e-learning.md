@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-background: /assets/images/20201004_CoralTree_MagicForest.jpg
+background: /assets/images/Protea.jpg
 description: 
 ---
 # Training and eLearning
