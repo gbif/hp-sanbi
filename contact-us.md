@@ -47,7 +47,7 @@ South Africa<br>
 Leluma.matooane@dst.gov.za<br>
 +27 12 843 6437<br>
 
-Physical Address:<br>                 
+Physical Address<br>
 Kirstenbosch Estate, Rhodes Drive<br>
 Cape Town, South Africa<br>
 
