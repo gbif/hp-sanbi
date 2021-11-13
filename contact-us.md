@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact Us
-background: /assets/images/Protea.jpg
+background: /assets/images/Protea1.jpg
 description:
 permalink: contact-us
 ---
