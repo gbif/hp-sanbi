@@ -2,7 +2,7 @@
 title: Biodiversity Digitization Conference
 date:   2021-11-7
 # categories: jekyll update
-background: /assets/images/.jpg
+background: /assets/images/Biodiversity Digitization.jpg
 ---
 
 # **SANBI-GBIF Participates at the Biodiversity Digitization Conference**
