@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Human Capital development
+title: Human Capital Development
 background: assets/images/Strelitzia.jpg
 description: 
 ---
