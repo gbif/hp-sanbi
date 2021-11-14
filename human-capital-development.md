@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Human Capital Development
-background: assets/images/Strelitzia.jpg
+background: assets/images/HCD2.jpg
 description: 
 ---
 ![Banner](assets/images/HCD2.jpg)
