@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Human Capital Development
-background: assets/images/HCD2.jpg
+background: assets/images/HCDshort.jpg
 description: 
 ---
 ![Banner](assets/images/HCD2.jpg)
