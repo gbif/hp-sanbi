@@ -5,7 +5,7 @@ date:   2021-11-7
 background: /assets/images/Biodiversity Digitization.jpg
 ---
 
-**SANBI-GBIF Participates at the Biodiversity Digitization Conference**
+# **SANBI-GBIF Participates at the Biodiversity Digitization Conference**
 
 A flagship Biodiversity Digitization Conference was held from the 22nd - 23rd September 2021, hosted by
 The U.S. National Museum of Natural History – Smithsonian (NMNH), Integrated Digitized Biocollections (iDigBio), 
