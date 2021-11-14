@@ -7,7 +7,7 @@
   - name: SANBI-GBIF Node Manager (F.Parker@sanbi.org.za)
     description: | # Can be Markdown
       ![Footer](/assets/images/GBIF footer.jpg)
-       * Kirstenbosch
+      * Kirstenbosch
       * Cape Town
       * South Africa
     connectIcons: true
