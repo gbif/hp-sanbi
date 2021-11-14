@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact Us
-background: /assets/images/Lithops.jpg
+background: /assets/images/Ocean1.jpg
 description:
 permalink: contact-us
 ---
