@@ -5,7 +5,7 @@ background: assets/images/Protea3.jpg
 description: 
 ---
 
-| Strategy Documents| Technical Documents|Usefull Website Links|
+| Strategy Documents     | Technical Documents     |Usefull Website Links     |
 | :--------------------- | :---------------------- | :----------------------- |
 | Strategic Plans|Global Biodiversity Informatics Outlook|[GBIF-https://www.gbif.org/](https://www.gbif.org/)|
 |SANBI Annual Report| White Paper on Science, Technology and Innovation|[IPBES - https://www.ipbes.net/](https://www.ipbes.net/)
