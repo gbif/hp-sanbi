@@ -53,8 +53,8 @@ Cape Town, South Africa<br>
 
 
 Social Media<br>
-https://www.sanbi.org<br> 
-https://www.gbif.org/country/ZA/summary<br>                                    
+<https://www.sanbi.org><br> 
+<https://www.gbif.org/country/ZA/summary><br>                                    
 
 
 
