@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: heroImage
+permalink: /layout/hero
 title: Resources and useful links
 background: assets/images/Protea3.jpg
 description: 
