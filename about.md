@@ -1,5 +1,5 @@
 ---
-lang-ref: about
+lang-ref: heroImage
 title: Welcome to the SANBI-GBIF Node Website
 description: 
 background: /assets/images/moss.jpg
