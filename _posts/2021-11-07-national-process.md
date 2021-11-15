@@ -8,7 +8,7 @@ background: /assets/images/Dragonfly.jpg
 # National Process developed to support biodiversity informatics skills and capacity development
 The Establishment of the SANBI-GBIF Young Researchers Award Advisory Panel
 
-![SANBI-GBIF Young Researchers Award Advisory Panel](assets/images/National process.png)
+![SANBI-GBIF Young Researchers Award Advisory Panel](assets/images/Nationalprocess.png)
 
 One of the key focus areas for the SANBI-GBIF Node is to grow capacity and skills in biodiversity informatics,
 to support the mobilisation, management, use and
