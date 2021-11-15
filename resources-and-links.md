@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Resources and useful links
-background: assets/images/Sugarbird.jpg
+background: assets/images/Protea3.jpg
 description: 
 ---
 
