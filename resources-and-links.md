@@ -1,5 +1,5 @@
 ---
-layout: documentation
+layout: compose
 title: Resources and useful links
 background: assets/images/Protea3.jpg
 description: 
