@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: heroImage
 title: Contact Us
 background: /assets/images/Ocean1.jpg
 description:
