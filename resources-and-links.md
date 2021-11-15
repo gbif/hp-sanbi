@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Resources and useful links
-background: assets/images/Protea cynaroides Sugarbird.jpg
+background: assets/images/Sugarbird.jpg
 description: 
 ---
 
