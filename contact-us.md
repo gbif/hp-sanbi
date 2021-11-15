@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Contact Us
 background: /assets/images/Ocean1.jpg
 description:
