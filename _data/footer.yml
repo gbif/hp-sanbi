@@ -7,6 +7,7 @@
   - name: SANBI-GBIF Node Manager (F.Parker@sanbi.org.za)
     description: | # Can be Markdown
       ![Footer](/assets/images/sanbilogo.png)
+      <div style="text-align: right"><img src="/assets/images/sanbilogo.png" width="100" /></div>
       * Kirstenbosch Estate, Rhodes Drive
       *  Cape Town, South Africa
       * <https://www.sanbi.org>     
