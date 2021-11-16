@@ -8,9 +8,9 @@
     description: | # Can be Markdown
       [Contact Us](https://sanbi.org.za)
       <table><tr>
-      <td> <img src="/assets/images/sanbilogo.png" alt="Logo" style="width: 350px;"/> </td>
-      <td> <img src="/assets/images/GBIF-2015-full.png" alt="Logo" style="width: 350px;"/> </td>
-      <td> <img src="/assets/images/DSI.jpg" alt="Logo" style="width: 350px;"/> </td>
+      <td> <img src="/assets/images/sanbilogo.png" alt="Logo" style="width: 500px;"/> </td>
+      <td> <img src="/assets/images/GBIF-2015-full.png" alt="Logo" style="width: 500px;"/> </td>
+      <td> <img src="/assets/images/DSI.jpg" alt="Logo" style="width: 500px;"/> </td>
       </tr></table>
       * Kirstenbosch Estate, Rhodes Drive
       *  Cape Town, South Africa
