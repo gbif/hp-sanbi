@@ -6,7 +6,7 @@
  columns:
   - name: SANBI-GBIF Node Manager (F.Parker@sanbi.org.za)
     description: | # Can be Markdown
-      ![Footer](/assets/images/DSI.jpg)
+      ![Footer](/assets/images/sanbilogo.png)
       * Kirstenbosch Estate, Rhodes Drive
       *  Cape Town, South Africa
       * <https://www.sanbi.org>     
