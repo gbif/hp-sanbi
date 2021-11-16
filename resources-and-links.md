@@ -1,10 +1,9 @@
 ---
-layout:page
+layout: page
 title: Resources and useful links
 background: assets/images/Protea3.jpg
 description: 
 ---
-
 |Strategy Documents|Technical Documents|Usefull Website Links|
 | :---------------------|:----------------------|:-----------------------|
 |Strategic Plans|Global Biodiversity Informatics Outlook|[GBIF-https://www.gbif.org/](https://www.gbif.org/)|
