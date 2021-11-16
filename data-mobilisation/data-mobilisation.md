@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Data mobilisation
 background: assets/images/Mountains.jpg
 description: 
