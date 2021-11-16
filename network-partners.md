@@ -1,5 +1,5 @@
 ---
-layout: heroImage
+layout: page
 title: Network Partners
 background: /assets/images/Partner.jpg
 description: 
