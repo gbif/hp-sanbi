@@ -28,7 +28,7 @@ Partners engage with the Node on a range of activities including capacity develo
 |FitzPatrick Institute of African Ornithology/Animal Demography Unit|SANBI Funding Agreements, SANBIF Fund Agreements, SANBIF Data Provider Agreement|
 |Garden Route Botanical Gardens Trust|SABIF Fund Agreement|
 |Hermanus Botanical Society|FBIP funded project & SANBI-GBIF Data Publisher|
-|ziko SA Museum|SABIF Data Provider Agreement, SABIF Fund Agreements, FBIP funded Projects & SANBI-GBIF Data Publisher|
+|Iziko SA Museum|SABIF Data Provider Agreement, SABIF Fund Agreements, FBIP funded Projects & SANBI-GBIF Data Publisher|
 |Kwa-Zulu-Natal Museum|SABIF Data Provider Agreement /SANBI Institutional Agreement|
 |Nelson Mandela Metropolitan University|FBIP funded project & SANBI-GBIF Data Publisher|
 |North-West University|FBIP funded project & SANBI-GBIF Data Publisher|
