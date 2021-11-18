@@ -65,10 +65,10 @@ Partners engage with the Node on a range of activities including capacity develo
 |**International Collaborations**  | |
 | :------------- | :-------------|
 |GBIF Norway, Natural History Museum, University of Oslo |Partnership Project - BioDATA Advanced|
-|GBIF Spain|Real Jardin Botanico -CSIC, Madrid, Spain|
-|Department of Ecology and Evolutionary Biology|University of Kansas|
-|Australian Biodiversity Information Services| |
-|Vertnet|University of California Berkeley|
+|GBIF Spain, Real Jardin Botanico -CSIC, Madrid|eLearning Collaboration|
+|University of Kansas, Department of Ecology and Evolutionary Biology|Biodiversity Informatics Training Curriculum Partner|
+|Australian Biodiversity Information Services|Training Provider|
+|University of California Berkeley, Vertnet|Training Partner|
 
 
 
