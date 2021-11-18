@@ -68,7 +68,7 @@ Partners engage with the Node on a range of activities including capacity develo
 |GBIF Spain, Real Jardin Botanico -CSIC, Madrid|eLearning Collaboration|
 |University of Kansas, Department of Ecology and Evolutionary Biology|Biodiversity Informatics Training Curriculum Partner|
 |Australian Biodiversity Information Services|Training Provider|
-|University of California Berkeley, Vertnet|Training Partner|
+|University of California Berkeley, Vertnet|Training Provider|
 
 
 
