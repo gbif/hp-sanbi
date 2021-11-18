@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Network Partners
-background: /assets/images/Partner.jpg
+background: /assets/images/Anemone3.jpg
 description: 
 ---
 #  **SANBI-GBIF Network of Partners**
