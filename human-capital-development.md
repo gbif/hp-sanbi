@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Human Capital Development
-background: assets/images/FlowerTraining.jpg
+background: assets/images/12 Apostles_Russel Galt-resize.jpg
 description: 
 ---
 ![Banner](assets/images/HCD2.jpg)
