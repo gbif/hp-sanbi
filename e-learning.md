@@ -19,7 +19,7 @@ SANBI wishes to acknowledge GBIF-Spain, as the host of the eLearning Technology 
 
 [SANBI-GBIF eLearning Platform Link](https://elearning.gbif.es) 
 
-| Number   | Course    | Trainer/s   |Date   |Venue   |
+| Number   | Course     | Trainer/s   |Date       |Venue        |
 | :------------- | :---------- | :---------- |:----------|:----------|
 |1|Data Management and Cleaning supporting science, policy and sustainable development|Vernon Visser, Fatima Parker-Allie and Hannelie Snyman|February 2022|Kirstenbosch National Botanical Gardens|
 |2|Species Distribution Modelling|Vernon Visser|To be Confirmed (2022)|Kirstenbosch National Botanical Gardens|
