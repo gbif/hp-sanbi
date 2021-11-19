@@ -4,7 +4,6 @@ title: Training and eLearning
 background: /assets/images/Protea.jpg
 description: 
 ---
-# Training and eLearning
 
 **To support capacity enhancement activities in the network SANBI-GBIF aims to:** 
 
