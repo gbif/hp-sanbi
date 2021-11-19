@@ -2,7 +2,9 @@
 layout: page
 title:  Regional Engagement
 background: assets/images/Beeflowersmall.jpg
-description: 
+description:
+imageLicense: |
+  *[Photo by bxse ...Unsplash](https://unsplash.com/@bxse?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 ---
 # Regional Engagement
 ![Regional Engagement](/assets/images/Regionalengagement.jpg)
