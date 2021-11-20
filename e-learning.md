@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Training and eLearning
-background: /assets/images/Protea.jpg
+background: /assets/images/brunsvigia.jpg
 description: 
 ---
 
