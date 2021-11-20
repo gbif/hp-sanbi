@@ -2,7 +2,7 @@
 lang-ref: about
 title: Welcome to the SANBI-GBIF Node Website
 description: 
-background: /assets/images/download.png
+background: /assets/images/KZN-resized.jpg
 imageLicense: |
   Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
 height: 70vh
