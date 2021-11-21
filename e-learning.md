@@ -24,6 +24,7 @@ Registered Participants of SANBI-GBIF Training Courses can access the Elearning 
 Guests to the platform can access the SANBI-GBIF Fitness for Use Training Course using the following credentials and login details:
 
 Username: sanbigbifelearning101@gmail.com
+
 Password: Guestelearning101
 
 **SANBI-GBIF Hosted Training Events taking place in 2022/23 ** 
