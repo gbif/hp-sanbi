@@ -2,9 +2,9 @@
 lang-ref: about
 title: Welcome to the SANBI-GBIF Node Website
 description: 
-background: /assets/images/KZN-resized-2.jpg
+background: /assets/images/LandscapeBettysBay.jpg
 imageLicense: |
-  Photo by Kedibone Ndlovu (SANBI)
+  Photo by Fatima Parker-Allie (SANBI)
 height: 70vh
 ---
 
