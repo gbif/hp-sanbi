@@ -17,7 +17,16 @@ scientific areas including: data management (data cleaning, formatting and publi
 
 SANBI wishes to acknowledge GBIF-Spain, as the host of the eLearning Technology Platform. 
 
-[SANBI-GBIF eLearning Platform Link](https://elearning.gbif.es) 
+Registered Participants of SANBI-GBIF Training Courses can access the Elearning Platform at the following Link 
+
+**[SANBI-GBIF eLearning Platform Link]**(https://elearning.gbif.es) 
+
+Guests to the platform can access the SANBI-GBIF Fitness for Use Training Course using the following credentials and login details:
+
+Username: sanbigbifelearning101@gmail.com
+Password: Guestelearning101
+
+**SANBI-GBIF Hosted Training Events taking place in 2022/23 ** 
 
 | Number   | Course     | Trainer/s   |Date       |Venue        |
 | :------------- | :---------- | :---------- |:----------|:----------|
