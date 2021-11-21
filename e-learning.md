@@ -21,14 +21,18 @@ Registered Participants of SANBI-GBIF Training Courses can access the Elearning 
 
 [SANBI-GBIF eLearning Platform Link](https://elearning.gbif.es) 
 
+
 **Training Courses and Available Content and Curricula**
+
 
 Guests to the platform can access the **SANBI-GBIF Fitness for Use Training Course** using the following credentials and login details:
 
-**Username:** sanbigbifelearning101@gmail.com
+**Username:** sanbigbifelearning101@gmail.com 
 **Password:** Guestelearning101
 
-**SANBI-GBIF Hosted Training Events taking place in 2022/23 ** 
+
+**SANBI-GBIF Hosted Training Events taking place in 2022/23**
+
 
 | Number   | Course     | Trainer/s   |Date       |Venue        |
 | :------------- | :---------- | :---------- |:----------|:----------|
