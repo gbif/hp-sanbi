@@ -4,7 +4,7 @@
 # Columns (the more you add, the narrower they will be)
 
  columns:
-  - name: SANBI
+  - name: Contact us
     description: | # Can be Markdown
       * Kirstenbosch Estate, Rhodes Drive
       * Cape Town, South Africa
