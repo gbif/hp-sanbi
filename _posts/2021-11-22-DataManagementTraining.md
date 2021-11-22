@@ -1,5 +1,5 @@
 ---
-title: Call for Applications for Training Workshop in SANBI-GBIF Data Management and Cleaning Supporting Science, Policy and Sustainable Development
+title: Call for Applications: SANBI-GBIF Training in Data Management and Cleaning Supporting Science, Policy and Sustainable Development
 date:   2021-11-22
 # categories: jekyll update
 background: /assets/images/Dragonfly.jpg
