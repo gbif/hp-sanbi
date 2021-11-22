@@ -1,9 +1,9 @@
 ---
-layout: page
 title: Data mobilisation
 background: assets/images/Mountains.jpg
 description: 
 permalink: /data-mobilisation
+height: 70vh
 ---
 
 # Data Overview

@@ -18,6 +18,7 @@ cta:
   - text: About
     href: /about
 permalink: /
+height: 90vh
 ---
 ## **SANBI-GBIF** 
 

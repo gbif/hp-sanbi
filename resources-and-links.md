@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Resources and useful links
 background: assets/images/Protea3.jpg
-description: 
+height: 70vh
 ---
 |Strategy Documents|Technical Documents|Usefull Website Links|
 | :---------------------|:----------------------|:-----------------------|

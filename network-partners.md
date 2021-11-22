@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Network Partners
 background: /assets/images/Anemone3.jpg
-description: 
+height: 70vh
 ---
 #  **SANBI-GBIF Network of Partners**
 

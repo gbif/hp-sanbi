@@ -1,5 +1,5 @@
 ---
-layout: page
+height: 70vh
 title: Human Capital Development
 background: assets/images/12 Apostles_Russel Galt-resize.jpg
 description: 

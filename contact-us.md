@@ -1,9 +1,9 @@
 ---
-layout: page
 title: Contact Us
 background: /assets/images/Ocean1.jpg
 description:
 permalink: contact-us
+height: 70vh
 ---
 
 Fatima Parker-Allie<br> 
