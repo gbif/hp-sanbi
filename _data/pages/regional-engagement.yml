@@ -1,0 +1,21 @@
+# Below is used on the regional engagement page to show little cards with links of to pdfs and similar
+features: 
+  title: Regional Engagement Products
+  # description: |
+  #  You could add addditional descriptive text here
+  features:
+    - title: Regional engagement strategy for Africa # required text
+      preTitle: PDF # optional text
+      description: |    # optional but recommended
+        Some description of what can be expected. 
+        
+        Africa is one of the most megadiverse continents in the world. Here biodiversity plays a critical role in sustainable development ...
+      # img required
+      background: /assets/images/regional_engagemen_strategy.png # required 
+      href: http://opus.sanbi.org/jspui/bitstream/20.500.12143/7929/1/SANBI_Regional_Strategy_Oct_2017.pdf # required
+    - title: The ACM Information Product
+      preTitle: PDF 
+      href: http://opus.sanbi.org/jspui/bitstream/20.500.12143/7930/1/African%20Coordinating%20Mechanism_Parker-Allie.pdf
+      description: |
+        Six strategic priority areas to advance the African biodiversity informatics efforts
+      background: assets/images/regional_engagement_acm.png
