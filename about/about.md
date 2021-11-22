@@ -6,6 +6,7 @@ background: /assets/images/LandscapeBettysBay.jpg
 imageLicense: |
   Photo by Fatima Parker-Allie (SANBI)
 height: 70vh
+permalink: /about
 ---
 
 ## **About us**

@@ -2,6 +2,7 @@
 title:  Regional Engagement
 background: assets/images/Beeflowersmall.jpg
 description: 
+permalink: /regional-engagement
 imageLicense: |
   *[Photo by bxse ...Unsplash](https://unsplash.com/@bxse?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 height: 70vh

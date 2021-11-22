@@ -4,6 +4,7 @@ background: /assets/images/Ocean1.jpg
 description:
 permalink: contact-us
 height: 70vh
+permalink: /contact-us
 ---
 
 Fatima Parker-Allie<br> 

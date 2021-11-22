@@ -2,6 +2,7 @@
 title: Training and eLearning
 background: /assets/images/brunsvigia.jpg
 height: 70vh
+permalink: /e-learning
 ---
 
 **To support capacity enhancement activities in the network SANBI-GBIF aims to:** 

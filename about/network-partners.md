@@ -2,6 +2,7 @@
 title: Network Partners
 background: /assets/images/Anemone3.jpg
 height: 70vh
+permalink: /network-partners
 ---
 ##  **SANBI-GBIF Network of Partners**
 

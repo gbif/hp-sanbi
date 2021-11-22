@@ -3,6 +3,7 @@ height: 70vh
 title: Human Capital Development
 background: assets/images/12 Apostles_Russel Galt-resize.jpg
 description: 
+permalink: /human-capital-development
 ---
 ![Banner](assets/images/HCD2.jpg)
 
