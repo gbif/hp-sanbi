@@ -8,10 +8,10 @@
     href: /network-partners
 - text: Data
   menu:
-  - text: Occurrence data
-    href: /data
   - text: Data mobilisation
     href: /data-mobilisation
+  - text: Explore species occurrences
+    href: /data
 - text: Training and Engagement
   menu:
   - text: Human Capital Development

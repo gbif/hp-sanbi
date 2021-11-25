@@ -1,10 +1,17 @@
 ---
 title: Contact Us
 background: /assets/images/Ocean1.jpg
-description:
+description: |
+  2 Cussonia Ave, Brummeria, Pretoria. <br />
+  Private Bag X101, Silverton, 018 <br />
+  Cape Town, South Africa
 permalink: contact-us
 height: 70vh
 permalink: /contact-us
+composition:
+- type: heroBox
+- type: media
+  data: pages.contacts 
 ---
 
 Fatima Parker-Allie<br> 
@@ -56,21 +63,3 @@ Cape Town, South Africa<br>
 **Social Media**<br>
 <https://www.sanbi.org><br> 
 <https://www.gbif.org/country/ZA/summary><br>                                    
-
-
-
-  
-
-
-                                                        
-
-
-
-
-
-
-
-                                                             
-                                                             
-                                                             
-                                                          

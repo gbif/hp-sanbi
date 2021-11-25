@@ -5,7 +5,7 @@ height: 70vh
 permalink: /e-learning
 ---
 
-**To support capacity enhancement activities in the network SANBI-GBIF aims to:** 
+To support capacity enhancement activities in the network SANBI-GBIF aims to:
 
 1. Build capacity towards ensuring that relevant, high quality biodiversity information is
 available and used by scientists, managers and decision makers,
@@ -19,24 +19,33 @@ SANBI wishes to acknowledge GBIF-Spain, as the host of the eLearning Technology 
 
 Registered Participants of SANBI-GBIF Training Courses can access the Elearning Platform at the following Link 
 
-[SANBI-GBIF eLearning Platform](https://elearning.gbif.es){: .button .is-primary}
+<p style="text-align: center;">
+  <a href="https://elearning.gbif.es" class="button is-primary is-centered" style="
+    margin: auto;
+    display:  inline-block;
+    text-align: center;
+  ">SANBI-GBIF eLearning Platform</a>
+</p>
+
+{% comment %}
+[SANBI-GBIF eLearning Platform](https://elearning.gbif.es){: .button .is-primary }
+{% endcomment %}
 
 
-**Training Courses and Available Content and Curricula**
-
+## Training Courses and Available Content and Curricula
 
 Guests to the platform can access the **SANBI-GBIF Fitness for Use Training Course** using the following credentials and login details:
 
+{: .notification}
 **Username:** sanbigbifelearning101@gmail.com 
 **Password:** Guestelearning101
 
 
 **SANBI-GBIF Hosted Training Events taking place in 2022/23**
 
-
-| Number   | Course     | Trainer/s   |Date       |Venue        |
+| Course     | Trainer/s   |Date       |Venue        |
 | :------------- | :---------- | :---------- |:----------|:----------|
-|1|Data Management and Cleaning supporting science, policy and sustainable development|Vernon Visser, Fatima Parker-Allie and Hannelie Snyman|February 2022|Kirstenbosch National Botanical Gardens|
-|2|Species Distribution Modelling|Vernon Visser|To be Confirmed (2022)|Kirstenbosch National Botanical Gardens|
-|3|Biodiversity Informatics: Data Analysis, Use and Impact|Vernon Visser|To be Confirmed (2022)|Kirstenbosch National Botanical Gardens|
+|Data Management and Cleaning supporting science, policy and sustainable development|Vernon Visser, Fatima Parker-Allie and Hannelie Snyman|February 2022|Kirstenbosch National Botanical Gardens|
+|Species Distribution Modelling|Vernon Visser|To be Confirmed (2022)|Kirstenbosch National Botanical Gardens|
+|Biodiversity Informatics: Data Analysis, Use and Impact|Vernon Visser|To be Confirmed (2022)|Kirstenbosch National Botanical Gardens|
 

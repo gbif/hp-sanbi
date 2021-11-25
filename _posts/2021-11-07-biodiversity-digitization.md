@@ -2,9 +2,12 @@
 title:  Biodiversity Digitization Conference
 date: 2021-11-07
 background: /assets/images/Anemone.jpg
+description: SANBI-GBIF Participates at the Biodiversity Digitization Conference
+cta:
+  - text: Conference information
+    href: https://www.idigbio.org/content/biodiversity-digitization-2021
+    isPrimary: true
 ---
-
-# **SANBI-GBIF Participates at the Biodiversity Digitization Conference**
 
 ![Biodiversity Digitization](/assets/images/BiodiversityDigitization.jpg)
 
@@ -27,4 +30,4 @@ many different levels (including national and regional), sustainable funding and
 
 Further information including the conference agenda, very exciting virtual tours of the Smithsonian (NMNH) and 
 video presentations (oral and poster) of the conference can be found by
-clicking [here](https://www.idigbio.org/content/biodiversity-digitization-2021)
+clicking [here](https://www.idigbio.org/content/biodiversity-digitization-2021).

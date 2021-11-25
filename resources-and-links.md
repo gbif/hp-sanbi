@@ -2,6 +2,7 @@
 title: Resources and useful links
 background: assets/images/Protea3.jpg
 height: 70vh
+toc: true
 ---
 |Strategy Documents|Technical Documents|Usefull Website Links|
 | :---------------------|:----------------------|:-----------------------|
@@ -30,6 +31,11 @@ Alternative to the table. The table doesn't seem the best choice for structuring
 * [Global Biodiversity Informatics Outlook](https://assets.ctfassets.net/uo17ejk9rkwj/7Kj8EyXDwW2IUWKk2WYOaE/85947f585b9c6255c9b72b9325ba44b6/GBIO.pdf)
 * [White Paper on Science, Technology and Innovation](https://www.dst.gov.za/images/2019/White_paper_web_copyv1.pdf)
 * etc
+
+## Task group Recommendations
+* Fill
+* Me
+* Please
 
 ## Usefull Website
 * [GBIF-https://www.gbif.org/](https://www.gbif.org/)

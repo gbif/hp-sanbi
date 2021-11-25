@@ -5,7 +5,7 @@ date:   2021-11-07
 background: /assets/images/Dragonfly.jpg
 ---
 
-# National Process developed to support biodiversity informatics skills and capacity development
+## National Process developed to support biodiversity informatics skills and capacity development
 The Establishment of the SANBI-GBIF Young Researchers Award Advisory Panel
 
 ![SANBI-GBIF Young Researchers Award Advisory Panel](/assets/images/Nationalprocess.png)
