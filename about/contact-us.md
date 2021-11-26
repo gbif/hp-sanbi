@@ -4,7 +4,7 @@ background: /assets/images/Ocean1.jpg
 description: |
   2 Cussonia Ave, Brummeria, Pretoria. <br />
   Private Bag X101, Silverton, 018 <br />
-  Cape Town, South Africa
+  South Africa
 permalink: contact-us
 height: 70vh
 permalink: /contact-us
