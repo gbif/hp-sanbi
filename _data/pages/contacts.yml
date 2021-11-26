@@ -13,6 +13,7 @@ features:
       +27 21 799 8698
     # img required
     background: /assets/images/contacts/Fatima-image.jpg
+    href: /contact-us
     
 features:
   - title: Dr Yonah Seleti
@@ -24,3 +25,4 @@ features:
       <Yonah.Seleti@dst.gov.za><br>
       +27 12 843 6450/6683<br>
       background: /assets/images/contacts/Fatima-image.jpg
+      href: /contact-us
