@@ -8,5 +8,5 @@ background: /assets/images/Protea_highres_cropped.jpg
 
 SANBI-GBIF is providing an opportunity for training in Data Management and Cleaning supporting stakeholders to access data and follow quality improvement techniques of data, for science, policy and decision-making.     
 
-[Download Call Document](./assets/images/DataManagement-Cleaning_CallforApplications_Feb2022-VComp.pdf){: .button .is-primary }
+[Download Call Document](/assets/images/DataManagement-Cleaning_CallforApplications_Feb2022-VComp.pdf){: .button .is-primary }
 [Contact](mailto:f.parker@sanbi.org.za){: .button }
