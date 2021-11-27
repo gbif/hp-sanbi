@@ -1,8 +1,8 @@
 ---
 lang-ref: en-us
 layout: home
-title: The South African National Biodiversity Institute–Global Biodiversity Information Facility
-description: SANBI-GBIF aims to support and grow a network of partners in biodiversity informatics through data mobilisation, capacity enhancement, publication and use. The Node provides   access to biodiversity occurrence records published by South African Institutions. |  
+title: SANBI-GBIF
+description: SANBI-GBIF aims to support and grow a network of partners in biodiversity informatics through data mobilisation, capacity enhancement, publication and use. The Node provides access to biodiversity occurrence records published by South African Institutions. |  
  
      
 background: /assets/images/20180114_tsitsikamma-res.jpg
@@ -18,14 +18,11 @@ cta:
 permalink: /
 height: 90vh
 ---
-## **SANBI-GBIF** 
 
-SANBI-GBIF is the South African Voting  Node of the Global Biodiversity Information Facility (GBIF) and is funded by the
-Department of Science and Innovation. 
-The Vision of the SANBI-GBIF Node is to contribute to South Africa’s sustainable development by facilitating access 
-to biodiversity and related information on the internet.
-This portal was created as part of the GBIF National Portal Implementation Project and aims to provide resources, 
-news and information of activities and efforts of Nodes at the National level.
+The South African National Biodiversity Institute - Global Biodiversity Information Facility (SANBI-GBIF) is the South African Voting  Node of GBIF and is funded by the
+Department of Science and Innovation. The Vision of the SANBI-GBIF Node is to contribute to South Africa’s sustainable development by facilitating access 
+to biodiversity and related information on the internet.  This portal was created as part of the GBIF National Portal Implementation Project and aims to provide resources, 
+news and information of activities and efforts of Node at the National level.
 
 ## **Strategic Objectives**
 
