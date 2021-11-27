@@ -2,7 +2,7 @@
 lang-ref: en-us
 layout: home
 title: SANBI-GBIF
-description:  The South African National Biodiversity Institute – Global Biodiversity Information Facility|
+description: The South African National Biodiversity Institute – Global Biodiversity Information Facility|
    
   
   SANBI-GBIF aims to support and grow a network of partners in biodiversity informatics through data mobilisation, capacity enhancement, publication and use. The Node provides   access to biodiversity occurrence records published by South African Institutions.
