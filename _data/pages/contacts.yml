@@ -28,4 +28,9 @@
     background: /assets/images/contacts/Yonah-image.jpg
     href: /about
     
-    
+    - title: Prof. Joseph Sebola
+    description: |
+      SANBI-GBIF Node Manager<br>
+     # img required
+    background: /assets/images/contacts/Sebola-image.jpg
+    href: /about
