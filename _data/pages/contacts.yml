@@ -36,7 +36,7 @@
       South Africa<br>
       <R.Sebola@sanbi.org.za><br>
       +27 12 843 5187
-    background: /assets/images/contacts/Joseph_2.jpg
+    background: /assets/images/contacts/R-Sebola_web-thumb.png
     href: /about 
     
   - title: Mr. Leluma Matooane 
@@ -50,3 +50,15 @@
       +27 12 843 6437
     background: /assets/images/contacts/Leluma-image.jpg
     href: /about
+    
+  - title: Mr. Kgahlisho Kgoale Mphahlele 
+    description: |
+      Deputy Director: Earth Systems Science<br>
+      Department of Science & Innovation<br>
+      Building 53, CSIR Campus Meiring Naude, Brumeria<br>
+      P/Bag X 894 Pretoria 0001<br>
+      South Africa<br>
+      <Kgahlisho.mphahlele@dst.go.za><br>
+      +27 12 317 4502<br>
+    background: /assets/images/contacts/Kgoale-image.jpg
+    href: /about 
