@@ -27,13 +27,15 @@
       +27 12 843 6450/6683
       
     background: /assets/images/contacts/Yonah-image.jpg
+    
     href: /about
     
     - title: Prof. Joseph Sebola
       description: |
         Chief Director<br>
     
-      background: /assets/images/contacts/Yonah-image.jpg
+      background: /assets/images/contacts/R-Sebola_web-thumb.png
+      
       href: /about
         
       
