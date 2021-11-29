@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-background: /assets/images/Ocean1.jpg
+background: /assets/images/Panorama_2020_knysna.jpg
 description: |
   2 Cussonia Ave, Brummeria, Pretoria. <br />
   Private Bag X101, Silverton, 018 <br />
