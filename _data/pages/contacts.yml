@@ -28,9 +28,9 @@
     background: /assets/images/contacts/Yonah-image.jpg
     href: /about
     
-    - title: Prof. Joseph Sebola
-      description: |
+  - title: Prof. Joseph Sebola
+    description: |
         Chief Director - Foundational Biodiversity Science<br>
-      # img required
-      background: /assets/images/contacts/Sebola_2.jpg
-      href: /about
+    # img required
+    background: /assets/images/contacts/Sebola_2.jpg
+    href: /about
