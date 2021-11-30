@@ -3,6 +3,17 @@
 # title: "type: media"
 # description: sdfkjh
   features:
+  - title: Dr Yonah Seleti
+    description: |
+      Head of Delegation<br>
+      Department of Science and Innovation<br>
+      Private Bag X894 Pretoria 0001<br>
+      South Africa<br>
+      <Yonah.Seleti@dst.gov.za><br>
+      +27 12 843 6450/6683
+    background: /assets/images/contacts/Yonah-2.jpg
+    href: /about 
+    
   - title: Fatima Parker-Allie
     description: |
       SANBI-GBIF Node Manager<br>
@@ -16,17 +27,6 @@
     # img required
     background: /assets/images/contacts/Fatima3-image.jpg
     href: /about
-    
-  - title: Dr Yonah Seleti
-    description: |
-      Head of Delegation<br>
-      Department of Science and Innovation<br>
-      Private Bag X894 Pretoria 0001<br>
-      South Africa<br>
-      <Yonah.Seleti@dst.gov.za><br>
-      +27 12 843 6450/6683
-    background: /assets/images/contacts/Yonah-2.jpg
-    href: /about   
   
   - title: Prof Joseph Ramagwai Sebola
     description: |
