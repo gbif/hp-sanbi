@@ -2,9 +2,7 @@
 title: Contact Us
 background: /assets/images/Panorama_2020_knysna.jpg
 description: |
-  2 Cussonia Ave, Brummeria, Pretoria. <br />
-  Private Bag X101, Silverton, 018 <br />
-  South Africa
+  Meet the SANBI-GBIF Management Team
 permalink: contact-us
 height: 70vh
 permalink: /contact-us
