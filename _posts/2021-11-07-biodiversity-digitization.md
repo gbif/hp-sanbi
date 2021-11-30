@@ -9,6 +9,7 @@ cta:
     isPrimary: true
 ---
 
+
 SANBI-GBIF was invited to showcase its experiences with data mobilisation and other aspects at the Biodiversity Digitization Conference. 
 
 ![Biodiversity Digitization](/assets/images/BiodiversityDigitization.jpg)
