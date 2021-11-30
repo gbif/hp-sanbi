@@ -2,7 +2,7 @@
 title: Meet the SANBI-GBIF Management Team
 background: /assets/images/Panorama_2020_knysna.jpg
 description: |
-  **Contact Us**
+  Contact Us
 permalink: contact-us
 height: 70vh
 permalink: /contact-us
