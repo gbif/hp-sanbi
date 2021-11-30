@@ -9,6 +9,8 @@ cta:
     isPrimary: true
 ---
 
+SANBI-GBIF was invited to showcase its experiences with data mobilisation and other aspects at the Biodiversity Digitization Conference. 
+
 ![Biodiversity Digitization](/assets/images/BiodiversityDigitization.jpg)
 
 A flagship Biodiversity Digitization Conference was held from the 22nd - 23rd September 2021, hosted by
