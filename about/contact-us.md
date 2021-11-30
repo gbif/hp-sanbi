@@ -1,8 +1,8 @@
 ---
-title: Contact Us
+title: You are Welcome to Contact Us
 background: /assets/images/Panorama_2020_knysna.jpg
 description: |
-  Meet the Managment Team
+  **Meet the Management Team**
 permalink: contact-us
 height: 70vh
 permalink: /contact-us
