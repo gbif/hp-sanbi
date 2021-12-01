@@ -7,5 +7,6 @@ var siteConfig = {
     "type": "equals", 
     "key": "publishingCountry", 
     "value": "ZA"
-  }
+  },
+  excludedFilters: ['publishingCountryCode'], // it makes no sense to show this filter as we scope the data by a single value
 };
