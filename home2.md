@@ -13,9 +13,9 @@ cta:
     isPrimary: true
   - text: About
     href: /about
-permalink: /
+permalink: /home2
 height: 90vh
-composition_nonse_added_to_remove: 
+composition: 
   - type: heroImage
   - type: split
     data: pages.home.vision
