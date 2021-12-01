@@ -21,7 +21,7 @@
       +27 21 799 8698
     # img required
     background: /assets/images/contacts/FatimaSQR2-image.jpg
-    href: /about
+
   
   - title: Prof Joseph Ramagwai Sebola
     description: |
@@ -32,7 +32,7 @@
       <R.Sebola@sanbi.org.za><br>
       +27 12 843 5187
     background: /assets/images/contacts/SebolaSQR-image.png
-    href: /about 
+    
     
   - title: Mr. Leluma Matooane 
     description: |
@@ -44,7 +44,7 @@
       <Leluma.matooane@dst.gov.za><br>
       +27 12 843 6437
     background: /assets/images/contacts/Leluma-image.jpg
-    href: /about
+    
     
   - title: Mr. Kgahlisho Kgoale Mphahlele 
     description: |
@@ -56,4 +56,4 @@
       <Kgahlisho.mphahlele@dst.go.za><br>
       +27 12 317 4502<br>
     background: /assets/images/contacts/Kgoale-image.jpg
-    href: /about 
+   
