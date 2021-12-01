@@ -38,3 +38,20 @@ browser:
     href: /data?view=MAP
   - text: Gallery
   href: /data?view=GALLERY
+
+stats:
+  background: "#edf3f3"
+  features:
+      # we can also use the graphql API to allow richer queries
+    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?publishingCountry=ZA&limit=0">32,271,182</span>
+      description: Species occurrences
+      href: /data
+    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?publishingCountry=ZA&limit=0&mediaType=StillImage">32,271,182</span>
+      description: Images
+      href: /data?view=GALLERY
+    - title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?publishingCountry=ZA&limit=0">32,271,182</span>
+      description: Datasets
+      href: https://www.gbif.org/dataset/search?publishing_country=ZA
+    - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=ZA&limit=0&isEndorsed=true">9</span>
+      description: Publishers
+      href: https://www.gbif.org/publisher/search?country=ZA

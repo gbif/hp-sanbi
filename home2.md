@@ -17,6 +17,8 @@ permalink: /home2
 height: 90vh
 composition: 
   - type: heroImage
+  - type: stats
+    data: pages.home.stats
   - type: split
     data: pages.home.vision
   - type: split
