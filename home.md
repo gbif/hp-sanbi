@@ -15,8 +15,10 @@ cta:
     href: /about
 permalink: /
 height: 90vh
-composition_nonse_added_to_remove: 
+composition: 
   - type: heroImage
+  - type: stats
+    data: pages.home.stats
   - type: split
     data: pages.home.vision
   - type: split
