@@ -24,9 +24,13 @@ browser:
   align: right
   title: "Data explorer"
   description: |
-    Also, in for from winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years firmament thing fly moving land, divide good spirit you’ll fruitful waters one land us thing a man dry doesn’t created made land man dry i us fruitful replenish said dominion a sixth own it tree.
+    * Get access to millions of biodiversity data, published by the South African biodiversity information community to GBIF  
+    * Go to the Map feature to visualize occurrence records in space and time  
+    * Special filtering criteria enable customized query development within the portal framework 
+    * Issues and flags also enable quality control aspects to be considered 
+    * Go to the Image Galley to browse thousands of images published by the South African community to GBIF  
+    * Through our Data Explorer you can discover and download data for use and re-use
 
-    Also, in for from winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years firmament thing fly moving land, divide good spirit you’ll fruitful waters one land us thing.
   # img required
   background: /assets/images/browser.png
   cta:
