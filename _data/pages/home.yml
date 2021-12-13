@@ -33,7 +33,7 @@ browser:
 
   # img required
   background: /assets/images/browser.png
-    href: /data?view=MAP
+  href: /data?view=MAP
   cta:
   - text: |
       <div><span data-ajax-path="data.occurrenceSearch.documents.total" data-ajax-url="https://graphql.gbif-staging.org/graphql?query=query%20%7B%0A%20%20occurrenceSearch%28predicate%3A%20%7Btype%3A%20equals%2C%20key%3A%20%22publishingCountry%22%2C%20value%3A%20%22ZA%22%7D%2C%20size%3A%2010%29%20%7B%0A%20%20%20%20documents%20%7B%0A%20%20%20%20%20%20total%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D">32,271,182</span>  occurrences</div>
