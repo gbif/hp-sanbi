@@ -46,12 +46,13 @@ browser:
     
 eLearning:
   reverse: false
+  # img required
+  background: /assets/images/brunsvigia.jpg 
   title: "Training and eLearning"
   description: |
     Visit our Training and eLearning Page to find out more about our training schedule for the year as well as our eLearning Platform
 
-  # img required
-  background: /assets/images/brunsvigia.jpg   
+   
     
 stats:
   background: "#edf3f3"
