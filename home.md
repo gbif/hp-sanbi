@@ -25,6 +25,8 @@ composition:
     data: we_do_not_want_any_header # weird hack as the block layout looks for a data element and falls back to the page if none is present
   - type: product
     data: pages.home.browser 
+  - type: product
+  - data: pages.home.eLearning
 ---
 
 SANBI-GBIF is the South African Voting Node of the Global Biodiversity Information Facility (GBIF) and is funded by the
