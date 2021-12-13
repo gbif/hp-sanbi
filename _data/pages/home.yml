@@ -31,9 +31,7 @@ browser:
     * Go to the Image Galley to browse thousands of images published by the South African community to GBIF  
     * Through our Data Explorer you can discover and download data for use and re-use
 
-browser:
-  align: left
-# img required
+  # img required
   background: /assets/images/browser.png
   href: /data?view=MAP
   cta:
