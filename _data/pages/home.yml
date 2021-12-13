@@ -42,8 +42,7 @@ browser:
     href: /data?view=MAP
   - text: Gallery
     href: /data?view=GALLERY
-    href: /data?view=MAP
-
+    
 stats:
   background: "#edf3f3"
   features:
