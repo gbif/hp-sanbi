@@ -32,7 +32,7 @@ browser:
     * Through our Data Explorer you can discover and download data for use and re-use
 
   # img required
-  background: /assets/images/Map.png
+  background: /assets/images/Map2.png
   href: /data?view=MAP
   cta:
   - text: |
