@@ -23,7 +23,7 @@ Cape Town South Africa<br>
 +27 21 799 8698 
 
 Dr Yonah Seleti<br>
-Head of Delegation<br>
+Head of South Africa's Delegation to the GBIF Governing Board<br>
 Department of Science and Innovation<br>
 Private Bag X894 Pretoria 0001<br>
 South Africa<br>
