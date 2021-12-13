@@ -52,8 +52,9 @@ eLearning:
   title: "Training and eLearning"
   description: |
     Visit our Training and eLearning Page to find out more about our training schedule for the year as well as our eLearning Platform
-
-   
+    isPrimary: true
+  - text: eLearning
+    href: /e-learning
     
 stats:
   background: "#edf3f3"
