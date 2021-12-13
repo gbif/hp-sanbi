@@ -26,7 +26,7 @@ composition:
   - type: product
     data: pages.home.browser 
   - type: product
-  - data: pages.home.eLearning
+    data: pages.home.eLearning
 ---
 
 SANBI-GBIF is the South African Voting Node of the Global Biodiversity Information Facility (GBIF) and is funded by the
