@@ -43,7 +43,14 @@ browser:
     href: /data?view=MAP
   - text: Gallery
     href: /data?view=GALLERY
-    
+eLearning:
+  align: left
+  title: "Training and eLearning"
+  description: |
+    Visit our Training and eLearning Page to find out more about our training schedule for the year as well as our eLearning Platform
+
+  # img required
+  background: /assets/images/brunsvigia.jpg   
     
 stats:
   background: "#edf3f3"
