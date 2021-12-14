@@ -53,8 +53,8 @@ eLearning:
   description: |
     Visit our Training and eLearning Page to find out more about our training schedule for the year as well as our eLearning Platform
     
-  
-    
+  - text: Training and eLearning
+    href: /e-learning
     
     
 stats:
