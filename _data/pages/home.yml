@@ -53,11 +53,20 @@ eLearning:
   description: |
     Visit our Training and eLearning Page to find out more about our training schedule for the year as well as our eLearning Platform
     
-  - text: Training and eLearning
-    href: /e-learning
+ <p style="text-align: center;">
+  <a href="https://elearning.gbif.es" class="button is-primary is-centered" style="
+    margin: auto;
+    display:  inline-block;
+    text-align: center;
+  ">SANBI-GBIF eLearning Platform</a>
+ </p>
+
+ {% comment %}
+ [SANBI-GBIF eLearning Platform](https://elearning.gbif.es){: .button .is-primary }
+ {% endcomment %}
+
     
-    
-stats:
+  stats:
   background: "#edf3f3"
   features:
       # we can also use the graphql API to allow richer queries
