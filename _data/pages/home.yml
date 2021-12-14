@@ -56,7 +56,7 @@ eLearning:
   - text: eLearning
     href: /e-learning
     isPrimary: true 
-    text-align: center;
+    text-align: center
     
 stats:
   background: "#edf3f3"
