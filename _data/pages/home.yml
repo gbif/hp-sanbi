@@ -28,12 +28,12 @@ browser:
     * Get access to millions of biodiversity data, published by the South African biodiversity information community to GBIF  
     * Go to the Map feature to visualize occurrence records in space and time  
     * Special filtering criteria enable customized query development within the portal framework 
-    * Issues and flags also enable quality control aspects to be considered 
+    * Issues and flags enable quality control 
     * Go to the Image Galley to browse thousands of images published by the South African community to GBIF  
     * Through our Data Explorer you can discover and download data for use and re-use
 
   # img required
-  background: /assets/images/Map.png
+  background: /assets/images/Map3.Png
   href: /data?view=MAP
   cta:
   - text: |
@@ -54,7 +54,7 @@ eLearning:
     Visit our Training and eLearning Page and discover:
     * Our training schedule for the year 
     * The SANBI-GBIF eLearning Platform
-    * Course content and curricula from Node Trainings 
+    * Course content and curricula from training events 
     * Signup to GBIF led training like the GBIF Data Mobilisation Course
     
   cta:
