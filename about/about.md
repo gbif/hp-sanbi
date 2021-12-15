@@ -2,7 +2,7 @@
 lang-ref: about
 title: Welcome to the SANBI-GBIF Node Website
 description: 
-background: /assets/images/https___inaturalist-open-data.s3.amazonaws.com_photos_30654993_original.jpg
+background: /assets/images/LandscapeBettysBay.jpg
 imageLicense: |
   Photo by Fatima Parker-Allie (SANBI)
 height: 70vh
