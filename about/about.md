@@ -2,7 +2,7 @@
 lang-ref: about
 title: Welcome to the SANBI-GBIF Node Website
 description: 
-background: /assets/images/LandscapeBettysBay.jpg
+background: /assets/images/Leucospermum.jpg
 imageLicense: |
   Photo by Fatima Parker-Allie (SANBI)
 height: 70vh
