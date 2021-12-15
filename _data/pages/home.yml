@@ -33,7 +33,7 @@ browser:
     * Through our Data Explorer you can discover and download data for use and re-use
 
   # img required
-  background: /assets/images/Map3.Png
+  background: /assets/images/Map.png
   href: /data?view=MAP
   cta:
   - text: |
@@ -51,7 +51,12 @@ eLearning:
   background: /assets/images/brunsvigia.jpg 
   title: "Training and eLearning"
   description: |
-    Visit our Training and eLearning Page to find out more about our training schedule for the year as well as our eLearning Platform
+    Visit our Training and eLearning Page and discover:
+    * Our training schedule for the year 
+    * The SANBI-GBIF eLearning Platform
+    * Course content and curricula from Node Trainings 
+    * Signup to GBIF led training like the GBIF Data Mobilisation Course
+    
   cta:
   - text: eLearning
     href: /e-learning
