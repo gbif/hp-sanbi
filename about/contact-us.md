@@ -1,6 +1,6 @@
 ---
 title: You are Welcome to Contact Us
-background: /assets/images/Panorama_2020_knysna.jpg
+background: /assets/images/Watsonia 2A.jpg
 description: |
   **Meet the Management Team**
 permalink: contact-us
