@@ -4,7 +4,7 @@ layout: home
 title: Explore the Biodiversity of South Africa 
 description: |
   SANBI-GBIF aims to support and grow a network of partners in biodiversity informatics through data mobilisation, capacity enhancement, publication and use. The Node provides access to biodiversity occurrence records published by South African Institutions.     
-background: /assets/images/Watsonia 1A.jpg
+background: /assets/images/Mountains.jpg
 cta:
   - text: Start exploring
     href: /data
