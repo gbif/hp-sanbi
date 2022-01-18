@@ -7,11 +7,11 @@ permalink: /human-capital-development
 ---
 ![Banner](assets/images/HCD2.jpg)
 
-In South Africa, as in other parts of the world, Biodiversity Informatics is a young field, lies at the nexus of a number of disciplines. The broad application of information science and computational tools to the management and analysis of biodiversity data including species’ occurrences, taxonomic characters, and multimedia and image data, have led to the development of the emerging field of biodiversity informatics.  Thus, biodiversity informatics deals with the interrelated challenges of collection, collation, integration, analysis and prediction, as well as the dissemination of data and information related to the biotic resources of the Earth.
+In South Africa, as in other parts of the world, Biodiversity Informatics is a young field and lies at the nexus of a several disciplines. The broad application of information science and computational tools to the management and analysis of biodiversity data including species’ occurrences, taxonomic characters, and multimedia and image data, have led to the development of the emerging field of biodiversity informatics.  Thus, biodiversity informatics deals with the interrelated challenges of collection, collation, integration, analysis and prediction, as well as the dissemination of data and information related to the biotic resources of the Earth.
   
-Being such a new and dynamic field, there are enormous challenges in recruitment, training and retention of biodiversity information management personnel, to
-support the mobilisation, management, coordination and utilisation of biodiversity information for key conservation and biodiversity outcomes, and initiatives
-such as IPBES and the Aichi targets that require relevant data to meet the science-policy and decision-making needs.
+Being such a new and dynamic field, there are enormous challenges in recruitment, training and retention of biodiversity information management personnel. Capacity is needed to
+support the mobilisation, management, coordination and utilisation of biodiversity information for key conservation and biodiversity outcomes. Important global initiatives
+such as IPBES and the Aichi targets also require relevant data to meet its science-policy and decision-making needs.
 
 This demands broad efforts to build human capital in the field.
 
