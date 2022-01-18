@@ -4,7 +4,7 @@ vision:
   description: |      # required
       SANBI-GBIF is the South African Voting Node of the Global Biodiversity Information Facility (GBIF) and is funded by the Department of Science and Innovation. The Vision of the SANBI-GBIF Node is to contribute to South Africa’s sustainable development by facilitating access to biodiversity and related information on the internet. This portal was created as part of the GBIF National Portal Implementation Project and aims to provide resources, news and information of activities and efforts of Node at the National level.
   # img required
-  background: /assets/images/Panorama_2020_knysna.jpg
+  background: /assets/images/Watsonia 1A.jpg
 
 strategicObjectives:
   reverse: false
