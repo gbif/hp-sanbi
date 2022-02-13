@@ -17,29 +17,31 @@ scientific areas including: data management (data cleaning, formatting and publi
 
 SANBI wishes to acknowledge GBIF-Spain, as the host of the eLearning Technology Platform. 
 
-Registered Participants of SANBI-GBIF Training Courses can access the Elearning Platform at the following Link 
+The Elearning Platform can be accessed at the following Link 
 
 <p style="text-align: center;">
   <a href="https://elearning.gbif.es" class="button is-primary is-centered" style="
     margin: auto;
     display:  inline-block;
     text-align: center;
-  ">SANBI-GBIF eLearning Platform</a>
+  ">Chamillo eLearning Platform</a>
 </p>
 
 {% comment %}
-[SANBI-GBIF eLearning Platform](https://elearning.gbif.es){: .button .is-primary }
+[eLearning Platform](https://elearning.gbif.es){: .button .is-primary }
 {% endcomment %}
 
 
 ## Training Courses and Available Content and Curricula
 
-Guests to the platform can access the **SANBI-GBIF Fitness for Use Training Course** using the following credentials and login details:
+**Fitness for Use of Biological Data**
 
-{: .notification}
-**Username:** sanbigbifelearning101@gmail.com 
-**Password:** Guestelearning101
+This course aims to expose participants to the key areas of data management and quality control, which are relevant to the production of data that is “fit-for-use”. This enhanced data is then relevant for use in biodiversity research and assessments that can ultimately inform policy development and environmental decision-making.  Relevant topics include:
+-	Online data cleaning tools
+-	Geo-referencing best practice
+-	New and developing methodologies
 
+This course was first developed as a training workshop held by SANBI-GBIF in 2018 and was facilitated by Arthur Chapman.  
 
 **SANBI-GBIF Hosted Training Events taking place in 2022/23**
 
@@ -47,5 +49,6 @@ Guests to the platform can access the **SANBI-GBIF Fitness for Use Training Cour
 | :------------- | :---------- | :---------- |:----------|:----------|
 |Data Management and Cleaning supporting science, policy and sustainable development|Vernon Visser, Fatima Parker-Allie and Hannelie Snyman|February 2022|Kirstenbosch National Botanical Gardens|
 |Species Distribution Modelling|Vernon Visser|To be Confirmed (2022)|Kirstenbosch National Botanical Gardens|
-|Biodiversity Informatics: Data Analysis, Use and Impact|Vernon Visser|To be Confirmed (2022)|Kirstenbosch National Botanical Gardens|
+|Data Driven DNA & eDNA Course (BioData Advanced)|Norwegian Partnership Initiative|November 2022|TBC|
+|Biodiversity Informatics: Data Analysis, Use and Impact|Vernon Visser|To be Confirmed (2023)|Kirstenbosch National Botanical Gardens|
 
