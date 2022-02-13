@@ -5,7 +5,7 @@ height: 70vh
 permalink: /e-learning
 ---
 
-## To support capacity enhancement activities in the network SANBI-GBIF aims to:
+To support capacity enhancement activities in the network SANBI-GBIF aims to:
 
 1. Build capacity towards ensuring that relevant, high quality biodiversity information is
 available and used by scientists, managers and decision makers,
@@ -43,10 +43,10 @@ This course aims to expose participants to the key areas of data management and 
 
 This course was first developed as a training workshop held by SANBI-GBIF in 2018 and was facilitated by Arthur Chapman.  
 
-**[Click here to go to the Course]** (https://elearning.gbif.es/course/61/about)
+**[Click here to go to the Course]**(https://elearning.gbif.es/course/61/about)
 
 
-## SANBI-GBIF Hosted Training Events taking place in 2022/23
+**SANBI-GBIF Hosted Training Events taking place in 2022/23**
 
 | Course     | Trainer/s   |Date       |Venue        |
 | :------------- | :---------- | :---------- |:----------|:----------|
