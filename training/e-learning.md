@@ -43,7 +43,7 @@ This course aims to expose participants to the key areas of data management and 
 
 This course was first developed as a training workshop held by SANBI-GBIF in 2018 and was facilitated by Arthur Chapman.  
 
-* [Click here to view the Course](https://elearning.gbif.es/course/61/about)
+[**Click here to view the Course**](https://elearning.gbif.es/course/61/about)
 
 
 **SANBI-GBIF Hosted Training Events taking place in 2022/23**
