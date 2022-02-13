@@ -1,12 +1,12 @@
 ---
 title: Call for Applications to the 2022 GBIF Young Researchers Award - National Process
-description: Deadline for receiving national applications for graduate students whose innovative research relies on biodiversity data:30 May 2022 
+description: Deadline for receiving national applications for graduate students whose innovative research relies on biodiversity data: **30 May 2022** 
 date:   2022-02-13
 # categories: jekyll update
 background: /assets/images/YRAImage2022.jpg
 ---
 
-The Global Biodiversity Information Facility is currently advertising the 2022 GBIF Young Researchers Award in biodiversity informatics.  The call is available as a news item on the GBIF website at: https://www.gbif.org/news/6PzaBymtwAEvbpXYtb4d1y/call-for-nominations-to-the-2022-gbif-young-researchers-award.
+The Global Biodiversity Information Facility is currently advertising the 2022 GBIF Young Researchers Award in biodiversity informatics.  The call is available as a news item on the GBIF website at:[https://www.gbif.org/news/6PzaBymtwAEvbpXYtb4d1y/call-for-nominations-to-the-2022-gbif-young-researchers-award](https://www.gbif.org/news/6PzaBymtwAEvbpXYtb4d1y/call-for-nominations-to-the-2022-gbif-young-researchers-award).
 
 The GBIF Young Researchers Award fosters innovative research and discovery in biodiversity informatics by graduate students in Masters and Doctorate programmes at universities, whose studies rely on GBIF mediated data, in countries participating in the GBIF network.  
 
