@@ -40,7 +40,7 @@ This course was first developed as a training workshop held by SANBI-GBIF in 201
 [**The eLearning Platform**](https://elearning.gbif.es)
 
 
-**SANBI-GBIF Hosted Training Events taking place in 2022/23**
+#**SANBI-GBIF Hosted Training Events taking place in 2022/23**
 
 | Course     | Trainer/s   |Date       |Venue        |
 | :------------- | :---------- | :---------- |:----------|:----------|
