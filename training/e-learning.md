@@ -43,7 +43,22 @@ This course aims to expose participants to the key areas of data management and 
 
 This course was first developed as a training workshop held by SANBI-GBIF in 2018 and was facilitated by Arthur Chapman.  
 
+New users can access the course by signing up with the following link: 
 [**Click here to view the Course**](https://elearning.gbif.es/course/61/about)
+
+Registered users can log in to the Elearning Platform and subscribe to the Fitness for Use of Biological Data course by clicking the link below: 
+
+<p style="text-align: center;">
+  <a href="https://elearning.gbif.es" class="button is-primary is-centered" style="
+    margin: auto;
+    display:  inline-block;
+    text-align: center;
+  ">The eLearning Platform</a>
+</p>
+
+{% comment %}
+[The eLearning Platform](https://elearning.gbif.es){: .button .is-primary }
+{% endcomment %}
 
 
 **SANBI-GBIF Hosted Training Events taking place in 2022/23**
