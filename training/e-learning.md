@@ -36,7 +36,7 @@ This course was first developed as a training workshop held by SANBI-GBIF in 201
     margin: auto;
     display:  inline-block;
     text-align: center;
-  ">The eLearning Platform</a>
+  ">Click here to view the Course</a>
 </p>
 
 {% comment %}
