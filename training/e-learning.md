@@ -33,7 +33,7 @@ New users can access the course by signing up with the following link:
 
 [**View the Course**](https://elearning.gbif.es/course/61/about)
 
-Registered users can log in to the Elearning Platform and subscribe to the Fitness for Use of Biological Data course by clicking the link below:
+Registered users can log in to the eLlearning Platform and subscribe to the Fitness for Use of Biological Data course by clicking the link below:
 
 [**Access the eLearning Platform**](https://elearning.gbif.es)
 
@@ -43,7 +43,7 @@ Registered users can log in to the Elearning Platform and subscribe to the Fitne
 | Course     | Trainer/s   |Date       |Venue        |
 | :------------- | :---------- | :---------- |:----------|:----------|
 |Data Management and Cleaning supporting science, policy and sustainable development|Vernon Visser, Fatima Parker-Allie and Hannelie Snyman|February 2022|Kirstenbosch National Botanical Gardens|
-|Species Distribution Modelling|Vernon Visser|To be Confirmed (2022)|Kirstenbosch National Botanical Gardens|
 |Data Driven DNA & eDNA Course (BioData Advanced)|Norwegian Partnership Initiative|November 2022|TBC|
+|Species Distribution Modelling|Vernon Visser|To be Confirmed (2023)|Kirstenbosch National Botanical Gardens|
 |Biodiversity Informatics: Data Analysis, Use and Impact|Vernon Visser|To be Confirmed (2023)|Kirstenbosch National Botanical Gardens|
 
