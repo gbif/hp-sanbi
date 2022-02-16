@@ -33,7 +33,7 @@ New users can access the course by signing up with the following link:
 
 [**View the Course**](https://elearning.gbif.es/course/61/about)
 
-Registered users can log in to the eLlearning Platform and subscribe to the Fitness for Use of Biological Data course by clicking the link below:
+Registered users can log in to the eLearning Platform and subscribe to the Fitness for Use of Biological Data course by clicking the link below:
 
 [**Access the eLearning Platform**](https://elearning.gbif.es)
 
