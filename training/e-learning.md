@@ -31,11 +31,11 @@ This course was first developed as a training workshop held by SANBI-GBIF in 201
 
 New users can access the course by signing up with the following link:
 
-[**Click here to view the Course**](https://elearning.gbif.es/course/61/about)
+[**View the Course**](https://elearning.gbif.es/course/61/about)
 
 Registered users can log in to the Elearning Platform and subscribe to the Fitness for Use of Biological Data course by clicking the link below:
 
-[**The eLearning Platform**](https://elearning.gbif.es)
+[**Access the eLearning Platform**](https://elearning.gbif.es)
 
 
 ## SANBI-GBIF Hosted Training Events taking place in 2022/23
