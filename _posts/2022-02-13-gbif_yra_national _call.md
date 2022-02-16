@@ -10,7 +10,7 @@ The Global Biodiversity Information Facility is currently advertising the 2022 G
 
 The GBIF Young Researchers Award fosters innovative research and discovery in biodiversity informatics by graduate students in Masters and Doctorate programmes at universities, whose studies rely on GBIF mediated data, in countries participating in the GBIF network.  
 
-in line with the national process, please feel free to send your applications to the Node Manager (F.Parker@sanbi.org.za), together with completed documentation, for any eligible candidate by no later than 30th May 2022.  The information and process will be coordinated by the SANBI-GBIF Node, in consultation with the newly established SANBI-GBIF Young Researchers Award Advisory Panel and the Department of Science and Innovation.  A maximum of two nominations can be submitted by a Node to GBIF.  Please find further information regarding the national process for your consideration.
+In line with the national process, please feel free to send your applications to the Node Manager (F.Parker@sanbi.org.za), together with completed documentation, for any eligible candidate by no later than 30th May 2022.  The information and process will be coordinated by the SANBI-GBIF Node, in consultation with the newly established SANBI-GBIF Young Researchers Award Advisory Panel and the Department of Science and Innovation.  A maximum of two nominations can be submitted by a Node to GBIF.  Please find further information regarding the national process for your consideration.
   
 
 [Download the GBIF Young Researchers Award Call Document](/assets/images/SANBI-GBIF_ 2022 YRA CAll.pdf){: .button .is-primary }
