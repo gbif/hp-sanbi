@@ -14,18 +14,17 @@ As a knowledge-based organisation, biodiversity information is the key resource 
 Ultimately, we need to ensure that the data which supports our analysis, are mobilized and priority datasets are available to support analysis for amongst other things, natural capital accounting; and sectors such as energy, climate, water, food, infrastructure, mining and extractives as well as trade and investment.   In a world that counts the United Nations describe data as the lifeblood of decision making and the raw material for accountability.  Thus, good and accurate data is the key building blocks for analysis, in support the 17 Sustainable Development Goals. Biodiversity data also has a potential role in supporting the Post2020 framework of the CBD and IPBES
 
 ## Data Metrics 
-South African institutions have published over 28 000 000 primary biodiversity data records which are globally distributed.  These occurrences are distributed across the different plant kingdoms, with a vaste majority belonging to the Kingdom Animalia.  Birds, make up a large proportion of the animal data, followed by insects, mammals and bony fish. The plant data also comprise over 2 million biodiversity data records, which is a very significant contribution from the botanical network of partners.
+South African institutions have published over 32 000 000 primary biodiversity data records which are globally distributed.  These occurrences are distributed across the different plant kingdoms, with a vaste majority belonging to the Kingdom Animalia.  Birds, make up a large proportion of the animal data, followed by insects, mammals and bony fish. The plant data also comprise over 2 million biodiversity data records, which is a very significant contribution from the botanical network of partners.
 
 ## Biodiversity Data Publishing by South African Institutions   
 
 **Data From South Africa** 
-![**Data From South Africa**](/assets/images/HeatMap2022-V2.JPG) 
-
+![**Data From South Africa**](/assets/images/HeatMap2022-V2.jpg)         
 **Data Mobilized and Published by South African Institutions**   
-![Data mobilization](/assets/images/DM_SAInst_2022.JPG)
-
-**Taxonomic Coverage by Kingdom**   
-![Data Avalialbility](/assets/images/Tax_Cov_King.JPG)
-
-**Taxonomic Coverage of Selected Groups** 
-![Data Avalialbility](/assets/images/Sel_tax_groups.JPG)
+![Data mobilization](/assets/images/DM_SAInst_2022-V2.JPG)
+**Data Mobilized by South African Institutions in 2021 and over time By Kingdom** 
+![Data mobilization](/assets/images/DM_Annual-V3.JPG)
+**Taxonomic Coverage by Kingdom**  
+![Data Avalialbility](/assets/images/Tax_Cov_King-v2.JPG)
+**Taxonomic Coverage of Selected Groups**
+![Data Avalialbility](/assets/images/Sel_tax_groups.JPG) 
