@@ -7,7 +7,7 @@ height: 70vh
 ---
 
 ## Data Overview
-SANBI was established under the auspices of the National Environmental Management: Biodiversity Act, NEMBA (2004) and has a mandate to report on many aspects of biodiversity nationally.  One of SANBI’s very clear mandates are to “Collect, generate process, coordinate and disseminate information about biodiversity and sustainable use of indigenous biological resources and maintain databases”.  
+[SANBI](https://www.sanbi.org/) was established under the auspices of the National Environmental Management: Biodiversity Act, NEMBA (2004) and has a mandate to report on many aspects of biodiversity nationally.  One of SANBI’s very clear mandates are to “Collect, generate process, coordinate and disseminate information about biodiversity and sustainable use of indigenous biological resources and maintain databases”.  
 
 As a knowledge-based organisation, biodiversity information is the key resource which drives research and innovation, supports planning and policy development processes, informs decisions and is the basis to evaluate progress and impact. It is therefore important that our biodiversity information is managed as a strategic asset that will leverage shared value to South Africa in supporting sustainable decisions towards the broader national developmental objectives.
 
