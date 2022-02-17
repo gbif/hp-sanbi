@@ -1,7 +1,7 @@
 ---
 title:  Biodiversity Digitization Conference
 date: 2021-11-07
-background: /assets/images/Anemone.jpg
+background: /assets/images/Lilies_pond.jpg
 imageLicense: |
   *Anthopleura michaelseni* Photo by Fatima Parker-Allie [iNaturalist](https://www.inaturalist.org/observations/20856021) (CC BY-NC)
 description: SANBI-GBIF Participates at the Biodiversity Digitization Conference
