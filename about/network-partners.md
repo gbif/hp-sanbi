@@ -59,7 +59,7 @@ Partners engage with the Node on a range of activities including capacity develo
 |Rhodes University|SANBI-GBIF Student Agreement|
 |University of Kwazulu Natal|SANBI-GBIF Student Agreement|
 |Conquest Analytics and Training|SANBI-GBIF Training Provider Agreement|
-|University of Witswaterand|SANBI-GBIF Training Provider Agreement|
+|University of Witwatersrand|SANBI-GBIF Training Provider Agreement|
 
 ### International Partners
 
