@@ -2,7 +2,7 @@
 title: Successful Data Management and Cleaning Training Event
 date: 2022-05-20
 # categories: jekyll update
-background: /assets/images/DSC_0970.JPG
+background: /assets/images/training-icon-5.jpg
 ---
 
 ## SANBI-GBIF Hosts Successful Data Management and Cleaning Training Event ##
