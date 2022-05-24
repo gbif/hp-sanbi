@@ -20,5 +20,5 @@ of the participants.
 
 An interesting development at the training was also the launch of the new SANBI-GBIF website and the
 [new eLearning Platform](/https://www.sanbi-gbif.org/e-learning), also supported by GBIF-Spain.  Here, the SANBI-GBIF training content and curricula 
-is made available on the site.  This supports the efforts to grow human capital in the field of biodiversity informatics.
+is made available on the site.  This supports the efforts to grow human capital in the field of biodiversity informatics. 
 
