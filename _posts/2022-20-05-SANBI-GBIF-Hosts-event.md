@@ -18,6 +18,6 @@ they could also work on their own datasets, as part of the course activities.  O
 and the value of data sharing via SANBI-GBIF.  The use and application of R, in the course was also very stimulating to many 
 of the participants. 
 
-An interesting development at the training was also the launch of the new [SANBI-GBIF website](https://www.sanbi-gbif.org/) and the
+An interesting development at the training was also the launch of the [new SANBI GBIF website](https://www.sanbi-gbif.org/) and the
 [new eLearning Platform](https://www.sanbi-gbif.org/e-learning). The eLearning platform is also supported by GBIF-Spain. Here the SANBI-GBIF training content and curricula is made available on the site.  This supports the efforts to grow human capital in the field of biodiversity informatics. 
 
