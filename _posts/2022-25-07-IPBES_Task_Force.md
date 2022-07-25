@@ -16,4 +16,4 @@ Engagements with biodiversity programmers and funders, were conducted at the **S
 The South Africa National Biodiversity Institute (SANBI) participated in the Dialogue workshop on addressing knowledge gaps identified in
 the IPBES Global Assessment of Biodiversity and Ecosystem Services, which were led by the IPBES Task Force on Knowledge and Data. 
 
-
+[Click here for more information](https://attend.sri2022.org/meetings/virtual/s5LYep5CAXQW7GQDF)
