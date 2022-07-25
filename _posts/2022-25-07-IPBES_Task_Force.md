@@ -10,6 +10,7 @@ cta:
     
     isPrimary: true
 ---
+![IPBES Logo](/assets/images/IPBES Logo.png)
 
 Engagements with biodiversity programmers and funders, were conducted at the **Sustainability Research & Innovation Congress**, in June. 
 The South Africa National Biodiversity Institute (SANBI) participated in the Dialogue workshop on addressing knowledge gaps identified in
