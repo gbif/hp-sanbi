@@ -7,7 +7,7 @@ imageLicense: |
 description: IPBES Global Assessment of Biodiversity and Ecosystem Services
 cta:
   - text: Congress information
-    
+    published: false
     isPrimary: true
 ---
 ![IPBES Logo](/assets/images/IPBES Logo.png)
