@@ -33,19 +33,23 @@ The Club offers users support in three ways:
   Full suite of online training offered by DataCamp Donates.
 
 **Data Use Club training seminars available**
-![Training seminars](/assets/images/Figure%202%20M.png)
 
 EBAR, EBAR - NatureServe Canada, EBAR - Github repository, and EBAR Training Video 1: Getting Set Up
 
+![Training seminars](/assets/images/Figure%202%20M.png)
+
 **Data Use Club practical sessions available**
-![Practical sessions](/assets/images/Figure%203%20M.png)
+
 Introduction to GFIB.org, how to search for occurrences and species in GBIF, and how to do a spatial search. 
+
+![Practical sessions](/assets/images/Figure%203%20M.png)
 
 **Upcoming Data Use Club practical sessions**
 
 Data Quality: **16 November 2022**
 
 The API and introduction to rgbif and pygbif: 15 February 2023
+![Upcoming practical sessions])(/assets/images/Figure%303%20M.png)
 
 Don’t miss out on these opportunities! Join in on the fun today.
 
