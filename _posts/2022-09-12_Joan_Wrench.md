@@ -17,4 +17,4 @@ cta:
 
 #### Only projects relevant to SANBI’s mandate and research strategy and identified as a priority will be considered.
 
-[click here](https://www.sanbi.org/wp-content/uploads/2022/09/Joan-Wrench-Kirstenbosch-Scholarship-Fund-studentship-projects-final-2022.pdf)
+[Click here for specific projects](https://www.sanbi.org/wp-content/uploads/2022/09/Joan-Wrench-Kirstenbosch-Scholarship-Fund-studentship-projects-final-2022.pdf)
