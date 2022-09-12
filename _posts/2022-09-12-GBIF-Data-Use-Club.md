@@ -13,7 +13,9 @@ cta:
 # GBIF Data Use Club
 ## “Showing, showcasing and supporting data use across the GBIF network”
 
+<div style="text-align: center;">
 ![GBIF Data Use Club](/assets/images/Figure%201%20M.jpg)
+</div>
 
 Attention South African scientific community! Are you interested in developing your data literacy skills? Well, here is an opportunity for you.
 The Global Biodiversity Information Facility (GBIF) has created a space promoting the interaction between data users and providing users with tools
@@ -49,8 +51,8 @@ Introduction to GFIB.org, how to search for occurrences and species in GBIF, and
 Data Quality: **16 November 2022**
 
 The API and introduction to rgbif and pygbif: 15 February 2023
-![Upcoming practical sessions])(/assets/images/Figure%303%20M.png)
+![Upcoming practical sessions](/assets/images/Figure%204%20M.png)
 
 Don’t miss out on these opportunities! Join in on the fun today.
 
-[Click here ror more information about the club, news and events, and resources for using data: Data Use Club (gbif.org)](https://www.gbif.org/data-use-club)
+[Click here for more information about the club, news and events, and resources for using data: Data Use Club (gbif.org)](https://www.gbif.org/data-use-club)
