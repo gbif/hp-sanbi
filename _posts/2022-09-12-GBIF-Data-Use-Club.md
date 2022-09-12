@@ -13,7 +13,7 @@ cta:
 # GBIF Data Use Club
 ## “Showing, showcasing and supporting data use across the GBIF network”
 
-![/assets/images/Figure%201%20M.jpg](/assets/images/Figure%201%20M.jpg)
+![GBIF Data Use Club](/assets/images/Figure%201%20M.jpg)
 
 Attention South African scientific community! Are you interested in developing your data literacy skills? Well, here is an opportunity for you.
 The Global Biodiversity Information Facility (GBIF) has created a space promoting the interaction between data users and providing users with tools
@@ -33,12 +33,12 @@ The Club offers users support in three ways:
   Full suite of online training offered by DataCamp Donates.
 
 **Data Use Club training seminars available**
-![assets/images/Figure%202%20M.png](/assets/images/Figure%202%20M.png)
+![Training seminars](/assets/images/Figure%202%20M.png)
 
 EBAR, EBAR - NatureServe Canada, EBAR - Github repository, and EBAR Training Video 1: Getting Set Up
 
 **Data Use Club practical sessions available**
-
+![Practical sessions](/assets/images/Figure%203%20M.png)
 Introduction to GFIB.org, how to search for occurrences and species in GBIF, and how to do a spatial search. 
 
 **Upcoming Data Use Club practical sessions**
