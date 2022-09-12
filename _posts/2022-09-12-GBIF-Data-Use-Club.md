@@ -13,6 +13,8 @@ cta:
 # GBIF Data Use Club
 ## “Showing, showcasing and supporting data use across the GBIF network”
 
+![/assets/images/Figure%201%20M.jpg](/assets/images/Figure%201%20M.jpg)
+
 Attention South African scientific community! Are you interested in developing your data literacy skills? Well, here is an opportunity for you.
 The Global Biodiversity Information Facility (GBIF) has created a space promoting the interaction between data users and providing users with tools
 to develop data literacy skills. 
