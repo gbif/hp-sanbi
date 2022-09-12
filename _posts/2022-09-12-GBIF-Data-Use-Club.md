@@ -33,11 +33,12 @@ The Club offers users support in three ways:
   Full suite of online training offered by DataCamp Donates.
 
 **Data Use Club training seminars available**
-![/assets/images/Figure%201%20M.jpg](/assets/images/Figure%201%20M.jpg)
+![assets/images/Figure%202%20M.png](/assets/images/Figure%202%20M.png)
 
 EBAR, EBAR - NatureServe Canada, EBAR - Github repository, and EBAR Training Video 1: Getting Set Up
 
 **Data Use Club practical sessions available**
+
 Introduction to GFIB.org, how to search for occurrences and species in GBIF, and how to do a spatial search. 
 
 **Upcoming Data Use Club practical sessions**
