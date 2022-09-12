@@ -33,6 +33,8 @@ The Club offers users support in three ways:
   Full suite of online training offered by DataCamp Donates.
 
 **Data Use Club training seminars available**
+![/assets/images/Figure%201%20M.jpg](/assets/images/Figure%201%20M.jpg)
+
 EBAR, EBAR - NatureServe Canada, EBAR - Github repository, and EBAR Training Video 1: Getting Set Up
 
 **Data Use Club practical sessions available**
