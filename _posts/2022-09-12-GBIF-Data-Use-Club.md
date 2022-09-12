@@ -44,4 +44,4 @@ The API and introduction to rgbif and pygbif: 15 February 2023
 
 Don’t miss out on these opportunities! Join in on the fun today.
 
-[For more information about the club, news and events, and resources for using data: Data Use Club (gbif.org)](https://www.gbif.org/data-use-club)
+[Click here ror more information about the club, news and events, and resources for using data: Data Use Club (gbif.org)](https://www.gbif.org/data-use-club)
