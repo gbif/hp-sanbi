@@ -6,11 +6,11 @@ imageLicense: |
   *Anthopleura michaelseni* Photo by Fatima Parker-Allie [iNaturalist](https://www.inaturalist.org/observations/20856021) (CC BY-NC)
 description: GBIF Data Use Club
 cta:
-  - text: GBIF Data Use Clun
+  - text: GBIF Data Use Club
     href: https://www.gbif.org/data-use-club
     isPrimary: true
 ---
-# GBIF Data Use Club
+
 ## “Showing, showcasing and supporting data use across the GBIF network”
 
 ![GBIF Data Use Club](/assets/images/Figure%201%20M.jpg) 
@@ -53,4 +53,4 @@ The API and introduction to rgbif and pygbif: 15 February 2023
 
 Don’t miss out on these opportunities! Join in on the fun today.
 
-For more information about the club, news and events, and resources for using data: Data Use Club [Click here](https://www.gbif.org/data-use-club)
+For more information about the club, news and events, and resources for using data:  [Click here](https://www.gbif.org/data-use-club)
