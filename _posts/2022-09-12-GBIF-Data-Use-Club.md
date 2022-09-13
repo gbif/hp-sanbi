@@ -17,7 +17,7 @@ Attention South African scientific community! Are you interested in developing y
 The Global Biodiversity Information Facility (GBIF) has created a space promoting the interaction between data users and providing users with tools
 to develop data literacy skills. 
 
-**What does the Data Use Club have to offer?**
+## **What does the Data Use Club have to offer?**
 
 The Club offers users support in three ways:
 
@@ -33,21 +33,21 @@ The Club offers users support in three ways:
   
   Full suite of online training offered by DataCamp Donates.
 
-**Data Use Club training seminars available**
+## **Data Use Club training seminars available**
 
 EBAR, EBAR - NatureServe Canada, EBAR - Github repository, and EBAR Training Video 1: Getting Set Up
 
-**Data Use Club practical sessions available**
+## **Data Use Club practical sessions available**
 
 Introduction to GFIB.org, how to search for occurrences and species in GBIF, and how to do a spatial search. 
 
-**Upcoming Data Use Club practical sessions**
+## **Upcoming Data Use Club practical sessions**
 
 Data Quality: **16 November 2022**
 
-The API and introduction to rgbif and pygbif: 15 February 2023
+The API and introduction to rgbif and pygbif: **15 February 2023**
 
 
-Don’t miss out on these opportunities! Join in on the fun today.
+## **Don’t miss out on these opportunities! Join in on the fun today.**
 
 For more information about the club, news and events, and resources for using data:  [Click here](https://www.gbif.org/data-use-club)
