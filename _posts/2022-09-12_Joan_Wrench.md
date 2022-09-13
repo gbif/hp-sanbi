@@ -15,6 +15,6 @@ cta:
 
 #### The South African National Biodiversity Institute (SANBI) is pleased to announce a call for applications for Honours, Masters and Doctoral (or equivalent NQF levels) scholarships for full time studies in 2023.
 
-#### Only projects relevant to SANBI’s mandate and research strategy and identified as a priority will be considered.
+**Only projects relevant to SANBI’s mandate and research strategy and identified as a priority will be considered.**
 
 [Click here for specific projects](https://www.sanbi.org/wp-content/uploads/2022/09/Joan-Wrench-Kirstenbosch-Scholarship-Fund-studentship-projects-final-2022.pdf)
