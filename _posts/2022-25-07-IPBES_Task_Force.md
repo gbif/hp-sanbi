@@ -1,17 +1,13 @@
 ---
 title: Sustainability Research & Innovation Congress
 date: 2022-07-25
-background: /assets/images/FB_IMG_1640620986129.jpg
-imageLicense: |
-  *Anthopleura michaelseni* Photo by Fatima Parker-Allie [iNaturalist](https://www.inaturalist.org/observations/20856021) (CC BY-NC)
+background: /assets/images/IPBES%20Logo1.png
 description: IPBES Global Assessment of Biodiversity and Ecosystem Services
 cta:
   - text: Congress information
-    published: false
+    published: true
     isPrimary: true
 ---
-
-![IPBES Logo](/assets/images/IPBES Logo.png)
 
 Engagements with biodiversity programmers and funders, were conducted at the **Sustainability Research & Innovation Congress**, in June. 
 The South Africa National Biodiversity Institute (SANBI) participated in the Dialogue workshop on addressing knowledge gaps identified in
