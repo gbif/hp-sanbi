@@ -4,9 +4,9 @@ date: 2022-09-12
 background: /assets/images/GBIF.jpg
 imageLicense: |
   *Anthopleura michaelseni* Photo by Fatima Parker-Allie [iNaturalist](https://www.inaturalist.org/observations/20856021) (CC BY-NC)
-description: GBIF Data Use Club
+description: 
 cta:
-  - text: GBIF Data Use Club
+  - text: 
     href: https://www.gbif.org/data-use-club
     isPrimary: true
 ---
