@@ -11,7 +11,7 @@ cta:
     isPrimary: true
 ---
 
-![GBIF Logo](/assets/images/GBIF.jpg)
+![GBIF Logo](/assets/images/GBIF-2015.jpg)
 
 ## “Showing, showcasing and supporting data use across the GBIF network”
 
@@ -37,7 +37,7 @@ The Club offers users support in three ways:
 
 ## **Data Use Club training seminars available**
 
-EBAR, EBAR - NatureServe Canada, EBAR - Github repository, and EBAR Training Video 1: Getting Set Up
+NatureServe Canada’s Ecosystem-based automated range maps (EBAR) initiative, EBAR - Github repository, and EBAR Training Video 1: Getting Set Up
 
 ## **Data Use Club practical sessions available**
 
