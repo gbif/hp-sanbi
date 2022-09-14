@@ -10,7 +10,6 @@ cta:
     href: https://www.gbif.org/data-use-club
     isPrimary: true
 ---
-
 ![GBIF Logo](/assets/images/GBIF-2015.jpg)
 ## “Showing, showcasing and supporting data use across the GBIF network”
 
