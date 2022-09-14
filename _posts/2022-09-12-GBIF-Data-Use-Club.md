@@ -10,7 +10,8 @@ cta:
     href: https://www.gbif.org/data-use-club
     isPrimary: true
 ---
-![GBIF Logo](/assets/images/GBIF-2015.jpg)
+
+![GBIF Logo](/assets/images/GBIF.jpg)
 ## “Showing, showcasing and supporting data use across the GBIF network”
 
 Attention South African scientific community! Are you interested in developing your data literacy skills? Well, here is an opportunity for you.
