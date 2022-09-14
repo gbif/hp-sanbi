@@ -1,6 +1,6 @@
 ---
 title:  GBIF Data Use Club
-date: 2021-11-07
+date: 2022-09-12
 background: /assets/images/GBIF.jpg
 imageLicense: |
   *Anthopleura michaelseni* Photo by Fatima Parker-Allie [iNaturalist](https://www.inaturalist.org/observations/20856021) (CC BY-NC)
