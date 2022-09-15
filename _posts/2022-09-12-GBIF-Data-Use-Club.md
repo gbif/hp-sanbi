@@ -11,6 +11,8 @@ cta:
     isPrimary: true
 ---
 
+[Click here for more information](https://www.gbif.org/data-use-club)
+
 ## “Showing, showcasing and supporting data use across the GBIF network”
 
 Attention South African scientific community! Are you interested in developing your data literacy skills? Well, here is an opportunity for you.
