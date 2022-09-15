@@ -7,7 +7,7 @@ imageLicense: |
 description: 
 cta:
   - text: GBIF Data Use Club
-    href: 
+    href: https://www.gbif.org/data-use-club
     isPrimary: true
 ---
 
