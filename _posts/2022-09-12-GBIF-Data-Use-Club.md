@@ -1,10 +1,10 @@
 ---
 title:  GBIF Data Use Club
 date: 2022-09-12
-background: /assets/images/Protea_highres_cropped.jpg
+background: /assets/images/Figure%201%20M.jpg
 imageLicense: |
   *Anthopleura michaelseni* Photo by Fatima Parker-Allie [iNaturalist](https://www.inaturalist.org/observations/20856021) (CC BY-NC)
-description: 
+description: GBIF Data Use Club
 cta:
   - text: 
     href: https://www.gbif.org/data-use-club
@@ -12,7 +12,6 @@ cta:
 ---
 
 ![GBIF Logo](/assets/images/GBIF.jpg)
-![Figure1](/assets/images/Figure%201%20M.jpg)
 
 ## “Showing, showcasing and supporting data use across the GBIF network”
 
