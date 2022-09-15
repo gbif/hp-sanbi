@@ -6,7 +6,7 @@ imageLicense: |
   *Anthopleura michaelseni* Photo by Fatima Parker-Allie [iNaturalist](https://www.inaturalist.org/observations/20856021) (CC BY-NC)
 description: GBIF Data Use Club
 cta:
-  - text: 
+  - text: GBIF Data Use Club
     href: https://www.gbif.org/data-use-club
     isPrimary: true
 ---
