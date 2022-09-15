@@ -11,7 +11,6 @@ cta:
     isPrimary: true
 ---
 
-[Click here for more information](https://www.gbif.org/data-use-club)
 
 ## “Showing, showcasing and supporting data use across the GBIF network”
 
