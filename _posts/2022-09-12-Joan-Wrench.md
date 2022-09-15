@@ -1,5 +1,5 @@
 ---
-title:  Joan Wrench Kirstenbosch Scholarshp fund
+title:  Joan Wrench Kirstenbosch Scholarship fund
 date: 2022-09-12
 background: /assets/images/FB_IMG_1640620986129.jpg
 imageLicense: |
