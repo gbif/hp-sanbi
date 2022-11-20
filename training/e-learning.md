@@ -20,6 +20,21 @@ SANBI wishes to acknowledge GBIF-Spain, as the host of the eLearning Technology 
 
 ## Training Courses and Available Content and Curricula
 
+## Data Management and Cleaning supporting Science, Policy and Sustainable Development ##
+
+This course aims to focus on the management and cleaning of primary biodiversity data, to ensure that data and the information derived from this is relevant, and can ultimately be used for improved decision making. Through this course, participants will learn more about the SANBI-GBIF Node and the GBIF Platform.  Participants will also be introduced to key software packages to manage, clean and visualize data such as the R package and QGIS. Participants will also learn about R basics, issues with biodiversity data and the need for data cleaning, getting a standardized taxonomy, resolving coordinate issues and biodiversity geo referencing.
+
+This course was first developed as a training workshop conducted by SANBI-GBIF and was facilitated by Vernon Visser and Fatima Parker-Allie. 
+
+New users can access the course by signing up with the following link:
+
+[**View the Course**]
+
+Registered users can log in to the eLearning Platform and subscribe Data Management and Cleaning supporting Science, Policy and Sustainable Development course by clicking the link below:
+
+[**Access the eLearning Platform**] (https://elearning.gbif.es)
+
+
 **Fitness for Use of Biological Data**
 
 This course aims to expose participants to the key areas of data management and quality control, which are relevant to the production of data that is “fit-for-use”. This enhanced data is then relevant for use in biodiversity research and assessments that can ultimately inform policy development and environmental decision-making.  Relevant topics include:
