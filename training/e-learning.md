@@ -20,8 +20,6 @@ SANBI wishes to acknowledge GBIF-Spain, as the host of the eLearning Technology 
 
 ## Training Courses and Available Content and Curricula
 
-
-
 **Data Management and Cleaning supporting Science, Policy and Sustainable Development**
 
 This course aims to focus on the management and cleaning of primary biodiversity data, to ensure that data and the information derived from this is relevant, and can ultimately be used for improved decision making. Through this course, participants will learn more about the SANBI-GBIF Node and the GBIF Platform.  Participants will also be introduced to key software packages to manage, clean and visualize data such as the R package and QGIS. Participants will also learn about R basics, issues with biodiversity data and the need for data cleaning, getting a standardized taxonomy, resolving coordinate issues and biodiversity geo referencing.
@@ -54,13 +52,26 @@ Registered users can log in to the eLearning Platform and subscribe to the Fitne
 
 [**Access the eLearning Platform**](https://elearning.gbif.es)
 
+**Species Distribution Modelling**
+
+This course is intended to focus on the use and application of data, with species distribution modelling being the key focus area of this short course.  Species distribution modelling, or niche modelling as it is commonly referred to, is a data analysis technique using primary biodiversity data, together with environmental data to predict spatial patterns of environmental suitability for species.  This technique has received considerable attention in the last decade and is a growing area of research in ecology, conservation and invasion biology.  This course has focused on the use of R for species distribution modelling and is relevant for both terrestrial and marine stakeholder communities.  
+
+This course was first developed as a training workshop held by SANBI-GBIF in 2015 and was facilitated by Dr. Vernon Visser and Ms. Fatima Parker-Allie.
+
+New users of the eLearning Platform can view details of the course, and access the platform by signing up with the following link:
+
+View the Course and Sign-Up
+
+Registered users can log in to the eLearning Platform and subscribe to the SANBI-GBIF course in using R for Species Distribution Modelling by clicking the link below:
+
+[**Access the eLearning Platform**](https://elearning.gbif.es)
 
 ## SANBI-GBIF Hosted Training Events taking place in 2022/23
 
 | Course     | Trainer/s   |Date       |Venue        |
 | :------------- | :---------- | :---------- |:----------|:----------|
 |Data Management and Cleaning supporting science, policy and sustainable development|Vernon Visser, Fatima Parker-Allie and Hannelie Snyman|February 2022|Kirstenbosch National Botanical Gardens|
-|Data Driven DNA & eDNA Course (BioData Advanced)|Norwegian Partnership Initiative|November 2022|TBC|
+|Data Driven DNA & eDNA Course (BioData Advanced)|Norwegian Partnership Initiative|To be Confirmed (early 2023)|TBC|
 |Species Distribution Modelling|Vernon Visser|To be Confirmed (2023)|Kirstenbosch National Botanical Gardens|
 |Biodiversity Informatics: Data Analysis, Use and Impact|Vernon Visser|To be Confirmed (2023)|Kirstenbosch National Botanical Gardens|
 
