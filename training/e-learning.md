@@ -28,7 +28,7 @@ This course was first developed as a training workshop conducted by SANBI-GBIF a
 
 New users of the eLearning Platform can view details of the course, and access the platform by signing up with the following link:
 
-**View the Course and Sign-Up**
+[**View the Course and Sign-Up**](https://elearning.gbif.es/course/120/about) 
 
 Registered users can log in to the eLearning Platform and subscribe to the Data Management and Cleaning supporting Science, Policy and Sustainable Development course by clicking the link below:
 
