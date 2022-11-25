@@ -60,7 +60,7 @@ This course was first developed as a training workshop held by SANBI-GBIF in 201
 
 New users of the eLearning Platform can view details of the course, and access the platform by signing up with the following link:
 
-View the Course and Sign-Up
+[**View the Course and Sign-Up**](https://elearning.gbif.es/course/86/about)
 
 Registered users can log in to the eLearning Platform and subscribe to the SANBI-GBIF course in using R for Species Distribution Modelling by clicking the link below:
 
