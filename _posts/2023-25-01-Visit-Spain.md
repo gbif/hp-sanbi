@@ -13,6 +13,7 @@ The expected impact of the project entitled “Cross-continental partnership to 
 to create capacity in data mining and big data handling, and to jointly develop an eLearning training course on “analytical techniques in biodiversity big data”. 
 The project aims to capacitate upwards of 20 participants, with trainers from Spain and Ghana, and will also produce relevant training materials for further 
 rollout of training events.
+
 This joint venture included training and information exchange on the [eLearning platform](https://elearning.gbif.es/) which was released in February 2022 at a
 Data Cleaning workshop held in Cape Town. This platform is hosted by GBIF-Spain. 
 
@@ -25,7 +26,7 @@ SANBI-GBIF and GBIF Spain aim to optimize efforts, and grow national capacity, w
 biodiversity informatics community. 
 
 Further topics covered at the meeting included artificial intelligence (AI) and ‘big data’ by Dr. Fernando Aguilar (Institute of Physics of Cantabria,
-specialising in computing and data science, Figure 3), and contributions by Professor David Galicia from the University of Navarra (Figure 4), with a focus on the use and application of software like “R”, “RStudio” and the value of APIs like rgbif for accessing, downloading, and visualising biodiversity data. The use of the R programming language in Jupyter Notebook, which is a web based interactive computing platform was also explored. Other aspects also included advances in machine learning and deep learning leading to the ability to decipher the content of natural images. This can provide new insight for researchers and make difficult analyses of a natural images a routine task. 
+specialising in computing and data science), and contributions by Professor David Galicia from the University of Navarra, with a focus on the use and application of software like “R”, “RStudio” and the value of APIs like rgbif for accessing, downloading, and visualising biodiversity data. The use of the R programming language in Jupyter Notebook, which is a web based interactive computing platform was also explored. Other aspects also included advances in machine learning and deep learning leading to the ability to decipher the content of natural images. This can provide new insight for researchers and make difficult analyses of a natural images a routine task. 
 
 In addition, data cleaning techniques were discussed, particularly enhancing the quality of data with further discussion about aspects like the quality
 index for data publishing. This index allows for scoring of a dataset based on quality. Data reduction techniques applied to digital accessible knowledge 
