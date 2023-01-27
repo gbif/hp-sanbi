@@ -11,8 +11,7 @@ that the project is “a beautiful challenge” as it is taking us into an area 
 
 The expected impact of the project entitled “Cross-continental partnership to investigate data mining approaches for impactful data use cases and stories” is
 to create capacity in data mining and big data handling, and to jointly develop an eLearning training course on “analytical techniques in biodiversity big data”. 
-The project aims to capacitate upwards of 20 participants, with trainers from Spain and Ghana, and will also produce relevant training materials for further 
-rollout of training events.
+The project aims to capacitate upwards of 20 participants, with trainers from Spain, Ghana and South Africa, and will also produce relevant training materials for further rollout of training events.
 
 This joint venture included training and information exchange on the [eLearning platform](https://elearning.gbif.es/) which was released in February 2022 at a
 Data Cleaning workshop held in Cape Town. This platform is hosted by GBIF-Spain. 
