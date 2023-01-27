@@ -2,7 +2,7 @@
 title: Call for nominations to the 2023 GBIF Graduate Researchers Award
 date:   2022-01-23
 # categories: jekyll update
-background: /assets/images/Research_1.png
+background: /assets/images/Research_1_1.png
 ---
 
 **Call for nominations to the 2023 GBIF Graduate Researchers Award** 
