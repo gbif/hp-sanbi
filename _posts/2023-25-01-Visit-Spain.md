@@ -31,6 +31,7 @@ In addition, data cleaning techniques were discussed, particularly enhancing the
 index for data publishing. This index allows for scoring of a dataset based on quality. Data reduction techniques applied to digital accessible knowledge 
 (DAK) was also addressed, especially as this relates to aspects like time, geographic space, and the taxonomy of biodiversity data. Ultimately,
 data should be fit for use to ascertain what questions can be asked from the data.  
+
 An exciting outcome from this collaboration is the training workshop which will be hosted by SANBI-GBIF in Cape Town this June.
 
 Keep your eyes peeled for the Call for applications which will be released in March 2023 on [SANBI](https://www.sanbi.org/)
