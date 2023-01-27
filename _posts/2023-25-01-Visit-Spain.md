@@ -25,12 +25,12 @@ SANBI-GBIF and GBIF Spain aim to optimize efforts, and grow national capacity, w
 biodiversity informatics community. 
 
 Further topics covered at the meeting included artificial intelligence (AI) and ‘big data’ by Dr. Fernando Aguilar (Institute of Physics of Cantabria,
-specialising in computing and data science), and contributions by Professor David Galicia from the University of Navarra, with a focus on the use and application of software like “R”, “RStudio” and the value of APIs like rgbif for accessing, downloading, and visualising biodiversity data. The use of the R programming language in Jupyter Notebook, which is a web based interactive computing platform was also explored. Other aspects also included advances in machine learning and deep learning leading to the ability to decipher the content of natural images. This can provide new insight for researchers and make difficult analyses of a natural images a routine task. 
+specialising in computing and data science), and contributions by Professor David Galicia from the University of Navarra, with a focus on the use and application of software like “R”, “RStudio” and the value of APIs like rgbif for accessing, downloading, and visualising biodiversity data. The use of the R programming language in Jupyter Notebook, which is a web based interactive computing platform was also explored. Other aspects also included advances in machine learning and deep learning leading to the ability to decipher the content of natural images. This can provide new insight for researchers and make difficult analyses of natural images a routine task. 
 
 In addition, data cleaning techniques were discussed, particularly enhancing the quality of data with further discussion about aspects like the quality
 index for data publishing. This index allows for scoring of a dataset based on quality. Data reduction techniques applied to digital accessible knowledge 
 (DAK) was also addressed, especially as this relates to aspects like time, geographic space, and the taxonomy of biodiversity data. Ultimately,
-data should be fit for use to ascertain what questions can be asked from the data, specifically in response to the societal challenges in the national context.
+data should be fit for use to ascertain what questions can be asked from the data.  
 An exciting outcome from this collaboration is the training workshop which will be hosted by SANBI-GBIF in Cape Town this June.
 
 Keep your eyes peeled for the Call for applications which will be released in March 2023 on [SANBI](https://www.sanbi.org/)
