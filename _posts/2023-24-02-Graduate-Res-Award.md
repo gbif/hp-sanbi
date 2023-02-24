@@ -78,6 +78,7 @@ Awardees are expected to acknowledge GBIF support when disseminating research re
 SANBI-GBIF looks forward to receiving your applications. 
 
 **Fatima Parker-Allie**
+
 Deputy Director: Biodiversity Informatics and Partnerships
 
 SANBI-GBIF Node Manager
