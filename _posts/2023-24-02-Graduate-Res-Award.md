@@ -5,21 +5,23 @@ date:   2023-02-23
 background: /assets/images/Strelitzia.jpg
 ---
 
-The call is now open for the GBIF 2023 Graduate Researchers Award (previously the Young Researchers
-Award). The award fosters innovative research and discovery in biodiversity informatics by graduate
+The call is now open for the [GBIF 2023 Graduate Researchers Award (previously the Young Researchers
+Award).](https://www.gbif.org/news/6gyLOum00YsYc4OtVGK33Y/call-for-nominations-to-the-2023-gbif-graduate-researchers-award)
+The award fosters innovative research and discovery in biodiversity informatics by graduate
 students in master’s and doctorate programmes at universities, whose studies rely on GBIF mediated data,
 in countries participating in the GBIF network.
 
 The 2023 programme will provide €5,000 prizes recognizing the work of two early-career researchers
 preferably, one master’s and one PhD candidate—nominated by the Heads of Delegation and Node
-Managers from GBIF Participant countries.
+Managers from [GBIF Participant countries.](https://www.gbif.org/the-gbif-network)
 
 South Africa, as a GBIF Participant Country, will nominate two candidates selected from the national
 applications submitted to the SANBI-GBIF Node until 26 May 2023. This selection will be supported through
 the SANBI-GBIF Graduate Researcher Award Advisory Panel. The Department of Science and Innovation will
 engage with the SANBI-GBIF Node in submission of the two South African applicants to GBIF.
 
-A jury organized by the GBIF Science Committee will select two award recipients from the pool of nominees
+A jury organized by the [GBIF Science Committee](https://www.gbif.org/contact-us/directory?group=scienceCommittee)
+will select two award recipients from the pool of nominees
 whose names are received by the GBIF Secretariat by 19 June 2023. The winners will be announced at the
 30th meeting of the GBIF Governing Board planned for Canberra, Australia, in October 2023.
 
@@ -60,8 +62,9 @@ composition and traits, biogeography, ecology, systematics, etc.).
 
 **Selection process and criteria**
 
-The GBIF Science Committee will review the nominations and select winners of the Graduate Researchers
-Awards.
+The [GBIF Science Committee](https://www.gbif.org/contact-us/directory?group=scienceCommittee)
+will review the nominations and select winners of the Graduate Researchers Awards.
+
 The criteria for the awards include:
 
 • Originality and innovation
