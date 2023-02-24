@@ -73,7 +73,7 @@ The criteria for the awards include:
 of biological diversity
 
 Proposals that are not selected may be updated and resubmitted for consideration in subsequent years.
-Awardees are expected to acknowledge GBIF support when disseminating research results via peerreviewed publications, presentations at professional meetings, and other media.
+Awardees are expected to acknowledge GBIF support when disseminating research results via peer reviewed publications, presentations at professional meetings, and other media.
 
 SANBI-GBIF looks forward to receiving your applications. 
 
@@ -83,6 +83,3 @@ Deputy Director: Biodiversity Informatics and Partnerships
 
 SANBI-GBIF Node Manager
 
-Foundational Biodiversity Science Division
-
-South African National Biodiversity Institute
