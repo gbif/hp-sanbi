@@ -16,13 +16,13 @@ preferably, one master’s and one PhD candidate—nominated by the Heads of Del
 Managers from [GBIF Participant countries.](https://www.gbif.org/the-gbif-network)
 
 South Africa, as a GBIF Participant Country, will nominate two candidates selected from the national
-applications submitted to the SANBI-GBIF Node until 26 May 2023. This selection will be supported through
+applications submitted to the SANBI-GBIF Node until **26 May 2023.** This selection will be supported through
 the SANBI-GBIF Graduate Researcher Award Advisory Panel. The Department of Science and Innovation will
 engage with the SANBI-GBIF Node in submission of the two South African applicants to GBIF.
 
 A jury organized by the [GBIF Science Committee](https://www.gbif.org/contact-us/directory?group=scienceCommittee)
 will select two award recipients from the pool of nominees
-whose names are received by the GBIF Secretariat by 19 June 2023. The winners will be announced at the
+whose names are received by the GBIF Secretariat by **19 June 2023.** The winners will be announced at the
 30th meeting of the GBIF Governing Board planned for Canberra, Australia, in October 2023.
 
 **Eligibility**
