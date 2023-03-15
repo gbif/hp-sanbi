@@ -2,7 +2,7 @@
 title: Proposal and quotation to support SANBI-GBIF doing  review of the impact of data use and citation
 date:   2023-03-15
 # categories: jekyll update
-background: /assets/images/Dragonfly.jpg
+background: /assets/images/Strelitzia.jpg
 ---
 
 **South African National Biodiversity Institute(SANBI) requires a service provider proposal and quotation
