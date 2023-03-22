@@ -17,14 +17,14 @@ background: /assets/images/Protea_highres_cropped.jpg
 
 **Background and Course Content**
 
-SANBI-GBIF in collaboration with GBIF-Spain is hosting a training workshop focused on analytical techniques in using biodiversity big data.  
+SANBI-GBIF in collaboration with GBIF-Spain is hosting a training workshop focused on analytical techniques in using biodiversity big data.
 SANBI is the home of the South African Node of the Global Biodiversity Information Facility (GBIF) and is funded by the Department of 
 Science and Innovation.  Its vision is to contribute to South Africa's sustainable development by facilitating access to biodiversity and
 related information on the internet.  This course ties into SANBI-GBIF’s strategy to develop biodiversity informatics skills nationally.
 
-The vast quantities of biodiversity data put together in a uniform, FAIR way, and now available, in part led by GBIF, is recognized
-as an enabler of high impact innovative science, and a key to respond to the current societal challenges. However, the exploitation of this
-resource is often hindered by limited capacity. 
+The vast quantities of biodiversity data put together in a uniform, FAIR way, and now available, in part led by GBIF,
+is recognized as an enabler of high impact innovative science, and a key to respond to the current societal challenges. 
+However, the exploitation of this resource is often hindered by limited capacity. 
 
 SANBI-GBIF in Partnership with GBIF Spain are exploring ways of using big data analytics to ena-ble the mining of the data, and the
 identification of some key tools, techniques and approaches that can be used to ask some pertinent research questions related to time, 
@@ -37,8 +37,9 @@ and species distribution modelling using deep learning approaches.
 **Workshop Information**
 
 This course will include trainers from GBIF South Africa and GBIF Spain including key experts from the University of Cantabria and 
-University of Cape Town (SEEC), with expertise in Data Sci-ence and Big Data Analytics. The workshop will take place at
-the IZIKO South African Museum, from the **26 June-30 June 2023**. The course will be conducted in English. 
+University of Cape Town (SEEC), with expertise in Data Sci-ence and Big Data Analytics. 
+The workshop will take place at the IZIKO South African Museum, 
+from the **26 June-30 June 2023**. The course will be conducted in English. 
 
 **Target Audience and Minimum requirements for participants**
 
