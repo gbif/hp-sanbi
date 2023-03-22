@@ -5,7 +5,7 @@ date:   2023-03-22
 background: /assets/images/Protea_highres_cropped.jpg
 ---
 
-# Call for Applications for SANBI-GBIF Training in Analytical Techniques in Biodiversity Big Data using GBIF-Making an Impact.
+# Call for Applications for SANBI-GBIF Training in Analytical Techniques in Biodiversity Big Data using GBIF-Making an Impact
 
 # DATE: 26-30 June 2023
 
