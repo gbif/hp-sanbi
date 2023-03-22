@@ -5,15 +5,15 @@ date:   2023-03-22
 background: /assets/images/Beeflowersmall.jpg
 ---
 
-#CALL FOR APPLICATIONS#
+# CALL FOR APPLICATIONS
 
-#ANALYTICAL TECHNIQUES IN BIODIVERSITY BIG DATA USING GBIF: MAKING AN IMPACT#
+# ANALYTICAL TECHNIQUES IN BIODIVERSITY BIG DATA USING GBIF: MAKING AN IMPACT
 
-#DATE: 26-30 June 2023#
+# DATE: 26-30 June 2023
 
-**Venue: The Iziko South African Museums, Cape Town**
+## Venue: The Iziko South African Museums, Cape Town
 
-**Deadline for submissions: 11th April 2023**
+## Deadline for submissions: 11th April 2023
 
 **Background and Course Content**
 
@@ -54,17 +54,19 @@ b.	Commitment to apply and disseminate skills
 
 **Application Process**
 
-To apply, please follow the link to complete the application form and submit the form with the required documents listed below. Please name each document clearly. Files must be <10MB. Applications close at 18:00 on 11th April 2023.  Feedback will be provided by the 31st April 2023
+To apply, [please follow the link](https://docs.google.com/forms/d/e/1FAIpQLScyQjUFNyZnluh7BgGX1ykcVWmDrhOVrUKpXMLKlp4xcqkvaw/viewform)
+to complete the application form and submit the form with the required documents listed below. Please name each document clearly. 
+Files must be <10MB. Applications close at 18:00 on 11th April 2023.  Feedback will be provided by the **31st April 2023**
 
 
 **Application pack**
 
 The application pack must include:
-•	A completed application form (use the link above)
-•	A motivation (one page or less)
-•	If applying for funding, a separate short motivation
-•	A letter of support from your supervisor or institution
-•	A copy of your CV 
+*	A completed application form (use the link above)
+*	A motivation (one page or less)
+*	If applying for funding, a separate short motivation
+*	A letter of support from your supervisor or institution
+*	A copy of your CV 
 
 Note that these documents will be used exclusively for the evaluation of applications and verification of eligibility and will not be distributed or used for any other purpose. 
 
