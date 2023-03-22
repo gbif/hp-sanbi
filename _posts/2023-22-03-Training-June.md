@@ -2,7 +2,7 @@
 title: Analytical Techniques in Biodiversity Big Data using GBIF
 date:   2023-03-22
 # categories: jekyll update
-background: /assets/images/Beeflowersmall.jpg
+background: /assets/images/Protea_highres_cropped.jpg
 ---
 
 # CALL FOR APPLICATIONS
