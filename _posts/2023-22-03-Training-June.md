@@ -37,9 +37,9 @@ and species distribution modelling using deep learning approaches.
 **Workshop Information**
 
 This course will include trainers from GBIF South Africa and GBIF Spain including key experts from the University of Cantabria and 
-University of Cape Town (SEEC), with expertise in Data Sci-ence and Big Data Analytics. 
-The workshop will take place at the IZIKO South African Museum, 
-from the **26 June-30 June 2023**. The course will be conducted in English. 
+University of Cape Town (SEEC), with expertise in Data Science and Big Data Analytics. 
+The workshop will take place at the IZIKO South African Museum, from the **26 June-30 June 2023**. 
+The course will be conducted in English. 
 
 **Target Audience and Minimum requirements for participants**
 
@@ -48,14 +48,16 @@ government officials, biodiversity information practitioners, academics, and stu
 
 **Minimum Requirements**
 
-> 1.	Relevant bachelor’s degree in natural or earth science such as biology, botany, zoology, forestry, geography, or a related field of biodiversity informatics, or > Geographic Information Systems (GIS).  Participants have found some prior experience in using R is helpful for this course, although this is not a requirement. 
-> 2.	Criteria for selection of participants will include:
+>1. Relevant bachelor’s degree in natural or earth science such as biology, botany, zoology, forestry, geography, or a related field of biodiversity informatics,
+>    or Geographic Information Systems (GIS).  Participants have found some prior experience in using R is helpful for this course, although this is not a requirement. 
+    
+>2. Criteria for selection of participants will include:
 > 
->> a.	Relevance of work / study to the course.
->> 
->> b.	Commitment to apply and disseminate skills
->> 
-> 3.	An effort will be made to ensure there is a racial, gender and national institutional representation among the participants
+>    a. Relevance of work / study to the course.
+> 
+>    b. Commitment to apply and disseminate skills.
+ 
+>3. An effort will be made to ensure there is a racial, gender and national institutional representation among the participants
 
 
 **Application Process**
