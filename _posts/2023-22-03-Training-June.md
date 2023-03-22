@@ -47,11 +47,10 @@ government officials, biodiversity information practitioners, academics, and stu
 
 **Minimum Requirements**
 
-1.	Relevant bachelor’s degree in natural or earth science such as biology, botany, zoology, forestry, geography, or a related field of 
-2.	biodiversity informatics, or Geographic Information Systems (GIS).  Participants have found some prior experience in using R is helpful for this course, although this is not a requirement. 
-3.	Criteria for selection of participants will include:
-a.	Relevance of work / study to the course
-b.	Commitment to apply and disseminate skills
+1.	Relevant bachelor’s degree in natural or earth science such as biology, botany, zoology, forestry, geography, or a related field of biodiversity informatics, or  Geographic Information Systems (GIS). Participants have found some prior experience in using R is helpful for this course, although this is not a requirement. 
+2.	Criteria for selection of participants will include:
+> a.	Relevance of work / study to the course
+> b.	Commitment to apply and disseminate skills
 3.	An effort will be made to ensure there is a racial, gender and national institutional representation among the participants
 
 **Application Process**
@@ -79,4 +78,4 @@ No registration fee will be charged for the course.  Refreshments and lunch will
 assistance for a limited number of participants.  If assistance is available, expenses covered include economy airfare, accommodation, and ground transport. 
 Bookings will be made by the SANBI-GBIF office.  If you require funding, please indicate this on the application document.
 
-**For any queries please contact Fatima Parker-Allie at SANBI, Cape Town [Contact](mailto:f.parker@sanbi.org.za){: .button }**
+**For any queries please contact Fatima Parker-Allie at SANBI, Cape Town [F.Parker@sanbi.org.za](mailto:f.parker@sanbi.org.za)**
