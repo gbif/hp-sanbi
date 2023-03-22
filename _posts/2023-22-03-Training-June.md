@@ -37,7 +37,8 @@ and species distribution modelling using deep learning approaches.
 
 This course will include trainers from GBIF South Africa and GBIF Spain including key experts from the University 
 of Cantabria and University of Cape Town (SEEC), with expertise in Data Sci-ence and Big Data Analytics. 
-The workshop will take place at the IZIKO South African Museum, from the **26 June - 30 June 2023**. The course will be conducted in English. 
+The workshop will take place at the IZIKO South African Museum, from the **26 June - 30 June 2023**. 
+The course will be conducted in English. 
 
 **Target Audience and Minimum requirements for participants**
 
@@ -46,8 +47,9 @@ government officials, biodiversity information practitioners, academics, and stu
 
 **Minimum Requirements**
 
-1.	Relevant bachelor’s degree in natural or earth science such as biology, botany, zoology, forestry, geography, or a related field of biodiversity informatics, or Geographic Information Systems (GIS).  Participants have found some prior experience in using R is helpful for this course, although this is not a requirement. 
-2.	Criteria for selection of participants will include:
+1.	Relevant bachelor’s degree in natural or earth science such as biology, botany, zoology, forestry, geography, or a related field of 
+2.	biodiversity informatics, or Geographic Information Systems (GIS).  Participants have found some prior experience in using R is helpful for this course, although this is not a requirement. 
+3.	Criteria for selection of participants will include:
 a.	Relevance of work / study to the course
 b.	Commitment to apply and disseminate skills
 3.	An effort will be made to ensure there is a racial, gender and national institutional representation among the participants
@@ -68,10 +70,13 @@ The application pack must include:
 *	A letter of support from your supervisor or institution
 *	A copy of your CV 
 
-Note that these documents will be used exclusively for the evaluation of applications and verification of eligibility and will not be distributed or used for any other purpose. 
+Note that these documents will be used exclusively for the evaluation of applications and verification of eligibility and will not be distributed 
+or used for any other purpose. 
 
 **Cost**
 
-No registration fee will be charged for the course.  Refreshments and lunch will be provided. Participants are required to arrange their own transport and accommodation. Participants will need to have the use of a laptop throughout the training.  SANBI-GBIF will consider applications for financial assistance for a limited number of participants.  If assistance is available, expenses covered include economy airfare, accommodation, and ground transport.  Bookings will be made by the SANBI-GBIF office.  If you require funding, please indicate this on the application document.
+No registration fee will be charged for the course.  Refreshments and lunch will be provided. Participants are required to arrange their own transport and accommodation. Participants will need to have the use of a laptop throughout the training.  SANBI-GBIF will consider applications for financial
+assistance for a limited number of participants.  If assistance is available, expenses covered include economy airfare, accommodation, and ground transport. 
+Bookings will be made by the SANBI-GBIF office.  If you require funding, please indicate this on the application document.
 
-**For any queries please contact Fatima Parker-Allie at SANBI, Cape Town [Contact](mailto:f.parker@sanbi.org.za){: .button }
+**For any queries please contact Fatima Parker-Allie at SANBI, Cape Town [Contact](mailto:f.parker@sanbi.org.za){: .button }**
