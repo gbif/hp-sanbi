@@ -51,8 +51,7 @@ government officials, biodiversity information practitioners, academics, and stu
 > 
 >>   a. Relevance of work / study to the course.
 >   
->>   b. Commitment to apply and disseminate skills.
->   
+>>   b. Commitment to apply and disseminate skills.  
 > 3. An effort will be made to ensure there is a racial, gender and national institutional representation among the participants
 
 
