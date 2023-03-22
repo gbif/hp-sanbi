@@ -5,8 +5,10 @@ date:   2023-03-22
 background: /assets/images/Protea_highres_cropped.jpg
 ---
 
-# Call for Applications for SANBI-GBIF Training in ANALYTICAL TECHNIQUES IN BIODIVERSITY BIG DATA USING GBIF: MAKING AN IMPACT
+# Call for Applications for SANBI-GBIF Training in analytical techniques in biodiversity Big Data using GBIF-Making an Impact.
+
 # DATE: 26-30 June 2023
+
 
 ## Venue: The Iziko South African Museums, Cape Town
 
