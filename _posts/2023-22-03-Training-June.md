@@ -37,8 +37,8 @@ and species distribution modelling using deep learning approaches.
 
 This course will include trainers from GBIF South Africa and GBIF Spain including key experts from the University 
 of Cantabria and University of Cape Town (SEEC), with expertise in Data Sci-ence and Big Data Analytics. 
-The workshop will take place at the IZIKO South African Museum, from the **26 June - 30 June 2023**. 
-The course will be conducted in English. 
+The workshop will take place at the IZIKO South African Museum, from the
+**26 June-30 June 2023**.  The course will be conducted in English. 
 
 **Target Audience and Minimum requirements for participants**
 
