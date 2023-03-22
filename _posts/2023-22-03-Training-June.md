@@ -48,16 +48,16 @@ government officials, biodiversity information practitioners, academics, and stu
 
 **Minimum Requirements**
 
->1. Relevant bachelor’s degree in natural or earth science such as biology, botany, zoology, forestry, geography, or a related field of biodiversity informatics,
+> 1. Relevant bachelor’s degree in natural or earth science such as biology, botany, zoology, forestry, geography, or a related field of biodiversity informatics,
 >    or Geographic Information Systems (GIS).  Participants have found some prior experience in using R is helpful for this course, although this is not a requirement. 
     
->2. Criteria for selection of participants will include:
+> 2. Criteria for selection of participants will include:
 > 
 >    a. Relevance of work / study to the course.
 > 
 >    b. Commitment to apply and disseminate skills.
  
->3. An effort will be made to ensure there is a racial, gender and national institutional representation among the participants
+ > 3. An effort will be made to ensure there is a racial, gender and national institutional representation among the participants
 
 
 **Application Process**
