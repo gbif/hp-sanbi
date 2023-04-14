@@ -71,7 +71,8 @@ Registered users can log in to the eLearning Platform and subscribe to the SANBI
 | Course     | Trainer/s   |Date       |Venue        |
 | :------------- | :---------- | :---------- |:----------|:----------|
 |Data Management and Cleaning supporting science, policy and sustainable development|Vernon Visser, Fatima Parker-Allie and Hannelie Snyman|February 2022|Kirstenbosch National Botanical Gardens|
+|Analytical Techniques in Biodiversity Big Data Using GBIF: Making an Impact|SANBI-GBIF and GBIF-Spain|26-30 June 2023|The Iziko South African Museum, Cape Town|
 |Data Driven DNA & eDNA Course (BioData Advanced)|Norwegian Partnership Initiative|September 2023|TBC|
 |Species Distribution Modelling|Vernon Visser|To be Confirmed (2023)|Kirstenbosch National Botanical Gardens|
-|Biodiversity Informatics: Data Analysis, Use and Impact|Vernon Visser|26-30 June 2023|The Iziko South African Museums, Cape Town|
+|Biodiversity Informatics: Data Analysis, Use and Impact|Vernon Visser|TBC|Kirstenbosch National Botanical Gardens|
 
