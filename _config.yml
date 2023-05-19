@@ -53,7 +53,7 @@ siteMeasurements:
 
 algae:
   rootLang: en
-  latestPostLimit: 13
+  latestPostLimit: 14
   logo: /assets/images/sanbi-logo-boxes.png # Logo in navbar, will be displayed with 28px height
   logoAndTitle: true           # include the title next to the logo
   archive_permalink: /news-and-events/ # Permalink of page using archive.html layout, required when using post categories
