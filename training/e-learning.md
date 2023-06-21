@@ -18,7 +18,27 @@ scientific areas including: data management (data cleaning, formatting and publi
 SANBI wishes to acknowledge GBIF-Spain, as the host of the eLearning Technology Platform. 
 
 
-## Training Courses and Available Content and Curricula
+## Training Courses and Available Content and Curricula ##
+
+**Analytical Techniques in Biodiversity Big Data Using GBIF: Making an Impact**
+
+The vast quantities of biodiversity data put together in a uniform, FAIR way, and now available, in part led by GBIF, is recognized as an enabler of high-impact innovative science, and a key to respond to the current societal challenges. However, the exploitation of this resource is often hindered by limited capacity. 
+
+This course has been designed as a Partnership initiative between SANBI-GBIF and GBIF Spain, which aims to exploring ways of using big data analytics to enable the mining of the data, and the identification of some key tools, techniques and approaches that can be used to ask some pertinent research questions related to time, space and taxonomy.  
+
+The contents of the course includes aspects such as the GBIF API, the use of Jupyter notebooks, using big data analytic techniques to manage aspects of data quality like time, space and taxonomy, data visualisation, conservation planning and species distribution modelling using deep learning approaches. 
+
+This course will includes trainers from GBIF South Africa and GBIF Spain including key experts from the Spanish National Research Council, with expertise in Data Science and Big Data Analytics. The South African team includes the National Biodiversity Assessment Team from SANBI, and collaborators involved in the mission to establish a Centre for Biodiversity Informatics, including Sol Plaatje University, University of Free State and the University of Cape Town.
+
+
+New users of the eLearning Platform can view details of the course, and access the platform by signing up with the following link:
+
+[**View the Course and Sign-Up**](https://elearning.gbif.es/course/120/about) 
+
+Registered users can log in to the eLearning Platform and subscribe to the Analytical Techniques in Biodiversity Big Data Using GBIF: Making an Impact course by clicking the link below:
+
+[**Access the eLearning Platform**](https://elearning.gbif.es)
+
 
 **Data Management and Cleaning supporting Science, Policy and Sustainable Development**
 
