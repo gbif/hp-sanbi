@@ -33,7 +33,7 @@ This course will includes trainers from GBIF South Africa and GBIF Spain includi
 
 New users of the eLearning Platform can view details of the course, and access the platform by signing up with the following link:
 
-[**View the Course and Sign-Up**](https://elearning.gbif.es/course/120/about) 
+[**View the Course and Sign-Up**](https://elearning.gbif.es/course/138/about) 
 
 Registered users can log in to the eLearning Platform and subscribe to the Analytical Techniques in Biodiversity Big Data Using GBIF: Making an Impact course by clicking the link below:
 
@@ -92,7 +92,7 @@ Registered users can log in to the eLearning Platform and subscribe to the SANBI
 | :------------- | :---------- | :---------- |:----------|:----------|
 |Data Management and Cleaning supporting science, policy and sustainable development|Vernon Visser, Fatima Parker-Allie and Hannelie Snyman|February 2022|Kirstenbosch National Botanical Gardens|
 |Analytical Techniques in Biodiversity Big Data Using GBIF: Making an Impact|SANBI-GBIF and GBIF-Spain|26-30 June 2023|The Iziko South African Museum, Cape Town|
-|Data Driven DNA & eDNA Course (BioData Advanced)|Norwegian Partnership Initiative|September 2023|TBC|
+|Data Driven DNA & eDNA Course (BioData Advanced)|Norwegian Partnership Initiative|13-17 November 2023|The Iziko South African Museum|
 |Species Distribution Modelling|Vernon Visser|To be Confirmed (2023)|Kirstenbosch National Botanical Gardens|
 |Biodiversity Informatics: Data Analysis, Use and Impact|Vernon Visser|TBC|Kirstenbosch National Botanical Gardens|
 
