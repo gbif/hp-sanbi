@@ -52,6 +52,12 @@ You can also upload photo observations from your desktop. Observations from anyw
 
 # Recommended preparation 
 The course will include a practical part where you will design a research project and its data elements. This project and its “data journey” will be on a plant-pollinator system. To prepare for this part, please read the following. Skip if you are working on pollinators yourself already. 
+[Honey detective work raises fears for bees](https://www.bbc.com/news/science-environment-55662985)
+[Loss of bees causes a shortage of key food crops, study finds](https://www.theguardian.com/environment/2020/jul/29/bees-food-crops-shortage-study)
+[Crocus: Early Spring Forage For Bees](https://www.beverlybees.com/crocus/)
+[7 Of The Best Crocuses For Honey Bees, Bumble And Solitary Bees](https://www.buzzaboutbees.net/best-crocus-for-honey-bees-bumble-and-solitary-bees.html)
+
+
 
 
 
