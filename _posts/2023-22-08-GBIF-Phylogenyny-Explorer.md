@@ -5,7 +5,7 @@ date:   2023-08-22
 background: /assets/images/legume.jpg
 ---
 
-# GBIF Phylogeny Explorer debuts on Legune Data Portal
+# GBIF Phylogeny Explorer debuts on Legume Data Portal
 
 SANBI staff was involved in jointly coordinating the community endorsed checklist, which forms the basis of all the wok done by other working groups within hte Legume Phylogeny Working Group Umbrella, including the Phylogeny Explorer.
 The legume checklist (version 2023v.4) is the authoritative list for legume names, which will soon be incorporated as an update into the GBIF Taxonomic backbone.
