@@ -21,6 +21,5 @@ This course will teach you how to use DNA barcodes, and collection and observati
 and hands-on exercises. You will learn to handle biodiversity data including DNA barcoding. You will gain practical experience in using open and digitally documented biodiversity data
 through GBIF and BOLD to answer biodiversity research questions. You will understand and practice capturing observation, collection, and genetic data from analog and digital sources. 
 Finally, this course provides basic skills in data publishing through GBIF and BOLD. 
-
 [Updated online information about the course is available here:]( https://www.nhm.uio.no/english/research/projects/biodata-advanced/activities/2023-cape-town.html)
 
