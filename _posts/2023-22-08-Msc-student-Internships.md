@@ -20,4 +20,4 @@ The interns will work closely with their host during their stay at NHM (UiO-NHM)
 
 Note that flights and transport costs to and from Norway will be covered, as will housing, and a stipend will be provided for living expenses in Norway. 
 
-You can also contact Rukaya Johaadien (<ukayasj@uio.no>, Dag Endresen <dag.endresen@nhm.uio.no> with any questions, and cc Fatima Parker-Allie <F.Parker@sanbi.org.za> and Morne Du Plessis <DuPlessisMG@ufs.ac.za>.
+You can also contact Rukaya Johaadien <rukayasj@uio.no>, Dag Endresen <dag.endresen@nhm.uio.no> with any questions, and cc Fatima Parker-Allie <F.Parker@sanbi.org.za> and Morne Du Plessis <DuPlessisMG@ufs.ac.za>.
