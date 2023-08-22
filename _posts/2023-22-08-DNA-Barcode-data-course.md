@@ -28,7 +28,24 @@ Finally, this course provides basic skills in data publishing through GBIF and B
 Data management skills for accessing and publishing data through biodiversity data platforms. This is an observation/specimen - published record course that does not include wet lab steps. 
 
 # Audience
-The course is suitable for MSc and PhD students in biology and other professionals in relevant fields. We plan to select 12 students from applicants for this course, 2 of which will be the successful applicants from the BioDATA Advanced internship exchange project [For more information click here](https://www.nhm.uio.no/english/research/projects/biodata-advanced/activities/interns-to-oslo-2023.html) 
+The course is suitable for MSc and PhD students in biology and other professionals in relevant fields. We plan to select 12 students from applicants for this course, 2 of which will be the successful applicants from the BioDATA Advanced internship exchange project
+[For more information click here](https://www.nhm.uio.no/english/research/projects/biodata-advanced/activities/interns-to-oslo-2023.html) 
+
+# Prerequisites 
+Participants should have an affinity or professional interest in biodiversity. Participants need to have the motivation and interest to handle DNA barcodes, museum collection data, and observation data. A good understanding of English is necessary to follow the course, carry out the exercises, and receive support during the teaching. 
+
+# Intended learning outcomes 
+● Understand and be able to explain the concept of species delimitation. 
+● Learn to use genetic sequence data as a DNA barcode to identify a species. 
+● Learn to publish and retrieve data from GBIF and BOLD. 
+● Learn the basics of data capture, cleaning, storage, geo-referencing, and citation. 
+● Critically assess the quality of own and external data and their fitness for purpose. 
+● Practice the key tools and approaches to maximize data quality, data linking, and data reuse. 
+● Explore the benefits of FAIR and open data principles in biodiversity research and collaboration. 
+● Understand the value of data management as a research-enabling tool. 
+● Broadly understand the importance of international biodiversity infrastructures, and how these can contribute to biodiversity assessments, monitoring, conservation, and red-listing. 
+
+
 
 
 
