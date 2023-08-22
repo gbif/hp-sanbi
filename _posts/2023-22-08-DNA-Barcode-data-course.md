@@ -10,7 +10,6 @@ background: /assets/images/Dragonfly.jpg
 **Venue: The Iziko South African Museums, Cape Town, South Africa**
 
 **Date: 13 - 17 November**
-
 Deadline for Submissions: 5 September 2023 
 
 BioDATA Advanced is an international project between Norway and South Africa that aims to support students in upper education in developing skills in biodiversity data management and publishing, in addition to the most modern molecular methods for monitoring biodiversity. The skills taught within BioDATA Advanced are important for carrying out the everyday tasks of a modern biologist, though many of these skills are not taught in higher education. 
