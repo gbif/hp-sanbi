@@ -65,7 +65,7 @@ The course will include a practical part where you will design a research projec
 You can also contact Rukaya Johaadien <rukayasj@uio.no>, Fatima Parker-Allie <F.Parker@sanbi.org.za> and Morne Du Plessis <DuPlessisMG@ufs.ac.z> with any questions. 
 # How to apply 
 **NOTE: Flights, accommodation in Cape Town and meals will be covered for successful applicants.**
-## Application deadline: 5 September 2023 
+# Application deadline: 5 September 2023 
 [Applicants should fill out this form in order to apply for the course:](https://forms.gle/oU48aa3dWxZwCvZQ7)
 
 
