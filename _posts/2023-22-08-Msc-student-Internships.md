@@ -16,4 +16,4 @@ We are thus seeking two student interns (MSc level) for **two fully funded 4-mon
 The Natural History Museum (UiO-NHM) is located in the heart of downtown Oslo in Norway, with a research community involving over 80 scientists exploring different aspects of our world’s natural diversity. 
 The interns will work closely with their host during their stay at NHM (UiO-NHM), and will be fully integrated into their research group. 
 
-[For more information on these internships in general (stipend and housing, working at the museum, or living in Norway), please see this webpage:](https://www.nhm.uio.no/english/research/projects/biodata-advanced/activities/interns-to-oslo-2023.html.)
+[For more information on these internships in general (stipend and housing, working at the museum, or living in Norway),click here](https://www.nhm.uio.no/english/research/projects/biodata-advanced/activities/interns-to-oslo-2023.html.)
