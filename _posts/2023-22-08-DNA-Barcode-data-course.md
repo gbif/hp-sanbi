@@ -5,8 +5,6 @@ date:   2023-08-22
 background: /assets/images/Strelitzia.jpg
 ---
 
-## Course on DNA barcode data in BOLD and GBIF
-
 ## Venue: The Iziko South African Museums, Cape Town, South Africa
 
 ## Date: 13 - 17 November
