@@ -4,6 +4,7 @@ date:   2023-08-22
 # categories: jekyll update
 background: /assets/images/Protea_highres_cropped.jpg
 ---
+
 # Two 4-month MSc student internships (1 February - 31 May 2024) at the Natural History Museum, Univ. of Oslo, in biodiversity data skills and molecular methods 
 BioDATA Advanced is an international project between Norway and South Africa that aims to support students in upper education in developing skills in biodiversity data management and publishing,
 in addition to the most modern molecular methods for monitoring biodiversity. The skills taught within BioDATA Advanced are important for carrying out the everyday tasks of a modern biologist,
