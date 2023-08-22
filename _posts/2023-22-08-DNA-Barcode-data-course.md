@@ -50,6 +50,9 @@ Participants should have an affinity or professional interest in biodiversity. P
 You may like to start observing Bombus, Vicia, and Crocus around you using the [iNaturalist app](https://www.inaturalist.org/) 
 You can also upload photo observations from your desktop. Observations from anywhere in Cape Town can be added until the end of the course. There will be three prizes: for the most observations made, for the highest number of species observed, and for the highest number of identifications made. 
 
+# Recommended preparation 
+The course will include a practical part where you will design a research project and its data elements. This project and its “data journey” will be on a plant-pollinator system. To prepare for this part, please read the following. Skip if you are working on pollinators yourself already. 
+
 
 
 
