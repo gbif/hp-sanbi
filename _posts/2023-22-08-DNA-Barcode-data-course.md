@@ -35,6 +35,7 @@ The course is suitable for MSc and PhD students in biology and other professiona
 Participants should have an affinity or professional interest in biodiversity. Participants need to have the motivation and interest to handle DNA barcodes, museum collection data, and observation data. A good understanding of English is necessary to follow the course, carry out the exercises, and receive support during the teaching. 
 
 # Intended learning outcomes 
+
 - Understand and be able to explain the concept of species delimitation. 
 -Learn to use genetic sequence data as a DNA barcode to identify a species. 
 - Learn to publish and retrieve data from GBIF and BOLD. 
