@@ -17,3 +17,7 @@ The Natural History Museum (UiO-NHM) is located in the heart of downtown Oslo in
 The interns will work closely with their host during their stay at NHM (UiO-NHM), and will be fully integrated into their research group. 
 
 [Cick here for more information](https://www.nhm.uio.no/english/research/projects/biodata-advanced/activities/interns-to-oslo-2023.html.)
+
+Note that flights and transport costs to and from Norway will be covered, as will housing, and a stipend will be provided for living expenses in Norway. 
+
+You can also contact Rukaya Johaadien (<ukayasj@uio.no>, Dag Endresen <dag.endresen@nhm.uio.no> with any questions, and cc Fatima Parker-Allie <F.Parker@sanbi.org.za> and Morne Du Plessis <DuPlessisMG@ufs.ac.za>.
