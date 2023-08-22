@@ -28,7 +28,7 @@ Finally, this course provides basic skills in data publishing through GBIF and B
 Data management skills for accessing and publishing data through biodiversity data platforms. This is an observation/specimen - published record course that does not include wet lab steps. 
 
 # Audience
-The course is suitable for MSc and PhD students in biology and other professionals in relevant fields. We plan to select 12 students from applicants for this course, 2 of which will be the successful applicants from the BioDATA Advanced internship exchange project (see https://www.nhm.uio.no/english/research/projects/biodata-advanced/activities/interns-to-oslo-2023.html) 
+The course is suitable for MSc and PhD students in biology and other professionals in relevant fields. We plan to select 12 students from applicants for this course, 2 of which will be the successful applicants from the BioDATA Advanced internship exchange project [For more information click here](https://www.nhm.uio.no/english/research/projects/biodata-advanced/activities/interns-to-oslo-2023.html) 
 
 
 
