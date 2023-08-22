@@ -2,7 +2,7 @@
 title: Course on DNA barcode data in BOLD and GBIF
 date:   2023-08-22
 # categories: jekyll update
-background: /assets/images/partner.jpg
+background: /assets/images/Strelitzia.jpg
 ---
 
 ## Course on DNA barcode data in BOLD and GBIF
