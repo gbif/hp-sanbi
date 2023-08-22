@@ -22,3 +22,4 @@ and hands-on exercises. You will learn to handle biodiversity data including DNA
 through GBIF and BOLD to answer biodiversity research questions. You will understand and practice capturing observation, collection, and genetic data from analog and digital sources. 
 Finally, this course provides basic skills in data publishing through GBIF and BOLD. 
 
+Updated online information about the course is available here: 
