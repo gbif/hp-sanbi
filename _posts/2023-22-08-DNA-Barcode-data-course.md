@@ -44,7 +44,12 @@ Participants should have an affinity or professional interest in biodiversity. P
 - Practice the key tools and approaches to maximize data quality, data linking, and data reuse. 
 - Explore the benefits of FAIR and open data principles in biodiversity research and collaboration. 
 - Understand the value of data management as a research-enabling tool. 
-- Broadly understand the importance of international biodiversity infrastructures, and how these can contribute to biodiversity assessments, monitoring, conservation, and red-listing. 
+- Broadly understand the importance of international biodiversity infrastructures, and how these can contribute to biodiversity assessments, monitoring, conservation, and red-listing.
+
+# Join the iNaturalist bioblitz project 
+You may like to start observing Bombus, Vicia, and Crocus around you using the [iNaturalist app](https://www.inaturalist.org/) 
+You can also upload photo observations from your desktop. Observations from anywhere in Cape Town can be added until the end of the course. There will be three prizes: for the most observations made, for the highest number of species observed, and for the highest number of identifications made. 
+
 
 
 
