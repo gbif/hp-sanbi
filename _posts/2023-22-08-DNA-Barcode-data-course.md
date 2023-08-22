@@ -6,7 +6,6 @@ background: /assets/images/Strelitzia.jpg
 ---
 
 ## Venue: The Iziko South African Museums, Cape Town, South Africa
-
 ## Date: 13 - 17 November
 **Deadline for Submissions: 5 September 2023** 
 
