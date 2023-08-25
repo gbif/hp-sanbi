@@ -5,7 +5,7 @@ date:   2023-08-22
 background: /assets/images/legume.jpg
 ---
 
-# GBIF has introduced a new Phylogenetic Explorer on the Legume Data Portal, a project of the Legume Phylogenomic Working Group.
+# GBIF has introduced a new Phylogenetic Explorer on the Legume Data Portal, a project of the Legume Phylogenomic Working Group
 
 The new Phylogenetic Explorer, a visualisation tool that organises species occurrence data in GBIF according to the most recent phylogenetic evidence based on evolutionary relationships, was recently showcased using legume occurrence data at the 8th International Legume Conference held in Brazil. The viewer’s novelty lies in its ability to map occurrence records at clade level, allowing users to compare distribution data of different clades at one glance. All taxa in the Phylogenetic Explorer are matched to the GBIF taxonomic backbone.
 
