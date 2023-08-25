@@ -4,7 +4,7 @@ date:   2023-08-22
 # categories: jekyll update
 background: /assets/images/legume.jpg
 ---
-Experimental tool is supporting collaborative research on phylogenetics by enabling data access, review, comparison and downloads that reveal evolutionary relationships between species
+*Experimental tool is supporting collaborative research on phylogenetics by enabling data access, review, comparison and downloads that reveal evolutionary relationships between species*
 
 GBIF has introduced a new Phylogenetic Explorer on the Legume Data Portal, a project of the Legume Phylogenomic Working Group. The new Phylogenetic Explorer, a visualisation tool that organises species occurrence data in GBIF according to the most recent phylogenetic evidence based on evolutionary relationships, was recently showcased using legume occurrence data at the 8th International Legume Conference held in Brazil. The viewer’s novelty lies in its ability to map occurrence records at clade level, allowing users to compare distribution data of different clades at one glance. All taxa in the Phylogenetic Explorer are matched to the GBIF taxonomic backbone.
 
