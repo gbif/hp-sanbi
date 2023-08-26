@@ -2,7 +2,7 @@
 title: Two 4 month Msc Student Internships at the Natural History Museum, Univ. of Oslo
 date:   2023-08-22
 # categories: jekyll update
-background: /assets/images/BioData Advanced_9.png
+background: /assets/images/BioData Advanced 10.png
 ---
 
 # Two 4-month MSc student internships (1 February - 31 May 2024) at the Natural History Museum, Univ. of Oslo, in biodiversity data skills and molecular methods 
