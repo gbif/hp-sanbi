@@ -2,7 +2,7 @@
 title: Course on DNA barcode data in BOLD and GBIF
 date:   2023-08-22
 # categories: jekyll update
-background: /assets/images/BioData Advanced 10.png
+background: /assets/images/BioData Advanced 11.png
 ---
 
 ## Venue: The Iziko South African Museums, Cape Town, South Africa
