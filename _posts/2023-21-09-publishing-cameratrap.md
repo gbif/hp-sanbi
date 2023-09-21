@@ -10,7 +10,7 @@ background: /assets/images/Camera.jpg
 The guide, Best Practices for Managing and Publishing Camera Trap Data, 
 is now open for input and feedback from community members until Tuesday, 31 October 2023**
 
-**Camera traps have emerged as important tools for monitoring the state of biodiversity and natural ecosystems.
+Camera traps have emerged as important tools for monitoring the state of biodiversity and natural ecosystems.
 The proliferation of data from such sensors has made data management, rather than data collection, the limiting factor
 in camera trap-related research. Responding to this and other recent community developments, this guide provides
 up-to-date guidelines that optimize data management and publication by anyone running a camera trap study—particularly
