@@ -2,7 +2,7 @@
 title: Guide to publishing camera trap data opens for community peer review
 date:   2023-08-22
 # categories: jekyll update
-background: /assets/images/Phylogeny_1.png
+background: /assets/images/Camera.jpg
 ---
 *Deadline for community input and feedback: Tuesday, 31 October 2023*
 
