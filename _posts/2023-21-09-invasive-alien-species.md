@@ -9,8 +9,8 @@ background: /assets/images/Alien.jpg
 progress toward reducing impacts of invasive alien species*
 
 **A new GBIF task group will address the urgent need for improved access to better data and information on
-  invasive alien species in response to the landmark Invasive Alien Species Assessment approved
-  by the the Intergovernmental Platform on Biodiversity and Ecosystem Services (IPBES) this month.**
+  [invasive alien species](https://www.ipbes.net/IASmediarelease) in response to the landmark Invasive Alien Species Assessment approved
+  by the the [Intergovernmental Platform on Biodiversity and Ecosystem Services](https://www.ipbes.net/) (IPBES) this month.**
 
   The report also identified the critical role that open and interoperable information systems can play in understanding biological invasions,
   supported by international cooperation and networking among governments, stakeholders.
