@@ -7,7 +7,7 @@ background: /assets/images/Camera.jpg
 *Deadline for community input and feedback: Tuesday, 31 October 2023*
 
 **GBIF has released a new technical document for community peer review.
-The guide, Best Practices for Managing and Publishing Camera Trap Data, 
+The guide, [Best Practices for Managing and Publishing Camera Trap Data](https://docs.gbif-uat.org/camera-trap-guide/en/), 
 is now open for input and feedback from community members until Tuesday, 31 October 2023**
 
 Camera traps have emerged as important tools for monitoring the state of biodiversity and natural ecosystems.
