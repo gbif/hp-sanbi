@@ -2,7 +2,7 @@
 title: GBIF previews major update to IPT software
 date:   2023-09-21
 # categories: jekyll update
-background: /assets/images/New IPT.jpg
+background: /assets/images/IPTNEW.jpg
 ---
 
 *Now available for review and testing, version 3 of the Integrated Publishing Toolkit accommodates more
