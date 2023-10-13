@@ -17,6 +17,9 @@ in 2020-2022.
 Until 10 November 2023, Pensoft will waive the article processing fee (normally €650) for the first 40 accepted data paper manuscripts that meet
 the following criteria for describing a dataset:
 
-with more than 5,000 presence records new to GBIF.org in 2023
-with high-quality data and metadata
-with coverage of species/taxa occurring in soil at least at one stage of their life cycle
+- with [more than 5,000 presence records new to GBIF.org in 2023](https://www.gbif.org/news/232EKewXfNDeh0U7vAUbsG/dig-deep-and-share-call-for-data-papers-describing-datasets-on-soil-biodiversity-extended#records)
+- with [high-quality data and metadata](https://www.gbif.org/news/232EKewXfNDeh0U7vAUbsG/dig-deep-and-share-call-for-data-papers-describing-datasets-on-soil-biodiversity-extended#quality)
+- with coverage of species/taxa occurring in soil at least at one stage of their life cycle
+
+  See [detailed instructions here](https://www.gbif.org/news/232EKewXfNDeh0U7vAUbsG/dig-deep-and-share-call-for-data-papers-describing-datasets-on-soil-biodiversity-extended)
+  
