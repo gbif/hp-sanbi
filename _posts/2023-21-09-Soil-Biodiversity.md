@@ -3,6 +3,7 @@ title: Call for data papers describing datasets on soil biodiversity EXTENDED
 date:   2023-09-21
 # categories: jekyll update
 background: /assets/images/soil.png
+---
 
 *GBIF continues partnership with FinBIF and Pensoft to support publication of new datasets about organisms whose life cycles depend on soil*
 
