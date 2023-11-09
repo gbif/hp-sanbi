@@ -1,6 +1,6 @@
 ---
 title: Guide to publishing camera trap data opens for community peer review
-date:   2023-09-20
+date:   2023-09-21
 # categories: jekyll update
 background: /assets/images/Camera_1.png
 ---
