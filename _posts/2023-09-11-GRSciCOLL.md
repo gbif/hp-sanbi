@@ -5,8 +5,7 @@ date:   2023-11-09
 background: /assets/images/GRSciCOLL.png
 ---
 
-**DEADLINE for community feedback: Friday, 22 December 2023**
-
+*DEADLINE for community feedback: Friday, 22 December 2023**
 The GBIF Secretariat has announced a process for reviewing the data schema underlying the [Global Registry of Scientific Collections (GRSciColl).](https://scientific-collections.gbif.org/) Community members are encouraged to share their feedback, suggestions and observations now through Friday, 22 December 2023.
 
 The overarching goal of this review is ensure that the GRSciColl data schema accommodates multiple data sources within a standardized vocabulary
