@@ -2,7 +2,7 @@
 title: Community review of data schema for GRSciColl opens
 date:   2023-11-09
 # categories: jekyll update
-background: /assets/images/Gradres2.png
+background: /assets/images/GRSciCOLL.png
 ---
 
 **DEADLINE for community feedback: Friday, 22 December 2023**
