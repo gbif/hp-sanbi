@@ -2,7 +2,7 @@
 title: Portuguese student André Vicente Liz wins 2023 GBIF Graduate Researchers Award
 date:   2023-11-09
 # categories: jekyll update
-background: /assets/images/Dragonfly.jpg
+background: /assets/images/Gradres1.png
 ---
 
 *Galician PhD candidate—and second winner nominated by Portugal—offers integrated view of the dynamics behind the vertebrate
