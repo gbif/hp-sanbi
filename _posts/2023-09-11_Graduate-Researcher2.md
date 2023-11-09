@@ -2,7 +2,7 @@
 title: Ugandan student Dorothy Akoth wins 2023 GBIF Graduate Researchers Award
 date:   2023-11-09
 # categories: jekyll update
-background: /assets/images/Dragonfly.jpg
+background: /assets/images/Gradres2.png
 ---
 
 *Master's student at Makarere University becomes Uganda's first recipient—and the second in Africa—to earn selection for improving
