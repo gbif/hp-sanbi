@@ -1,4 +1,5 @@
 ---
+published: false
 title:  Biodiversity Digitization Conference
 date: 2021-11-07
 background: /assets/images/FB_IMG_1640620986129.jpg
@@ -8,8 +9,7 @@ description: SANBI-GBIF Participates at the Biodiversity Digitization Conference
 cta:
   - text: Conference information
     href: https://www.idigbio.org/content/biodiversity-digitization-2021
-    isPrimary: true
-published: false    
+    isPrimary: true   
 ---
 
 
