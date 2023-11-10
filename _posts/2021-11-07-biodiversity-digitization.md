@@ -9,7 +9,7 @@ cta:
   - text: Conference information
     href: https://www.idigbio.org/content/biodiversity-digitization-2021
     isPrimary: true
-Published: false    
+published: false    
 ---
 
 
