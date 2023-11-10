@@ -1,7 +1,7 @@
 ---
-published: false
 title:  Biodiversity Digitization Conference
 date:   2021-11-07
+published: false
 background: /assets/images/FB_IMG_1640620986129.jpg
 imageLicense: |
   *Anthopleura michaelseni* Photo by Fatima Parker-Allie [iNaturalist](https://www.inaturalist.org/observations/20856021) (CC BY-NC)
