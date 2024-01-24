@@ -1,6 +1,6 @@
 ---
 title: Call opens for nominations to 2024 GBIF Graduate Researchers Award
-date:   2023-01-24
+date:   2024-01-24
 # categories: jekyll update
 background: /assets/images/GRA-2024-hero4-15.png
 ---
