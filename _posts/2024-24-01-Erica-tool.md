@@ -1,5 +1,5 @@
 ---
-title: Genus Erica: An Identification Aid Version 4.00
+title: Genus Erica An Identification Aid Version 4.00
 date:   2024-01-25
 # categories: jekyll update
 background: /assets/images/Erica_image_2.png
