@@ -1,4 +1,3 @@
-
 ---
 title: Genus Erica: An Identification Aid Version 4.00
 date:   2024-01-25
