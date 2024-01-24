@@ -5,7 +5,9 @@ date:   2023-01-24
 background: /assets/images/GRA-2024-hero4-15.png
 ---
 
-*Deadline for receiving nominations from GBIF member countries for graduate students whose innovative research relies on biodiversity data: 24 June 2024*
+*Deadline for receiving nominations from GBIF member countries for graduate students*
+
+*whose innovative research relies on biodiversity data:* **24 June 2024**
 
 On behalf of its network of national Participants, the GBIF Secretariat is pleased to invite nominations for the 2024 Graduate Researchers Award.
 This annual programme aims to foster and recognize innovative research and discovery in biodiversity informatics by graduate students whose master’s
