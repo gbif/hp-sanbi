@@ -2,7 +2,7 @@
 title: Call opens for nominations to 2024 GBIF Graduate Researchers Award
 date:   2023-01-24
 # categories: jekyll update
-background: /assets/images/soil.png
+background: /assets/images/GRA-2024-hero4-15.png
 ---
 
 *Deadline for receiving nominations from GBIF member countries for graduate students whose innovative research relies on biodiversity data: 24 June 2024*
