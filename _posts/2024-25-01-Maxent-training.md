@@ -5,11 +5,11 @@ date:   2024-01-25
 background: /assets/images/Dragonfly.jpg
 ---
 
-**Date: 5th  – 8th March 2024**
+# Date: 5th  – 8th March 2024
 
-**Venue: Iziko Museums of South Africa; Cape Town**
+# Venue: Iziko Museums of South Africa; Cape Town
 
-**Deadline for submissions: 9th February 2024**
+# Deadline for submissions: 9th February 2024
 
 **Background**
 
