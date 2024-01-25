@@ -71,7 +71,7 @@ Agenda continues up to midday
 No registration fee will be charged for the course. Refreshments and lunch will be provided. Participants are required to arrange their own transport and accommodation. Participants will need to have the use of a laptop throughout the training. SANBI-GBIF will consider applications for financial assistance for a limited number of participants. If assistance is available, expenses covered include economy airfare, accommodation, and ground transport. Bookings will be made by the SANBI-GBIF office. If you require funding, please indicate this on the application document (see below) and include a letter of motivation and CV with the application documents.
 		
 **Application pack**
-Click here to access the online application form on Google Forms. 
+Click [here]( to access the online application form on Google Forms. 
 
 Please attach the following documents to the application: 
 1.	Brief CV
@@ -80,6 +80,6 @@ Please attach the following documents to the application:
 
 Completed forms and documentation are due by **9th February 2024**
 
-For any queries please contact Fatima Parker-Allie or Minoli Appalasamy at SANBI,  at email F.Parker@sanbi.org.za; or m.appalasamy@sanbi.org.za
+For any queries please contact Fatima Parker-Allie or Minoli Appalasamy at SANBI,  at email <F.Parker@sanbi.org.za>; or <m.appalasamy@sanbi.org.za>
 
 
