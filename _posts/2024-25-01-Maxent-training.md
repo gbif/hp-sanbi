@@ -2,7 +2,7 @@
 title: SANBI-GBIF training workshop for species distribution modelling using Maxent in R
 date:   2024-01-25
 # categories: jekyll update
-background: /assets/images/Dragonfly.jpg
+background: /assets/images/marine-biodiversity_7.jpg
 ---
 
 # Date: 5th  – 8th March 2024
