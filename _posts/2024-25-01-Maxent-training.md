@@ -59,8 +59,8 @@ Day 4
 1.	Relevant Bachelor’s degree in natural or earth science such as biology, botany, zoology, forestry, geography, or a related field of biodiversity 
         informatics, or Geographic Information Systems (GIS).  Participants must have some experience in using R. 
 2.	Criteria for selection of participants will include:
->	Relevance of work / study to the course
->	Commitment to apply and disseminate skills.
+* Relevance of work / study to the course
+* Commitment to apply and disseminate skills.
 3.	An effort will be made to ensure there is a racial, gender and national institutional representation among the participants.
 	
 **Cost**
