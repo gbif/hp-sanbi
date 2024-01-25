@@ -2,7 +2,7 @@
 title: Genus Erica An Identification Aid Version 4.00
 date:   2024-01-25
 # categories: jekyll update
-background: /assets/images/Erica cerinthoides ALN.png
+background: /assets/images/Erica_cerinthoides.png
 ---
 
 A handy tool to use in the identification of Erica species, are now freely available:
