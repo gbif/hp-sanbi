@@ -18,7 +18,7 @@ the foundations of the modern study of the Ericaceae family with a revision of t
 volume of Flora Capensis, published in 1905.
 
 This tool help both amateurs and professionals identify (using a limited number of accessible characteristics) the 851 species 
-and many subspecific taxa of the flowering plant genus Erica.Included in Version 4.00 are new features such as integrating 
+and many subspecific taxa of the flowering plant genus Erica. Included in Version 4.00 are new features such as integrating 
 distribution data from GBIF and iNaturalist and providing links to taxonomic resources through World Flora Online. 
 Included as well is a probability function for identifications. 
 
