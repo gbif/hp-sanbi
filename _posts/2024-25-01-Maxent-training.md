@@ -16,7 +16,8 @@ background: /assets/images/marine-biodiversity_7.jpg
 SANBI is the home of the South African Node of the Global Biodiversity Information Facility (GBIF) and 
 is funded by the Department of Science and Innovation.  Its vision is to contribute to South Africa's 
 sustainable development by facilitating access to biodiversity and related information on the internet.
-This course ties into SANBI-GBIF’s strategy to develop biodiversity informatics skills nationally.  
+This course ties into SANBI-GBIF’s strategy to develop biodiversity informatics skills nationally.
+
 Through this course, it is intended to focus on the use and application of data and in this way 
 ensuring that information is relevant and can ultimately be used for improved decision making.  
 Participants will be introduced to the R software package, and will learn about species distribution models
@@ -79,7 +80,7 @@ Please attach the following documents to the application:
 
 Completed forms and documentation are due by **9th February 2024**
 
-For any queries please contact Fatima Parker-Allie or Minoli Appalasamy at SANBI, 
+For any queries please contact Fatima Parker-Allie or Minoli Appalasamy at SANBI,
 at email <F.Parker@sanbi.org.za>; or <m.appalasamy@sanbi.org.za>
 
 
