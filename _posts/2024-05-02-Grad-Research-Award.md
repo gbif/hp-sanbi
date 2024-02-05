@@ -20,3 +20,14 @@ The Department of Science and Innovation will engage with the SANBI-GBIF Node in
 A jury organized by the [GBIF Science Committee](https://www.gbif.org/contact-us/directory?group=scienceCommittee) will select 
 two award recipients from the pool of nominees whose names are received by the GBIF Secretariat by 24 June 2024.
 The winners will be announced at the 31st meeting of the GBIF Governing Board planned for Portugal, in October 2024.
+
+**Eligibility**
+
+Candidates must be enrolled in a university graduate programme to be eligible for the award. Candidates must be either
+South African citizens or citizens of another country but students in a South African institution. Nominations can come 
+from the GBIF delegation or node of **either** the candidate's country of citizenship **or** the country of the candidate’s host institution.
+
+**Submission process and deadlines**
+
+Candidates should submit their application, together with completed documentation by email, to F.Parker@sanbi.org.za by **24 May 2024**.
+Submissions of incomplete proposals will not be considered.
