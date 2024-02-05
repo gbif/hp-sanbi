@@ -64,7 +64,11 @@ Proposals that are not selected may be updated and resubmitted for consideration
 SANBI-GBIF looks forward to receiving your applications.
 
 Fatima Parker-Allie
+
 Deputy Director: Biodiversity Informatics and Partnerships
+
 SANBI-GBIF Node Manager
+
 Foundational Biodiversity Science Division
+
 South African National Biodiversity Institute
