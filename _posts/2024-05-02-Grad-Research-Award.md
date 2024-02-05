@@ -37,8 +37,10 @@ Submissions of incomplete proposals will not be considered.
 Candidates should prepare their proposal and nomination packets to include:
 
 1. **Research summary** *(200 words)*
-2. **Project description** *(maximum 5 pages, 12-point Arial)* that describes a. How the research advances biodiversity informatics and/or the conservation of biological diversity. b. The role of data accessed through GBIF in addressing these questions. Research proposals must
-Kirstenbosch National Botanical Garden, Rhodes Drive, Newlands 7700 30 January 2024
-T: +27 21 799 8698 W: www.sanbi.org
-clearly demonstrate how the study incorporates data mobilized through GBIF. Students with questions about GBIF-enabled data should work with academic advisors, their GBIF national node, the GBIF Secretariat or members of the Science Committee to increase their understanding. c. The research scope, plan, methodologies, relevant literature citations and timetable. d. If relevant, a description or an excerpt from a data management plan that outlines how data related to the research is published or will be prepared for publication through the GBIF network to GBIF.org.
-3. Curriculum vitae of the student applicant including full contact information at the home institution.
+2. **Project description** *(maximum 5 pages, 12-point Arial)* that describes
+   - How the research advances biodiversity informatics and/or the conservation of biological diversity
+   - **The role of data accessed through GBIF in addressing these questions.** Research proposals must 
+      clearly demonstrate how the study incorporates data mobilized through GBIF. Students with questions about GBIF-enabled data should work with academic 
+      advisors, their GBIF national node, the GBIF Secretariat or members of the Science Committee to increase their understanding.
+   -   The research scope, plan, methodologies, relevant literature citations and timetable. d. If relevant, a description or an excerpt from a data management plan 
+       that outlines how data related to the research is published or will be prepared for publication through the GBIF network to GBIF.org.    
