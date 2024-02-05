@@ -43,4 +43,28 @@ Candidates should prepare their proposal and nomination packets to include:
       clearly demonstrate how the study incorporates data mobilized through GBIF. Students with questions about GBIF-enabled data should work with academic 
       advisors, their GBIF national node, the GBIF Secretariat or members of the Science Committee to increase their understanding.
    -   The research scope, plan, methodologies, relevant literature citations and timetable. d. If relevant, a description or an excerpt from a data management plan 
-       that outlines how data related to the research is published or will be prepared for publication through the GBIF network to GBIF.org.    
+       that outlines how data related to the research is published or will be prepared for publication through the GBIF network to GBIF.org.
+ 3. **Curriculum vitae** of the student applicant including full contact information at the home institution.
+ 4. **Supporting documents**
+    - An official letter from the student’s faculty mentor/supervisor certifying that the applicant is a student in good standing in the graduate programme of the  
+      university
+    - At least one, and no more than three, letters of support from established researchers active in a field that encompasses and incorporates biodiversity 
+      informatics (e.g., genetics, species composition and traits, biogeography, ecology, systematics, etc.).
+      
+**Selection process and criteria**
+
+The [GBIF Science Committee](https://www.gbif.org/contact-us/directory?group=scienceCommittee) will review the nominations and select winners
+of the Graduate Researchers Awards. The criteria for the awards include:
+- Originality and innovation
+- Use of and strategic significance for data accessed through GBIF
+- Measurable effectiveness and impact in advancing biodiversity informatics and/or the conservation of biological diversity
+
+Proposals that are not selected may be updated and resubmitted for consideration in subsequent years. Awardees are expected to acknowledge GBIF support when disseminating research results via peer-reviewed publications, presentations at professional meetings, and other media.
+
+SANBI-GBIF looks forward to receiving your applications.
+
+Fatima Parker-Allie
+Deputy Director: Biodiversity Informatics and Partnerships
+SANBI-GBIF Node Manager
+Foundational Biodiversity Science Division
+South African National Biodiversity Institute
