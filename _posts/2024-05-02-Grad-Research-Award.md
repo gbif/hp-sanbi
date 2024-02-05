@@ -11,7 +11,7 @@ and doctorate programmes at universities, whose studies rely on GBIF mediated da
 the GBIF network.
 
 The 2024 programme will provide €5,000 prizes recognizing the work of two early-career researchers preferably,
-one master’s and one PhD candidate—nominated by the Heads of Delegation and Node Managers from [GBIF Participant countries](https://www.gbif.org/the-gbif-network) 
+one master’s and one PhD candidate—nominated by the Heads of Delegation and Node Managers from [GBIF Participant countries](https://www.gbif.org/the-gbif-network).
 
 South Africa, as a GBIF Participant Country, will nominate two candidates selected from the national applications submitted
 to the SANBI-GBIF Node until 24 May 2024. This selection will be supported through the SANBI-GBIF Graduate Researcher Award Advisory Panel.
