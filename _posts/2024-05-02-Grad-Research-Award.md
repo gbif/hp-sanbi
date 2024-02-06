@@ -1,5 +1,5 @@
 ---
-title: Open call for nominations for the 2024 GBIF Graduate Researchers Award
+title: Open call for applications for 2024 GBIF Graduate Researchers Award - National Process
 date:   2024-02-05
 # categories: jekyll update
 background: /assets/images/GRA-2024-hero4-15.png
