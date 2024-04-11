@@ -2,7 +2,7 @@
 title: DEADLINE CORRECTED GBIF Secretariat is recruiting a Communications Specialist
 date:   2024-04-11
 # categories: jekyll update
-background: /assets/images/marine-biodiversity_7.jpg
+background: /assets/images/Lilies_pond.jpg
 ---
 
 # Three-year staff role will focus on writing, social media and general communications support #
