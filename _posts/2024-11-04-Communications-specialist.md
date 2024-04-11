@@ -5,7 +5,7 @@ date:   2024-04-11
 background: /assets/images/marine-biodiversity_7.jpg
 ---
 
-# DEADLINE CORRECTED: GBIF Secretariat is recruiting a Communications Specialist#
+# Three-year staff role will focus on writing, social media and general communications support #
 
 The GBIF Secretariat, located in Copenhagen, is looking for a Communications Specialist to join the Participation and Engagement group and
 expand the capacity of its Communications team.
