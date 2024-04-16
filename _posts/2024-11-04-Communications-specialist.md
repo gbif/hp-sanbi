@@ -1,5 +1,5 @@
 ---
-title: GBIF Secretariat is recruiting a Communications Specialist DEADLINE CORRECTED 
+title: GBIF Secretariat is Recruiting a Communications Specialist 
 date:   2024-04-11
 # categories: jekyll update
 background: /assets/images/Lilies_pond.jpg
