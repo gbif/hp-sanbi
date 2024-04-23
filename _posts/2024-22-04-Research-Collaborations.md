@@ -33,14 +33,15 @@ To strengthen the endeavours to work towards a Centre, SANBI-GBIF is looking at 
 - Size of individual awards per research collaboration grant: R300,000 over 2 years with the option of extended funding after the initial 2-year period.
 - If there are more proposals than funding, good proposals may be considered for a new round of funding in 2025.
 
-PROPOSALS MUST ADDRESS THE FOLLOWING ASSESSMENT CRITERIA:
+**PROPOSALS MUST ADDRESS THE FOLLOWING ASSESSMENT CRITERIA:**
 
 **SCIENTIFIC MERIT:** First and foremost, projects will be reviewed for scientific significance
-a.	Significance: 
+
+**a.	Significance:** 
 1. Scientific importance - i.e. what is the key focus area of the research collaboration with SANBI-GBIF 
 2. Strategic national importance- priority will be given to research collaborations with a strong strategic focus on data driven activities including potential for mobilising data or using data to forge a clear biodiversity informatics capacity development approach which is congruent to the SANBI-GBIF efforts and the organisational research strategy.
 
-**Feasibility:**
+**b. Feasibility:**
 1.	Experience and expertise of main PI of the application in the relevant area of work.
 2.	Experience and expertise of team as relevant.
 3.	In the event of data sharing, please provide further information with regards to strategy and approaches
