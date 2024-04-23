@@ -2,7 +2,7 @@
 title: SANBI-GBIF CALL FOR ESTABLISHING CATALYTIC RESEARCH COLLABORATIONS IN BIODIVERSITY INFORMATICS WITH UNIVERSITY PARTNERS 
 date:   2024-04-22
 # categories: jekyll update
-background: /assets/images/Lilies_pond.jpg
+background: /assets/images/Protea.jpg
 ---
 
 **CALL FOR PROPOSALS**
