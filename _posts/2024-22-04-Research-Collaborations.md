@@ -27,14 +27,13 @@ To strengthen the endeavours to work towards a Centre, SANBI-GBIF is looking at 
 6.	The university must have an interest in teaching and capacity development of students and/or work-based professionals in mobilizing and using biodiversity data for science, policy, and societal benefit, and will actively work with the GBIF Node of South Africa to expand human capital development in that arena.
 7.	Have an interest in developing strategic partnerships to strengthen efforts towards a Centre for Biodiversity Informatics.
 
-| AWARD INFORMATION |
-|---|
-|- Type of award: Seed money.|
-|- Size of individual awards per research collaboration grant: R300,000 over 2 years with the option of extended funding after the initial 2-year period.|
-|- If there are more proposals than funding, good proposals may be considered for a new round of funding in 2025.|
+**AWARD INFORMATION**
 
-| PROPOSALS MUST ADDRESS THE FOLLOWING ASSESSMENT CRITERIA: |
-|---|
+- Type of award: Seed money.
+- Size of individual awards per research collaboration grant: R300,000 over 2 years with the option of extended funding after the initial 2-year period.
+- If there are more proposals than funding, good proposals may be considered for a new round of funding in 2025.
+
+PROPOSALS MUST ADDRESS THE FOLLOWING ASSESSMENT CRITERIA:
 
 **SCIENTIFIC MERIT:** First and foremost, projects will be reviewed for scientific significance
 a.	Significance: 
@@ -58,8 +57,7 @@ a.	Significance:
 4.	Have an interest in open-access data-sharing 
 5.	Leveraging additional funding to support biodiversity informatics efforts.
 
-| ELIGIBILITY |
-|---|
+**ELIGIBILITY**
 
 1.	Open to all universities in South Africa. 
 2.	All data mobilized through the SANBI-GBIF Human Capital/Research Collaboration Grant, as well as any other products of the projects, such as training material, 
@@ -70,8 +68,7 @@ a.	Significance:
 5.	Institutional representatives will be required to contribute to SANBI-GBIF training workshops where relevant, and/or to any jointly identified conferences and 
    Forums.
   	  
-| FINANCIAL INFORMATION |
-|---|
+**FINANCIAL INFORMATION**
 
 1.	University Partners will be expected to enter into a collaboration with SANBI, and a collaboration agreement will be signed.
 2.	Applicants must commit co-funding (in-kind or cash) to this collaboration and provide details of this co-funding in their proposals.  Co-funding refers to real 
@@ -79,43 +76,9 @@ a.	Significance:
   project activities (like staff time, travel costs, equipment etc.,) or any in-cash contributions to activities from other funding sources. The level of this co- 
   funding will be taken into account when evaluating cost-effectiveness of proposals.
 
-| PROCESS AND TIMELINES |
-|---|
-| PROPOSAL SUBMISSION REQUIREMENTS |
-
 To apply, please complete the application form and provide any associated documentation.  Proposal submissions should be emailed to Ms. Duduetsang Rafapha <d.rafapha@sanbi.org.za>.
 Proposals that do not meet these requirements will not be considered. We encourage your interest in this process, and we look forward to receiving your applications by **8th May 2024**.
 Content-related questions or requests for further information to the Call for Proposals can be sent to Fatima Parker-Allie <F.Parker@sanbi.org.za>.  
 SANBI reserves the right not to proceed with the proposals.
 
-| REQUIRED FORMAT OF PROPOSAL |
-|---|
-| Project Title|
-| CONTACT DETAILS OF PRINCIPAL APPLICANT/MANAGING INSTITUTION|
-| Contact name: |
-| Tel: |
-| Postal Address:|
-| Email: |
-| PROJECT SUMMARY - AN ABSTRACT OF THE PROPOSAL (200 WORDS OR LESS)|
- 
-**FULL RESEARCH COLLABORATION DESCRIPTION - PLEASE COMPLETE ALL SECTIONS**
-|   |
-|---|
-| Outline in detail, in which way/s the research collaboration will support the SANBI-GBIF vision and the Human Capital Development Approach for Biodiversity Informatics. Some relevant information can be found at [www.sanbi-gbif.org](www.sanbi-gbif.org)|
-| What are the potential outputs and/or contributions that your research hub will enable?|
-| Provide a brief outline of the experience and expertise of the participant/s to be involved in this research collaboration. Please provide any supporting documentation.|
-| Indicate the expected duration of the project (include start and end dates).  Please include a work plan with milestones and deadlines.|
-| Start:|
-|End: |
-| Comment on the project’s potential contribution to national and international collaborations/initiatives.|
-| Comment on how the project will contribute to training and capacity development in the Biodiversity Informatics area, including equity and redress issues| 
-| (e.g. linking to DST’s White Paper for STI and the DSI New Decadal Plan.)|
-| Comment on any plans related to data mobilization and sharing, associated with this grant.|
-| Explain how this project would make a significant contribution to one or more national and/or global biodiversity initiatives.|
-| List and explain the potential end-products that address the needs of society, the environment, and/or scientific knowledge.|
-> 
-# BUDGET TEMPLATE #
-**Provide a broad-level budget and indicate the co-funding that will be associated with the research hub.**
- 
-| ITEMS | MOTIVATION | COST inclusive of VAT (please provide details)| Co-funding
-|---|---|---|---|
+[Click here for required format of proposal]( 
