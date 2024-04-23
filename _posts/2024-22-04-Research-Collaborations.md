@@ -81,4 +81,5 @@ Proposals that do not meet these requirements will not be considered. We encoura
 Content-related questions or requests for further information to the Call for Proposals can be sent to Fatima Parker-Allie <F.Parker@sanbi.org.za>.  
 SANBI reserves the right not to proceed with the proposals.
 
-[Click here for required format of proposal](https ://assets/images/SANBI_GBIF Call for proposals - ResearchHubs.pdf)
+[Download Call Document]( /assets/images/SANBI_GBIF Call for proposals - ResearchHubs.pdf){: .button .is-primary }
+
