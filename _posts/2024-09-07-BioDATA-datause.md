@@ -6,9 +6,7 @@ background: /assets/images/Lilies_pond.jpg
 ---
 
 # Date: 18  – 21 November 2024
-
 # Venue: Kruger National Park, South Africa
-
 # Deadline for submissions: 31 July 2024
 
 BioDATA Advanced is an international project between Norway and South Africa that aims to
