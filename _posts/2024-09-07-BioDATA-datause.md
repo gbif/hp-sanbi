@@ -5,7 +5,7 @@ date:   2024-07-09
 background: /assets/images/Lilies_pond.jpg
 ---
 
-# Date: 18th  – 21th November 2024
+# Date: 18  – 21 November 2024
 
 # Venue: Kruger National Park, South Africa
 
