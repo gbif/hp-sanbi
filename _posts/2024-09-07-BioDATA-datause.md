@@ -1,5 +1,5 @@
 ---
-title: BioData Advanced Course on data use with GBIF
+title: BioDATA Advanced Course on data use with GBIF
 date:   2024-07-09
 # categories: jekyll update
 background: /assets/images/Lilies_pond.jpg
