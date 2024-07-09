@@ -2,7 +2,7 @@
 title: BioData Advanced Course on data use with GBIF
 date:   2024-07-09
 # categories: jekyll update
-background: /assets/images/marine-biodiversity_7.jpg
+background: /assets/images/Lilies_pond.jpg
 ---
 
 # Date: 18th  – 21th November 2024
