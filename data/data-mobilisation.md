@@ -32,7 +32,7 @@ South African institutions have published over 32 000 000 primary biodiversity d
 
 **Taxonomic Coverage by Kingdom**    
 
-![Data Avalialbility](/assets/images/Tax_Cov_King-v2.JPG)  
+![Data Avalialbility](/assets/images/Data_availability_2024.jpg)  
 
 **Taxonomic Coverage of Selected Groups**  
 
