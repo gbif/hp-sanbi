@@ -30,30 +30,31 @@ Vibrant, multicultural and dynamic, UJ shares the pace and energy of cosmopolita
 [Learn more](https://www.uj.ac.za/)
 
 **About the National Botanical Garden Malaise Program**
-The National Botanical Garden Malaise Program is a joint project of UJ's African Centre for DNA Barcoding (ACDB), the Centre for Biodiversity Genomics at the University of Guelph in Canada, and SANBI. The project aimed to use DNA barcoding to identify and develop an inventory of Malaise-trappable arthropod species in all eleven South African National Botanic Gardens by sampling every two weeks for a year. This programme collected more than 370,000 specimens and nearly 30,000 species BINS (barcode identifier numbers) from all the gardens. Learn more.
+The National Botanical Garden Malaise Program is a joint project of UJ's [African Centre for DNA Barcoding (ACDB)](https://www.acdb.co.za/),the [Centre for Biodiversity Genomics](https://biodiversitygenomics.net/) at the [University of Guelph](https://www.uoguelph.ca/) in Canada, and SANBI. The project aimed to use DNA barcoding to identify and develop an inventory of Malaise-trappable arthropod species in all eleven [South African National Botanic Gardens](https://www.sanbi.org/gardens/) by sampling every two weeks for a year. This programme collected more than 370,000 specimens and nearly 30,000 species BINS (barcode identifier numbers) from all the gardens.
+[Learn more.](https://www.acdb.co.za/nbgmp-overview)
 
 **About SANBI-GBIF**
-SANBI-GBIF was established in 2003 by the South African Department of Science and Technology in collaboration with the National Research Foundation, Council for Scientific and Industrial Research and members of the scientific community. SANBI-GBIF is a network consisting of key national partners and stakeholders who provide and publish data through the SANBI-GBIF portal or directly to GBIF, enabling the node's support of national biodiversity reporting. Learn more.
+SANBI-GBIF was established in 2003 by the South African [Department of Science and Technology](https://www.dst.gov.za/) in collaboration with the [National Research Foundation](https://www.nrf.ac.za/), [Council for Scientific and Industrial Research](https://www.csir.co.za/) and members of the scientific community. SANBI-GBIF is a network consisting of key national partners and stakeholders who provide and publish data through the SANBI-GBIF portal or directly to GBIF, enabling the node's support of national biodiversity reporting.[Learn more.](https://www.sanbi-gbif.org/)
 
 **About the Award**
-The GBIF Graduate Researchers Award (formerly Young Researchers Award) is an annual scholarship programme that promotes and encourages innovation in biodiversity-related research using data shared through the GBIF network. Since bestowing its first awards in 2010, the programme has recognized outstanding achievements in original biodiversity research by more than two dozen Master’s and PhD students around the world.
+The [GBIF Graduate Researchers Award](https://www.gbif.org/graduate-researchers-award)(formerly Young Researchers Award) is an annual scholarship programme that promotes and encourages innovation in biodiversity-related research using data shared through the [GBIF network](https://www.gbif.org/the-gbif-network). Since bestowing its first awards in 2010, the programme has recognized outstanding achievements in original biodiversity research by more than two dozen Master’s and PhD students around the world.
 
 **Jury for 2024 Young Researchers Award**
 
 **•	Enrique Martínez Meyer**
 
-Jury chair, GBIF Science Committee
+Jury chair, [GBIF Science Committee](https://www.gbif.org/contact-us/directory?group=scienceCommittee)
 
-Universidad Nacional Autónoma de México, Mexico
+[Universidad Nacional Autónoma de México](https://www.unam.mx/), Mexico
 
 **•	Marlon Cobos**
 
-University of Kansas, United States
+[University of Kansas](https://ku.edu/), United States
 
 **•	Yoan Fourcade**
 
-Institute of Ecology and Environmental Sciences of Paris (iEEES), France
+[Institute of Ecology and Environmental Sciences of Paris](https://iees-paris.fr/en/) (iEEES), France
 
 **•	Katie Irvine**
 
-Terrestrial Ecosystem Research Network (TERN), Australia
+[Terrestrial Ecosystem Research Network (TERN)](https://www.tern.org.au/), Australia
