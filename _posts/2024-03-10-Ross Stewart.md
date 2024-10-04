@@ -2,7 +2,7 @@
 title: South African student Ross Stewart wins 2024 GBIF Graduate Researchers Award
 date:   2024-10-03
 # categories: jekyll update
-background: /assets/images/GRA-2024-hero4-15.png
+background: /assets/images/Winners.png
 ---
 *PhD candidate from the [University of Johannesburg](https://www.uj.ac.za/) investigates the relationship of plant-pollinator interactions and climate change across South Africa*
 
