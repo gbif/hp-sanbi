@@ -37,7 +37,7 @@ The National Botanical Garden Malaise Program is a joint project of UJ's [Africa
 SANBI-GBIF was established in 2003 by the South African [Department of Science and Technology](https://www.dst.gov.za/) in collaboration with the [National Research Foundation](https://www.nrf.ac.za/), [Council for Scientific and Industrial Research](https://www.csir.co.za/) and members of the scientific community. SANBI-GBIF is a network consisting of key national partners and stakeholders who provide and publish data through the SANBI-GBIF portal or directly to GBIF, enabling the node's support of national biodiversity reporting.[Learn more.](https://www.sanbi-gbif.org/)
 
 **About the Award**
-The [GBIF Graduate Researchers Award](https://www.gbif.org/graduate-researchers-award)(formerly Young Researchers Award) is an annual scholarship programme that promotes and encourages innovation in biodiversity-related research using data shared through the [GBIF network](https://www.gbif.org/the-gbif-network). Since bestowing its first awards in 2010, the programme has recognized outstanding achievements in original biodiversity research by more than two dozen Master’s and PhD students around the world.
+The [GBIF Graduate Researchers Award](https://www.gbif.org/graduate-researchers-award) (formerly Young Researchers Award) is an annual scholarship programme that promotes and encourages innovation in biodiversity-related research using data shared through the [GBIF network](https://www.gbif.org/the-gbif-network). Since bestowing its first awards in 2010, the programme has recognized outstanding achievements in original biodiversity research by more than two dozen Master’s and PhD students around the world.
 
 **Jury for 2024 Young Researchers Award**
 
