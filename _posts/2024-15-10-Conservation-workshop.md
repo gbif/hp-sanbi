@@ -2,7 +2,7 @@
 title: Conservation Genetics and Wildlife Management Course and Workshop
 date:   2024-10-15
 # categories: jekyll update
-background: /assets/images/Lilies_pond.jpg
+background: /assets/images/wshop.png
 ---
 **When:** December 9-15, 2024 at the University of Pretoria, South Africa. UP is one of Africa's top universities and the largest university in South Africa. 
 
@@ -36,8 +36,6 @@ Jenkins 2024; Bailey 2024).
 **Field trips** to Kruger National Park & Mabula Hornbill Sanctuary are possible, including wildlife safari drives.
 
 **Main Instructors:** Gordon Luikart, Will Hemstrom, Other local and international instructors to be announced
-
-![Biodiversity](assets/images/wshop.png)
 
 [Registration Link](https://forms.gle/2dfQ1J1ieyE8JMco8)
 
