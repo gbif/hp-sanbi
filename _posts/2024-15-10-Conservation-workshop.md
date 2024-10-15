@@ -35,5 +35,7 @@ Jenkins 2024; Bailey 2024).
 
 **Field trips** to Kruger National Park & Mabula Hornbill Sanctuary are possible, including wildlife safari drives.
 **Main Instructors:** Gordon Luikart, Will Hemstrom, Other local and international instructors to be announced
+
 ![Biodiversity](assets/images/wshop.png)
+
 [Registration Link](https://forms.gle/2dfQ1J1ieyE8JMco8)
