@@ -5,10 +5,10 @@ date:   2024-10-15
 background: /assets/images/wshop.png
 ---
 **Theme:** Applications of Genetics in Wildlife Management, Molecular Ecology, and Conservation Genetics. 
+
 **When:** December 9-15, 2024 at the University of Pretoria, South Africa. UP is one of Africa's top universities and the largest university in South Africa. 
 
-**Course Objective:** To train participants to understand and use population genetics principles and DNA-marker data to
-improve biodiversity conservation. The course will teach research approaches, monitoring, data analyses, and
+**Course Objective:** To train participants to understand and use population genetics principles and DNA-marker data to improve biodiversity conservation. The course will teach research approaches, monitoring, data analyses, and
 interpretation (RADseq, amplicon-seq, targeted capture, WGseq). The course will help bridge the gap between research
 and management to improve conservation (e.g., Allendorf et al. 2022, Chapter 24). This course is urgently needed and
 timely given the extinction crisis and the recent Kunming-Montreal Global Biodiversity Framework in which 196 parties
