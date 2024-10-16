@@ -90,8 +90,8 @@ Registered users can log in to the eLearning Platform and subscribe to the SANBI
 
 | Course     | Trainer/s   |Date       |Venue        |
 | :------------- | :---------- | :---------- |:----------|:----------|
-|BioDATA Advanced Course on data use with GBIF|Fatima Parker,Rukaya Johaadien and Morne Du Plessis|November 2024|Kruger National Park, South Africa|
-|SANBI-GBIF training workshop for species distribution modelling using Maxent in R|Dr Vernon Visser|March 2024|Iziko Museums of South Africa; Cape Town|
+|BioDATA Advanced Course on data use with GBIF|Fatima Parker, Rukaya Johaadien and Morne Du Plessis|November 2024|Kruger National Park, South Africa|
+|SANBI-GBIF training workshop for species distribution modelling using Maxent in R|Dr Vernon Visser|March 2024|The Iziko Museums South African Museum, Cape Town|
 |Data Driven DNA & eDNA Course (BioData Advanced)|Norwegian Partnership Initiative|13-17 November 2023|The Iziko South African Museum|
 |Analytical Techniques in Biodiversity Big Data Using GBIF: Making an Impact|SANBI-GBIF and GBIF-Spain|26-30 June 2023|The Iziko South African Museum, Cape Town|
 |Species Distribution Modelling|Vernon Visser|To be Confirmed (2023)|Kirstenbosch National Botanical Gardens|
