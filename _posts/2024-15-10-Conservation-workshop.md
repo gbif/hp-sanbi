@@ -2,9 +2,8 @@
 title: Conservation Genetics and Wildlife Management Course and Workshop
 date:   2024-10-15
 # categories: jekyll update
-background: /assets/images/Cons.png
+background: /assets/images/Lilies_pond.jpg
 ---
-
 **When:** December 9-15, 2024 at the University of Pretoria, South Africa. UP is one of Africa's top universities and the largest university in South Africa. 
 
 **Theme:** Applications of Genetics in Wildlife Management, Molecular Ecology, and Conservation Genetics. 
