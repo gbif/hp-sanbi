@@ -92,8 +92,8 @@ Registered users can log in to the eLearning Platform and subscribe to the SANBI
 | :------------- | :---------- | :---------- |:----------|:----------|
 |BioDATA Advanced Course on data use with GBIF|Fatima Parker and Morne Du Plessis|18-21 November 2024|Kruger National Park, South Africa|
 |SANBI-GBIF training workshop for species distribution modelling using Maxent in R|Dr Vernon Visser|5-8 March 2024|The Iziko South African Museum, Cape Town|
-|Course on DNA barcode data in BOLD and GBIF)|Norwegian Partnership Initiative|13-17 November 2023|The Iziko South African Museum|
+|Course on DNA barcode data (in BOLD and GBIF)|Norwegian Partnership Initiative|13-17 November 2023|The Iziko South African Museum|
 |Analytical Techniques in Biodiversity Big Data Using GBIF: Making an Impact|SANBI-GBIF and GBIF-Spain|26-30 June 2023|The Iziko South African Museum, Cape Town|
-|Species Distribution Modelling|Vernon Visser|To be Confirmed (2023)|Kirstenbosch National Botanical Gardens|
 |Data Management and Cleaning supporting science, policy and sustainable development|Vernon Visser, Fatima Parker-Allie and Hannelie Snyman|22-24 February 2022|Kirstenbosch National Botanical Gardens|
-|Biodiversity Informatics: Data Analysis, Use and Impact|Vernon Visser|TBC|Kirstenbosch National Botanical Gardens|
+|Species Distribution Modelling|Vernon Visser|To be Confirmed|Kirstenbosch National Botanical Gardens|
+|Biodiversity Informatics: Data Analysis, Use and Impact|Vernon Visser|o be Confirmed|Kirstenbosch National Botanical Gardens|
