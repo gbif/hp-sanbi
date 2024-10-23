@@ -7,7 +7,7 @@ description: |
 background: /assets/images/20180114_tsitsikamma-res.jpg
 cta:
   - text: Start exploring
-    href: /data
+    href: /occurrence/search
     isPrimary: true
   - text: About
     href: /about

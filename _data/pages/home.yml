@@ -34,16 +34,16 @@ browser:
 
   # img required
   background: /assets/images/Map3.Png
-  href: /data?view=MAP
+  href: /occurrence/search?view=MAP
   cta:
   - text: |
       <div><span data-ajax-path="data.occurrenceSearch.documents.total" data-ajax-url="https://graphql.gbif-staging.org/graphql?query=query%20%7B%0A%20%20occurrenceSearch%28predicate%3A%20%7Btype%3A%20equals%2C%20key%3A%20%22publishingCountry%22%2C%20value%3A%20%22ZA%22%7D%2C%20size%3A%2010%29%20%7B%0A%20%20%20%20documents%20%7B%0A%20%20%20%20%20%20total%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D">32,271,182</span>  occurrences</div>
-    href: /data
+    href: /occurrence/search
     isPrimary: true
   - text: Map
-    href: /data?view=MAP
+    href: /occurrence/search?view=MAP
   - text: Gallery
-    href: /data?view=GALLERY
+    href: /occurrence/search?view=GALLERY
     
 eLearning:
   reverse: false
@@ -69,10 +69,10 @@ stats:
       # we can also use the graphql API to allow richer queries
     - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?publishingCountry=ZA&limit=0">32,271,182</span>
       description: Species occurrences
-      href: /data
+      href: /occurrence/search
     - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?publishingCountry=ZA&limit=0&mediaType=StillImage">32,271,182</span>
       description: Images
-      href: /data?view=GALLERY
+      href: /occurrence/search?view=GALLERY
     - title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?publishingCountry=ZA&limit=0">32,271,182</span>
       description: Datasets
       href: https://www.gbif.org/dataset/search?publishing_country=ZA
