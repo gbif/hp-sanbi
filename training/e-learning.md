@@ -86,7 +86,7 @@ Registered users can log in to the eLearning Platform and subscribe to the SANBI
 
 [**Access the eLearning Platform**](https://elearning.gbif.es)
 
-## SANBI-GBIF Hosted Training Events taking place in 2022/23
+## SANBI-GBIF Hosted Training Events taking place in 2024
 
 | Course     | Trainer/s   |Date       |Venue        |
 | :------------- | :---------- | :---------- |:----------|:----------|
