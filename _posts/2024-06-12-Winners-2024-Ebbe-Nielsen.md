@@ -2,7 +2,7 @@
 title: ChatIPT system wins the 2024 Ebbe Nielsen Challenge
 date:   2024-12-06
 # categories: jekyll update
-background: /assets/images/Lilies_pond.jpg
+background: /assets/images/Rukaya.png
 ---
 ### Assistant developed by Norwegian engineer Rukaya Johaadien helps transform spreadsheets into standardized GBIF-ready datasets; Planetary Knowledge Base and CoreTech Assistant place second and third in annual incentive prize. ###
 
