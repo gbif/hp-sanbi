@@ -64,3 +64,9 @@ The [GBIF Science Committee](https://www.gbif.org/contact-us/directory?group=sci
 Proposals that are not selected may be updated and resubmitted for consideration in subsequent years. Awardees are expected to acknowledge GBIF support when disseminating research results via peer-reviewed publications, presentations at professional meetings, and other media.
 
 SANBI-GBIF looks forward to receiving your applications.
+
+**Fatima Parker-Allie**
+Deputy Director: Biodiversity Informatics Partnerships and Cooperation
+SANBI-GBIF Node Manager
+Foundational Biodiversity Science Division
+South African National Biodiversity Institute
