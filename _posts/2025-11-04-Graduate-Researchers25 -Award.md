@@ -2,7 +2,7 @@
 title: Call for nominations opens for 2025 GBIF Graduate Researchers Award
 date:   20253-04-11
 # categories: jekyll update
-background: /assets/images/Research_1_2.png
+background: /assets/images/Award2025.jpg
 ---
 
 **Call for nominations to the 2025 GBIF Graduate Researchers Award** 
