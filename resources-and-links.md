@@ -17,6 +17,7 @@ toc: true
 * [GBIF Science Review 2020](https://assets.ctfassets.net/uo17ejk9rkwj/37mOTkUYsVfAc4e080MEVV/237e2229af7c8537dbff213f7cbd7576/SR2020_interactive_v2.pdf)
 * [Georeferencing Best Practices 2020](https://docs.gbif.org/georeferencing-best-practices/1.0/en/georeferencing-best-practices.en.pdf)
 * [Current Best Practices for Generalizing Sensitive Species Occurence Data 2020](https://docs.gbif.org/sensitive-species-best-practices/master/en/current-best-practices-for-generalizing-sensitive-species-occurrence-data.en.pdf)
+* [New guide released to support freshwater data publishing]((https://docs.gbif.org/freshwater-data-publishing-guide/en/))
 
 ## Task Group Recommendations
 * [Publishing DNA-derived Data Through Biodiversity Data Platforms](https://docs.gbif.org/publishing-dna-derived-data/1.0/en/)
