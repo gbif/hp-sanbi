@@ -42,9 +42,9 @@ Candidates should prepare their proposal and nomination packets to include:
    d. If relevant, a description or an excerpt from a data management plan that outlines how data related to 
       the research is published or will be prepared for publication through the GBIF network to GBIF.org.
 
-4. **Curriculum vitae** of the student applicant including full contact information at the home institution.
+3. **Curriculum vitae** of the student applicant including full contact information at the home institution.
  
-5. **Supporting documents**
+4. **Supporting documents**
 
     a. An official letter from the student’s faculty mentor/supervisor certifying that the applicant is a student in 
       good standing in the graduate programme of the university.
