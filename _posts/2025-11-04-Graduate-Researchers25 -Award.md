@@ -9,7 +9,7 @@ background: /assets/images/Award2025.jpg
 
 The call is now open for the [GBIF 2025 Graduate Researchers Award](https://www.gbif.org/news/4AAE2KOKBRJ0iS2DE2fT65/call-for-nominations-opens-for-2025-gbif-graduate-researchers-award). The award fosters innovative research and discovery in biodiversity informatics by graduate students in master’s and doctorate programmes at universities, whose studies rely on GBIF mediated data, in countries participating in the GBIF network.
 
-The 2025 programme will provide €5,000 prizes recognizing the work of two early-career researchers preferably, one master’s and one PhD candidate—nominated by the Heads of Delegation and Node Managers from [GBIF Participant countries](https://www.gbif.org/the-gbif-network)
+The 2025 programme will provide €5,000 prizes recognizing the work of two early-career researchers preferably, one master’s and one PhD candidate—nominated by the Heads of Delegation and Node Managers from [GBIF Participant countries.](https://www.gbif.org/the-gbif-network)
 
 South Africa, as a GBIF Participant Country, will nominate two candidates selected from the national applications submitted to the SANBI-GBIF Node until 24 May 2025. This selection will be supported through the newly established SANBI-GBIF Graduate Researcher Award Advisory Panel. The Department of Science and Innovation will engage with the SANBI-GBIF Node in submission of the two South African applicants to GBIF. 
 
