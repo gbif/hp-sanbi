@@ -2,7 +2,7 @@
 title: New guide released to support freshwater data publishing
 date:   2025-03-04
 # categories: jekyll update
-background: /assets/images/TDWG.jpg
+background: /assets/images/Freshwater.jpg
 ---
 Guide supports researchers in government, academia and NGOs, and freshwater practitioners to format and publish freshwater data
 
