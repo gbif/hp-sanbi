@@ -26,7 +26,7 @@ In anticipation of a formal public review, scheduled to begin 2025-09-01, we wou
 
 - **Discussion** - For open discussion on the Darwin Core Data Package, see the GBIF [Darwin Core Data Package (DwC-DP)](https://discourse.gbif.org/t/darwin-core-data-package-dwc-dp/5937) discourse forum topic.
 
-- **Help!** - For help with any issue, feel free to contact the DwC-DP helpdesk <dwcdp@gbif.org.>
+- **Help!** - For help with any issue, feel free to contact the DwC-DP [helpdesk](mailto:dwcdp@gbif.org.)  
 
 
 
