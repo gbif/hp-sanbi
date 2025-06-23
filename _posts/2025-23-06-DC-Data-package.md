@@ -14,7 +14,7 @@ Previous to the public review, we welcome those who are interested to explore th
 
 # Participating and Getting Help #
 
-In anticipation of a formal public review, scheduled to begin 2025-09-01, we would like to invite people to gain familiarity with and test the DwC-DP by attempting to map original datasets to it. We are just beginning to work on the “Darwin Core Data Package Guide”, which is intended to contain various “recipes” for publishing different types of datasets. Until that document contains useful content, the best way forward is to look at an already-mapped example dataset that is similar to the one you want to test [Click here to access example dataset](gbif/dwc-dp-examples).This community testing phase will remain open until 2025-08-01.
+In anticipation of a formal public review, scheduled to begin 2025-09-01, we would like to invite people to gain familiarity with and test the DwC-DP by attempting to map original datasets to it. We are just beginning to work on the “Darwin Core Data Package Guide”, which is intended to contain various “recipes” for publishing different types of datasets. Until that document contains useful content, the best way forward is to look at an already-mapped example dataset that is similar to the one you want to test [Click here to access example dataset](https://github.com/gbif/dwc-dp-examples).This community testing phase will remain open until 2025-08-01.
 
 - **Getting started** - In addition to this document, the easiest way to start to understand DwC-DP is to look at the [Darwin Core Data Package - Quick Reference Guide.](https://gbif.github.io/dwc-dp/qrg/index.html)
 
