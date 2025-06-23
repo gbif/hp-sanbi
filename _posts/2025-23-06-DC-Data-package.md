@@ -2,7 +2,7 @@
 title: Darwin Core Data Package (DwC-DP)
 date:   2025-06-23
 # categories: jekyll update
-background: /assets/images/OBIS.png
+background: /assets/images/DC.png
 ---
 
 A proposal for a Vocabulary Enhancement to the Darwin Core standard,  is scheduled for full **public review beginning 2025-09-01.** [Click here to access repository.](https://gbif.github.io/dwc-dp/)
