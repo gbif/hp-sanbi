@@ -21,7 +21,7 @@ In anticipation of a formal public review, scheduled to begin 2025-09-01, we wou
 
 - **Testing with IPT** - If you are interested in using [the test instance](https://dwcdp-ipt.gbif-test.org/) of the Integrated Publishing Toolkit (not for production use) to produce a Darwin Core Data Package, please contact the DwC-DP helpdesk to set up an account.
 
-- **Submitting Issues** - For feedback about the structure or documentation of DwC-DP, feel free to register an [Issue].(https://github.com/gbif/dwc-dp/issues)
+- **Submitting Issues** - For feedback about the structure or documentation of DwC-DP, feel free to register an [Issue](https://github.com/gbif/dwc-dp/issues)
 
 - **Discussion** - For open discussion on the Darwin Core Data Package, see the GBIF [Darwin Core Data Package (DwC-DP)](https://discourse.gbif.org/t/darwin-core-data-package-dwc-dp/5937) discourse forum topic.
 
