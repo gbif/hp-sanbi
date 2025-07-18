@@ -20,4 +20,4 @@ scientifically-informed research based on the findable, accessible, interoperabl
 The new GBIF integration is expected to streamline workflows for governments, academic institutions, NGOs and businesses around the world who already use Esri products. 
 It is anticipated that the barriers to using GBIF-mediated data will be significantly reduced for users in the GIS and spatial planning and environmental mapping communities.
 
-For more information [Click here](https://www.gbif.org/news/3XMOoOZ2DcZX4uKjqFxIk7/partnership-with-esri-gives-arcgis-community-easy-access-to-species-occurrence-records)
+For more information on the partneship with Esri: [Click here](https://www.gbif.org/news/3XMOoOZ2DcZX4uKjqFxIk7/partnership-with-esri-gives-arcgis-community-easy-access-to-species-occurrence-records)
