@@ -2,7 +2,7 @@
 title: Partnership with Esri gives ArcGIS community easy access to species occurrence records
 date:   2025-07-18
 # categories: jekyll update
-background: /assets/images/OBIS.png
+background: /assets/images/ESRIGBIF.jpg
 ---
 
 *Software integration aims to increase use and citation of open data on biodiversity among geospatial platform users*
