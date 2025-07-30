@@ -68,5 +68,5 @@ Application pack Click [here](https://docs.google.com/forms/d/e/1FAIpQLSe9QFjj4N
 2. Letter of support from your supervisor (compulsory), and any other additional reference if available.
 
 
-You may contact Marcella Christine Orwick Rydmark (m.c.o.rydmark@nhm.uio.no) with any administrative and VISA/travel questions, and Morne Du Plessis (DuPlessisMG@ufs.ac.za) and Quentin Mauvisseau (quentin.mauvisseau@nhm.uio.no) on content-related questions. 
-You may also contact Fatima Parker-Allie (F.Parker@sanbi.org.za) for any other queries.
+You may contact Marcella Christine Orwick Rydmark <m.c.o.rydmark@nhm.uio.no> with any administrative and VISA/travel questions, and Morne Du Plessis <DuPlessisMG@ufs.ac.za> and Quentin Mauvisseau <quentin.mauvisseau@nhm.uio.no> on content-related questions. 
+You may also contact Fatima Parker-Allie <F.Parker@sanbi.org.za> for any other queries.
