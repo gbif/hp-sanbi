@@ -2,7 +2,7 @@
 title: DNA Wet Lab Training Course
 date:   2025-07-30
 # categories: jekyll update
-background: /assets/images/BioData Advanced 10.png
+background: /assets/images/BioData Advanced 11.png
 ---
 
 **Venue: Biological Station Drøbak, Norway, Oslo**
