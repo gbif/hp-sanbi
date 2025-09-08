@@ -2,7 +2,7 @@
 title: Task group on biodiversity data for human diseases concludes work, delivers data publishing guide
 date:   2025-09-08
 # categories: jekyll update
-background: /assets/images/BioData Advanced 11.png
+background: /assets/images/Diseases.jpg
 ---
 
 *Open-access resources will remain available to support global mobilization of vector-borne disease records*
