@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines (until baseurl:)
   Your Gateway to occurrence records published by South African Institutions.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://hp-sanbi.gbif.org" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.sanbi-gbif.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sanbigbif
 facebook_username: SouthAfricanNationalBiodiversityInstitute
 
