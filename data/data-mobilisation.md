@@ -24,16 +24,16 @@ South African institutions have published over 36 000 000 primary biodiversity d
 
 **Data Mobilized and Published by South African Institutions**  
 
-![Data mobilization](/assets/images/Data_sharing_2024.jpg)  
+![Data mobilization](/assets/images/Data mobilization.jpg)  
 
-**Data Mobilized by South African Institutions in 2023 and over time By Kingdom**   
+**Data Mobilized by South African Institutions in 2025 and over time By Kingdom**   
 
-![Data mobilization](/assets/images/Data_mobilization_2024.jpg) 
+![Data mobilization](/assets/images/Data mobilization_2.jpg) 
 
 **Taxonomic Coverage by Kingdom**    
 
-![Data Avalialbility](/assets/images/Data_availability_2024.jpg)  
+![Data Avalialbility](/assets/images/Kingdom availability.jpg)  
 
 **Taxonomic Coverage of Selected Groups**  
 
-![Data Avalialbility](/assets/images/Data_availability_taxgrp_2024.jpg)
+![Data Avalialbility](/assets/images/Taxonomic groups availability.jpg)
