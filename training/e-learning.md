@@ -90,7 +90,7 @@ Registered users can log in to the eLearning Platform and subscribe to the SANBI
 
 | Course     | Trainer/s   |Date       |Venue        |
 | :------------- | :---------- | :---------- |:----------|:----------|
-|DNA Wet Lab Training Course|Morne Du Plessis;Quentin Mauvisseau|3-14 November 2025|Biological Station Drøbak, Norway, Oslo|
+|DNA Wet Lab Training Course|Morne Du Plessis;Quentin Mauvisseau;Hugo de Boer;Dag Endresen|3-14 November 2025|Biological Station Drøbak, Norway, Oslo|
 |BioDATA Advanced Course on data use with GBIF|Fatima Parker-Allie; Michal Torma; Dag Endresen; Aud Halbritter; Quentin Mauvisseau; Morne du Plessis|18-21 November 2024|Kruger National Park, South Africa|
 |SANBI-GBIF training workshop for species distribution modelling using Maxent in R|Vernon Visser|5-8 March 2024|The Iziko South African Museum, Cape Town|
 |Course on DNA barcode data (in BOLD and GBIF)|Norwegian Partnership Initiative|13-17 November 2023|The Iziko South African Museum, Cape Town|
