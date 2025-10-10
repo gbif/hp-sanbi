@@ -95,4 +95,4 @@ Registered users can log in to the eLearning Platform and subscribe to the SANBI
 |Course on DNA barcode data (in BOLD and GBIF)|Norwegian Partnership Initiative|13-17 November 2023|The Iziko South African Museum, Cape Town|
 |Analytical Techniques in Biodiversity Big Data Using GBIF: Making an Impact|Fatima Parker-Allie; Francisco Pando; Katia Cezon; Fernando Aguilar; Morne du Plessis; Vernon Visser; Andrew Skowno; Dewidine van der Colff; Maphale Monyeki|26-30 June 2023|The Iziko South African Museum, Cape Town|
 |Data Management and Cleaning supporting science, policy and sustainable development|Vernon Visser, Fatima Parker-Allie and Hannelie Snyman|22-24 February 2022|Kirstenbosch National Botanical Gardens|
-
+|DNA Wet Lab Training Course|Morne Du Plessis;Quentin Mauvisseau|3-14 November 2025|Biological Station Drøbak, Norway, Oslo|
