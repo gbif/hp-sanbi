@@ -25,9 +25,9 @@ I've done so to display an alternative way to display those links to products
 
 ![Regional Engagement](/assets/images/Regionalengagement4.jpg)
 ![Regional Engagement](/assets/images/SANBI_RES.JPG)
-[The SANBI Regional Engagement Strategy](https://doi.org/10.5281/zenodo.17311907)
+[The SANBI Regional Engagement Strategy](https://zenodo.org/records/17311908)
 ![Regional Engagement](/assets/images/acm_pics.jpg)
-          [The ACM Information Product](https://doi.org/10.5281/zenodo.17311843)
+          [The ACM Information Product](https://zenodo.org/records/17311844)
 
 this means that the comment is ending here -->
 
