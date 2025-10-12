@@ -29,5 +29,3 @@ SANBI-GBIF has been leading and supporting the GBIF-Africa network since 2009, t
 
 [![The ACM Information Product](/assets/images/acm_pics.jpg)](https://zenodo.org/records/17311844)
 
-
-
