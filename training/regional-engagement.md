@@ -20,6 +20,8 @@ SANBI-GBIF has been leading and supporting the GBIF-Africa network since 2009, t
 
 
 # **Regional Engagement Products**
+[The SANBI Regional Engagement Strategy](https://zenodo.org/records/17311908)
+[The ACM Information Product](https://zenodo.org/records/17311844)
 
 **The SANBI Regional Engagement Strategy**
 [![The SANBI Regional Engagement Strategy](/assets/images/SANBI_RES.JPG)](https://zenodo.org/records/17311908)
