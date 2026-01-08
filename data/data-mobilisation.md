@@ -24,9 +24,9 @@ South African institutions have published over 36 000 000 primary biodiversity d
 
 **Data Mobilized and Published by South African Institutions**  
 
-![Data mobilization](/assets/images/Data mobilization.jpg)  
+![Data mobilization](assets/images/GBIF_Data mobilization_2026.jpg)  
 
-**Data Mobilized by South African Institutions in 2024 and over time By Kingdom**   
+**Data Mobilized by South African Institutions in 2025 and over time By Kingdom**   
 
 ![Data mobilization](/assets/images/Data mobilization_2.jpg) 
 
