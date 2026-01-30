@@ -2,7 +2,7 @@
 title: Open call for applications for 2026 GBIF Graduate Researchers Award-National Process
 date:   2026-01-30
 # categories: jekyll update
-background: /assets/images/GradRes2026.jpg
+background: /assets/images/GRA-2026-11.webp
 ---
 
 The call is now open for the [GBIF 2026 Graduate Researchers Award.](https://www.gbif.org/news/2qFpkI7rwBNbMuSjn2rtae/2026-gbif-graduate-researchers-award-call-for-nominations)
