@@ -2,24 +2,32 @@
 title: Open call for applications for 2024 GBIF Graduate Researchers Award-National Process
 date:   2026-01-30
 # categories: jekyll update
-background: /assets/images/GRA-2024-hero4-15.png
+background: /assets/images/GradRes2026.jpg
 ---
 
-The call is now open for the GBIF 2026 Graduate Researchers Award [GBIF 2026 Graduate Researchers Award](https://www.gbif.org/news/2qFpkI7rwBNbMuSjn2rtae/2026-gbif-graduate-researchers-award-call-for-nominations)
+The call is now open for the [GBIF 2026 Graduate Researchers Award.](https://www.gbif.org/news/2qFpkI7rwBNbMuSjn2rtae/2026-gbif-graduate-researchers-award-call-for-nominations)
 
-The award fosters innovative research and discovery in biodiversity informatics by graduate students in master’s and doctorate programmes at universities, whose studies rely on GBIF mediated data, in countries participating in the GBIF network.
+The award fosters innovative research and discovery in biodiversity informatics by graduate students 
+in master’s and doctorate programmes at universities, whose studies rely on GBIF mediated data, in countries participating
+in the GBIF network.
+
+The 2026 programme will provide two €5,000 prizes recognizing the work of early-career graduate researchers. 
+Candidates must be formally nominated by node managers and heads of delegation from GBIF Participant countries. 
+Each Participant country may nominate up to two students for consideration by the GBIF Secretariat.
 
 South Africa, as a GBIF Participant Country, will nominate two candidates selected from the national applications submitted to the SANBI-GBIF Node
-until **Friday 29 May 2026.** This selection will be supported through the newly established SANBI-GBIF Graduate Researcher Award Advisory Panel. 
+until **Friday 29 May 2026.** 
+This selection will be supported through the newly established SANBI-GBIF Graduate Researcher Award Advisory Panel. 
 The Department of Science and Innovation will engage with the SANBI-GBIF Node in submission of the two South African applicants to GBIF.
 
-From the global pool of nominated candidates, an expert jury coordinated through GBIF Science Committee will select two recipients to be named as the 2026 Graduate Researchers Award winners. The GBIF Secretariat will announce winners prior to the 33rd meeting of the GBIF Governing Board (GB33) in September 2026 in Oslo, Norway.
+From the global pool of nominated candidates, an expert jury coordinated through GBIF Science Committee will select two recipients to be named as the 2026 Graduate Researchers Award winners.
+The GBIF Secretariat will announce winners prior to the 33rd meeting of the GBIF Governing Board (GB33) in September 2026 in Oslo, Norway.
 
 
 **Eligibility**
 
-Candidates must be enrolled in a university graduate programme to be eligible for the award. 
-Candidates must be either South African citizens **or** citizens of another country but students in a South African institution. 
+Candidates must be enrolled in a university graduate programme to be eligible for the award. Candidates must be 
+either South African citizens **or** citizens of another country but students in a South African institution. 
 Nominations can come from the GBIF delegation or node of either the candidate’s country of citizenship or the country of the candidate’s host institution.
 
 **Submission process and deadlines**
@@ -29,6 +37,7 @@ Submissions of incomplete proposals will not be considered.
 **Award nomination packet**
 Candidates should prepare their proposal and nomination packets to include:
 1.	**Research summary** (200 words)
+
 2.	**Project description** (maximum 5 pages, 12-point Arial) that describes
 
  a. How the research advances biodiversity informatics and/or the conservation of biological diversity.
@@ -39,9 +48,9 @@ c. The research scope, plan, methodologies, relevant literature citations and ti
 
 d. If relevant, a description or an excerpt from a data management plan that outlines how data related to the research is published or will be prepared for           publication through the GBIF network to GBIF.org.
 
-4.	**Curriculum vitae** of the student applicant including full contact information at the home institution.
+3.	**Curriculum vitae** of the student applicant including full contact information at the home institution.
 	
-5.	**Supporting documents**
+4.	**Supporting documents**
 		
    a. An official letter from the student’s faculty mentor/supervisor certifying that the applicant is a student in good standing in the graduate programme of the       university.
  
