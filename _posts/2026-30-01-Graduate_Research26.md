@@ -1,5 +1,5 @@
 ---
-title: Open call for applications for 2024 GBIF Graduate Researchers Award-National Process
+title: Open call for applications for 2026 GBIF Graduate Researchers Award-National Process
 date:   2026-01-30
 # categories: jekyll update
 background: /assets/images/GradRes2026.jpg
