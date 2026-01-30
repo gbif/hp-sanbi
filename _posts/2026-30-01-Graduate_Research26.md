@@ -36,6 +36,7 @@ Submissions of incomplete proposals will not be considered.
 
 **Award nomination packet**
 Candidates should prepare their proposal and nomination packets to include:
+
 1.	**Research summary** (200 words)
 
 2.	**Project description** (maximum 5 pages, 12-point Arial) that describes
