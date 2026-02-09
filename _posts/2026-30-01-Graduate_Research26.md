@@ -16,7 +16,7 @@ Candidates must be formally nominated by node managers and heads of delegation f
 Each Participant country may nominate up to two students for consideration by the GBIF Secretariat.
 
 South Africa, as a GBIF Participant Country, will nominate two candidates selected from the national applications submitted to the SANBI-GBIF Node
-until **1 May 2026** 
+until **1 May 2026**. 
 This selection will be supported through the SANBI-GBIF Graduate Researcher Award Advisory Panel. 
 The Department of Science and Innovation will engage with the SANBI-GBIF Node in submission of the two South African applicants to GBIF.
 
