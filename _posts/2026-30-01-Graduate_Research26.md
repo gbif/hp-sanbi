@@ -32,7 +32,7 @@ Nominations can come from the GBIF delegation or node of either the candidate’
 
 **Submission process and deadlines**
 
-Candidates should submit their application, together with completed documentation by email, to F.Parker@sanbi.org.za by 1 May 2026. 
+Candidates should submit their application, together with completed documentation by email, to F.Parker@sanbi.org.za by **1 May 2026**
 Submissions of incomplete proposals will not be considered.
 
 **Award nomination packet**
@@ -40,25 +40,30 @@ Submissions of incomplete proposals will not be considered.
 Candidates should prepare their proposal and nomination packets to include:
 
 1.	**Research summary** (200 words)
-
+	
 2.	**Project description** (maximum 5 pages, 12-point Arial) that describes
-
- a. How the research advances biodiversity informatics and/or the conservation of biological diversity.
  
- b. The role of data accessed through GBIF in addressing these questions. Research proposals must clearly demonstrate how the study incorporates data mobilized         through GBIF. Students with questions about GBIF-enabled data should work with academic advisors, their GBIF national node, the GBIF Secretariat or members        of the Science Committee to increase their understanding.
- 
-c. The research scope, plan, methodologies, relevant literature citations and timetable.
-
-d. If relevant, a description or an excerpt from a data management plan that outlines how data related to the research is published or will be prepared for           publication through the GBIF network to GBIF.org.
+    a. How the research advances biodiversity informatics and/or the conservation of biological diversity.
+   
+    b. The role of data accessed through GBIF in addressing these questions. Research proposals must clearly 
+       demonstrate  how the study incorporates data mobilized through GBIF. Students with questions about GBIF-enabled 
+       data should work with academic advisors, their GBIF national node, the GBIF Secretariat or members of the 
+       Science Committee to increase their understanding.
+   
+    c. The research scope, plan, methodologies, relevant literature citations and  timetable.
+   
+    d. If relevant, a description or an excerpt from a data management plan that outlines how data related to 
+       the research is published or will be prepared for publication through the GBIF network to GBIF.org.
 
 3.	**Curriculum vitae** of the student applicant including full contact information at the home institution.
 	
 4.	**Supporting documents**
-		
-   a. An official letter from the student’s faculty mentor/supervisor certifying that the applicant is a student in good standing in the graduate programme of the       university.
+
+    a. An official letter from the student’s faculty mentor/supervisor certifying that the applicant is a student in good standing in the
+  	   graduate programme of  the university.
  
-   b. At least one, and no more than three, letters of support from established researchers active in a field that encompasses and incorporates
-     biodiversity informatics (e.g., genetics, species composition and traits, biogeography, ecology, systematics, etc.).
+    b. At least one, and no more than three, letters of support from established researchers active in a field that encompasses and incorporates
+      biodiversity informatics (e.g., genetics, species composition and traits, biogeography, ecology, systematics, etc.).
 
 **Selection process and criteria**
 
