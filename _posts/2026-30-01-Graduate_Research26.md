@@ -39,8 +39,7 @@ Submissions of incomplete proposals will not be considered.
 
 Candidates should prepare their proposal and nomination packets to include:
 
-1.	**Research summary** (200 words)
-	
+1.	**Research summary** (200 words)	
 2.	**Project description** (maximum 5 pages, 12-point Arial) that describes
  
     a. How the research advances biodiversity informatics and/or the conservation of biological diversity.
@@ -55,8 +54,7 @@ Candidates should prepare their proposal and nomination packets to include:
     d. If relevant, a description or an excerpt from a data management plan that outlines how data related to 
        the research is published or will be prepared for publication through the GBIF network to GBIF.org.
 
-3.	**Curriculum vitae** of the student applicant including full contact information at the home institution.
-	
+3.	**Curriculum vitae** of the student applicant including full contact information at the home institution.	
 4.	**Supporting documents**
 
     a. An official letter from the student’s faculty mentor/supervisor certifying that the applicant is a student in good standing in the
