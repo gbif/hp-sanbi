@@ -17,7 +17,7 @@ Each Participant country may nominate up to two students for consideration by th
 
 South Africa, as a GBIF Participant Country, will nominate two candidates selected from the national applications submitted to the SANBI-GBIF Node
 until **Friday 29 May 2026.** 
-This selection will be supported through the newly established SANBI-GBIF Graduate Researcher Award Advisory Panel. 
+This selection will be supported through the SANBI-GBIF Graduate Researcher Award Advisory Panel. 
 The Department of Science and Innovation will engage with the SANBI-GBIF Node in submission of the two South African applicants to GBIF.
 
 From the global pool of nominated candidates, an expert jury coordinated through GBIF Science Committee will select two recipients to be named as the 2026 Graduate Researchers Award winners.
@@ -31,10 +31,12 @@ either South African citizens **or** citizens of another country but students in
 Nominations can come from the GBIF delegation or node of either the candidate’s country of citizenship or the country of the candidate’s host institution.
 
 **Submission process and deadlines**
-Candidates should submit their application, together with completed documentation by email, to F.Parker@sanbi.org.za by ? 2026. 
+
+Candidates should submit their application, together with completed documentation by email, to F.Parker@sanbi.org.za by 1 May 2026. 
 Submissions of incomplete proposals will not be considered.
 
 **Award nomination packet**
+
 Candidates should prepare their proposal and nomination packets to include:
 
 1.	**Research summary** (200 words)
