@@ -32,7 +32,7 @@ Nominations can come from the GBIF delegation or node of either the candidate’
 
 **Submission process and deadlines**
 
-Candidates should submit their application, together with completed documentation by email, to [bdiprogrammessupport](bdiprogrammessupport@sanbi.org.za) 
+Candidates should submit their application, together with completed documentation by email, to bdiprogrammessupport@sanbi.org.za
 by **1 May 2026**. Submissions of incomplete proposals will not be considered.
 
 **Award nomination packet**
