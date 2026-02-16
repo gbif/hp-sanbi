@@ -32,7 +32,7 @@ Nominations can come from the GBIF delegation or node of either the candidate’
 
 **Submission process and deadlines**
 
-Candidates should submit their application, together with completed documentation by email, to bdiprogrammessupport@sanbi.org.za
+Candidates should submit their application, together with completed documentation by email, to **bdiprogrammessupport@sanbi.org.za**
 by **1 May 2026**. Submissions of incomplete proposals will not be considered.
 
 **Award nomination packet**
@@ -73,7 +73,7 @@ The GBIF Science Committee will review the nominations and select winners of the
 Proposals that are not selected may be updated and resubmitted for consideration in subsequent years. Awardees are expected to acknowledge GBIF support when disseminating research results via peer-reviewed publications, presentations at professional meetings, and other media.
 SANBI-GBIF looks forward to receiving your applications.
 
-Please direct any queries to Please direct any queries to Dr. Minoli Appalasamy, at M.Appalasamy@sanbi.org.za
+Please direct any queries to Dr. Minoli Appalasamy, at M.Appalasamy@sanbi.org.za
 
 Fatima Parker-Allie
 
