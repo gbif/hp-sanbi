@@ -20,6 +20,18 @@ SANBI wishes to acknowledge GBIF-Spain, as the host of the eLearning Technology 
 
 ## Training Courses and Available Content and Curricula ##
 
+**BioDATA Advanced Course on Data Use with GBIF**
+
+This course is offered through a collaboration between the SANBI-GBIF Node, the Natural History Museum, University of Oslo, and GBIF Norway, as part of the BioDATA Advanced initiative. The project aims to strengthen international partnerships and foster collaboration through shared learning and scientific exchange.
+The course provides a practical, hands-on introduction to extracting, managing, and analysing biodiversity data from GBIF. It combines foundational training in data standards, open science principles, fitness for use, data cleaning, and data manipulation, with applied learning through real-world examples. Participants also engage in fieldwork, thematic discussions, and project showcases from both Norway and South Africa.
+Through this training, participants develop essential skills to effectively use biodiversity data, enhancing their ability to contribute to scientific research and support evidence-based decision-making in biodiversity conservation and policy.
+
+[**View the Course and Sign-up**](https://elearning.gbif.es/course/158/about)
+
+Registered users can log in to the eLearning Platform and subscribe to the BioDATA Advances Course on Data Use with GBIF by clicking the link below:
+
+[**Access the eLearning Platform**](https://elearning.gbif.es)
+
 **Analytical Techniques in Biodiversity Big Data Using GBIF: Making an Impact**
 
 The vast quantities of biodiversity data put together in a uniform, FAIR way, and now available, in part led by GBIF, is recognized as an enabler of high-impact innovative science, and a key to respond to the current societal challenges. However, the exploitation of this resource is often hindered by limited capacity. 
@@ -83,18 +95,6 @@ New users of the eLearning Platform can view details of the course, and access t
 [**View the Course and Sign-Up**](https://elearning.gbif.es/course/86/about)
 
 Registered users can log in to the eLearning Platform and subscribe to the SANBI-GBIF course in using R for Species Distribution Modelling by clicking the link below:
-
-[**Access the eLearning Platform**](https://elearning.gbif.es)
-
-**BioDATA Advanced Course on Data Use with GBIF**
-
-This course is offered through a collaboration between the SANBI-GBIF Node, the Natural History Museum, University of Oslo, and GBIF Norway, as part of the BioDATA Advanced initiative. The project aims to strengthen international partnerships and foster collaboration through shared learning and scientific exchange.
-The course provides a practical, hands-on introduction to extracting, managing, and analysing biodiversity data from GBIF. It combines foundational training in data standards, open science principles, fitness for use, data cleaning, and data manipulation, with applied learning through real-world examples. Participants also engage in fieldwork, thematic discussions, and project showcases from both Norway and South Africa.
-Through this training, participants develop essential skills to effectively use biodiversity data, enhancing their ability to contribute to scientific research and support evidence-based decision-making in biodiversity conservation and policy.
-
-[**View the Course and Sign-up**](https://elearning.gbif.es/courses/BIODATAADVANCEDCOURSEONDATAUSEWITH/index.php?id_session=0&isStudentView=true)
-
-Registered users can log in to the eLearning Platform and subscribe to the BioDATA Advances Course on Data Use with GBIF by clicking the link below:
 
 [**Access the eLearning Platform**](https://elearning.gbif.es)
 
