@@ -7,7 +7,7 @@ description: |
 background: /assets/images/20180114_tsitsikamma-res.jpg
 cta:
   - text: Sample record
-    href: /occurrence/search
+    href: /occurrence/search?taxonKey=3YR3&entity=o_3708364223
     isPrimary: true
   - text: About this site
     href: /about
