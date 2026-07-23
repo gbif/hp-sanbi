@@ -7,12 +7,12 @@ description: |
 background: /assets/images/20180114_tsitsikamma-res.jpg
 cta:
   - text: Sample record
-    href: /occurrence/search?taxonKey=3YR3&entity=o_3708364223
+    href: /occurrence/search?entity=o_3708364223
     isPrimary: true
   - text: About this site
     href: /about
   - text: About the checklist
-    href: /dataset/668282c7-8d71-4c2b-b9ba-f9ab705c88d5
+    href: /dataset/f5dc22ca-0bb1-4692-8a97-cc7ac54d7ed9
 permalink: /
 height: 90vh
 composition: 

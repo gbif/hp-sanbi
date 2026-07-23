@@ -96,10 +96,10 @@ exclude:
 permalink: pretty # will strip extensions like .html from urls
 
 col:
-  gbifDatasetKey: 668282c7-8d71-4c2b-b9ba-f9ab705c88d5
-  version: "latest" 
-  catalogueKey: "312227" # or 312227 which is the ones used for organizing occurrences
-  # defaultTaxonKey: "x4" # not sure how to choose root. I do not see one here: https://www.checklistbank.org/dataset/312227/classification
+  gbifDatasetKey: f5dc22ca-0bb1-4692-8a97-cc7ac54d7ed9 # South African National Plant Checklist (SANPC)
+  version: "latest"
+  catalogueKey: "312236" # ChecklistBank id for the SANPC plant list
+  defaultTaxonKey: "x4" # root of the SANPC checklist = Plantae (kingdom)
 
 defaults:
   -

@@ -1,10 +1,11 @@
-const NATIONAL_CHECKLIST = '668282c7-8d71-4c2b-b9ba-f9ab705c88d5';
+const NATIONAL_CHECKLIST = 'f5dc22ca-0bb1-4692-8a97-cc7ac54d7ed9'; // South African National Plant Checklist (SANPC) — plant-only, so it already scopes occurrences to Plantae
+const COL = '7ddf754f-d193-4cc9-b351-99906754a03b'; // Catalogue of Life — secondary taxonomy (replaces the retired GBIF Backbone d7dddbf4)
 const COUNTRY = 'ZA'; // South Africa
 
 var siteConfig = {
   "version": 3,
   defaultChecklistKey: NATIONAL_CHECKLIST,
-  availableChecklistKeys: [NATIONAL_CHECKLIST, 'd7dddbf4-2cf0-4f39-9b2a-bb099caae36c'],
+  availableChecklistKeys: [NATIONAL_CHECKLIST, COL],
   "pages": [
     {
       "id": "occurrenceSearch"

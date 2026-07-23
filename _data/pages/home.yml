@@ -37,7 +37,7 @@ browser:
   href: /occurrence/search?view=MAP
   cta:
   - text: |
-      <div><span data-ajax-path="data.occurrenceSearch.documents.total" data-ajax-url="https://graphql.gbif-staging.org/graphql?query=query%20%7B%20occurrenceSearch%28predicate%3A%20%7Btype%3A%20and%2C%20predicates%3A%20%5B%7Btype%3A%20equals%2C%20key%3A%20%22publishingCountry%22%2C%20value%3A%20%22ZA%22%7D%2C%20%7Btype%3A%20equals%2C%20key%3A%20%22country%22%2C%20value%3A%20%22ZA%22%7D%2C%20%7Btype%3A%20equals%2C%20key%3A%20%22checklistKey%22%2C%20value%3A%20%22668282c7-8d71-4c2b-b9ba-f9ab705c88d5%22%7D%5D%7D%2C%20size%3A%2010%29%20%7B%20documents%20%7B%20total%20%7D%20%7D%7D">31,396,843</span>  occurrences</div>
+      <div><span data-ajax-path="data.occurrenceSearch.documents.total" data-ajax-url="https://graphql.gbif-staging.org/graphql?query=query%20%7B%20occurrenceSearch%28predicate%3A%20%7Btype%3A%20and%2C%20predicates%3A%20%5B%7Btype%3A%20equals%2C%20key%3A%20%22publishingCountry%22%2C%20value%3A%20%22ZA%22%7D%2C%20%7Btype%3A%20equals%2C%20key%3A%20%22country%22%2C%20value%3A%20%22ZA%22%7D%2C%20%7Btype%3A%20equals%2C%20key%3A%20%22checklistKey%22%2C%20value%3A%20%22f5dc22ca-0bb1-4692-8a97-cc7ac54d7ed9%22%7D%5D%7D%2C%20size%3A%2010%29%20%7B%20documents%20%7B%20total%20%7D%20%7D%7D">1,217,744</span>  occurrences</div>
     href: /occurrence/search
     isPrimary: true
   - text: Map
@@ -67,10 +67,10 @@ stats:
   background: "#edf3f3"
   features:
       # we can also use the graphql API to allow richer queries
-    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?checklistKey=668282c7-8d71-4c2b-b9ba-f9ab705c88d5&publishingCountry=ZA&country=ZA&limit=0">31,396,843</span>
+    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?checklistKey=f5dc22ca-0bb1-4692-8a97-cc7ac54d7ed9&publishingCountry=ZA&country=ZA&limit=0">1,217,744</span>
       description: Species occurrences
       href: /occurrence/search
-    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?checklistKey=668282c7-8d71-4c2b-b9ba-f9ab705c88d5&publishingCountry=ZA&country=ZA&limit=0&mediaType=StillImage">7,783</span>
+    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?checklistKey=f5dc22ca-0bb1-4692-8a97-cc7ac54d7ed9&publishingCountry=ZA&country=ZA&limit=0&mediaType=StillImage">5</span>
       description: Images
       href: /occurrence/search?view=GALLERY
     - title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?publishingCountry=ZA&limit=0">127</span>
