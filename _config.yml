@@ -97,7 +97,7 @@ permalink: pretty # will strip extensions like .html from urls
 
 col:
   gbifDatasetKey: f5dc22ca-0bb1-4692-8a97-cc7ac54d7ed9 # South African National Plant Checklist (SANPC)
-  version: "latest"
+  version: "2" # portal-components v2.x — React 19 + controlled API (breaking vs v1)
   catalogueKey: "312236" # ChecklistBank id for the SANPC plant list
   defaultTaxonKey: "x4" # root of the SANPC checklist = Plantae (kingdom)
 

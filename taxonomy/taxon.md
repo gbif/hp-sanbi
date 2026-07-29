@@ -5,9 +5,9 @@ title: Taxon
 permalink: /taxonomy/taxon
 ---
 
-<!--react and gbif component-->
-<script src="https://unpkg.com/react@16/umd/react.production.min.js"></script>
-<script src="https://unpkg.com/react-dom@16/umd/react-dom.production.min.js"></script>
+<!--distribution map is opt-in in v2 and needs maplibre loaded separately-->
+<link rel="stylesheet" href="https://unpkg.com/maplibre-gl@5/dist/maplibre-gl.css" />
+<script src="https://unpkg.com/maplibre-gl@5/dist/maplibre-gl.js"></script>
 
 <script src="https://cdn.jsdelivr.net/gh/CatalogueOfLife/portal-components@{{site.col.version}}/umd/col-browser.min.js" ></script>
 
@@ -16,28 +16,34 @@ permalink: /taxonomy/taxon
 
 <script>
 'use strict';
-const e = React.createElement;
-class Taxon extends React.Component {
-
-    render() {
-
-      return e(
-        ColBrowser.Taxon,
-        { 
-          catalogueKey: '{{site.col.catalogueKey}}',
-          pathToTree: '/taxonomy/browse',
-          pathToSearch: '/taxonomy/search',
-          pathToTaxon: '/taxonomy/taxon/',
-          pathToDataset: '/sourcedatasets/',
-          pageTitleTemplate: 'SANBI | __taxon__',
-          citation: 'top'
-        }
-      );
-    }
+// v2 components no longer read or write the URL themselves; withRouting reads
+// the taxon id off the end of the path and navigates by full page reload.
+// No `source` path: this site has no source dataset page, and omitting it makes
+// v2 render those names as plain text rather than as broken links.
+const URLTaxon = ColBrowser.withRouting(ColBrowser.Taxon, {
+  kind: 'taxon',
+  mode: 'path',
+  navigation: 'reload',
+  paths: {
+    taxon: '/taxonomy/taxon/',
+    tree: '/taxonomy/browse',
+    search: '/taxonomy/search'
   }
+});
 
 const domContainer = document.querySelector('#taxon');
-ReactDOM.render(e(Taxon), domContainer);
+ColBrowser.ReactDOM.createRoot(domContainer).render(
+  ColBrowser.React.createElement(
+    URLTaxon,
+    {
+      datasetKey: '{{site.col.catalogueKey}}',
+      showDistributionMap: true,
+      gbifChecklistKey: '{{site.col.gbifDatasetKey}}',
+      pageTitleTemplate: 'SANBI | __taxon__',
+      citation: 'top'
+    }
+  )
+);
 </script>
 
 <script>
