@@ -3,7 +3,7 @@ lang-ref: en-us
 layout: home
 title: Piloting multi-taxonomy support with national species checklists   
 description: |
-  This experimental clone of the [SANBI website](https://www.sanbi-gbif.org/) demonstrates the indexing of species occurrence records using a national checklist
+  This simplified, experimental version of the [SANBI-GBIF website](https://www.sanbi-gbif.org/) demonstrates the parallel indexing of species occurrence records using both global and national taxonomic checklists
 background: /assets/images/20180114_tsitsikamma-res.jpg
 cta:
   - text: Sample record
