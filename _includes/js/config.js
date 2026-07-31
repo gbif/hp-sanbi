@@ -79,35 +79,4 @@ var siteConfig = {
       "country"
     ]
   },
-  "collectionSearch": {},
-  "institutionSearch": {},
-  "datasetSearch": {},
-  "publisherSearch": {},
-  "literatureSearch": {
-    "scope": {
-      "type": "or",
-      "predicates": [
-        {
-          "type": "in",
-          "key": "countriesOfResearcher",
-          "values": [
-            COUNTRY
-          ]
-        },
-        {
-          "type": "in",
-          "key": "countriesOfCoverage",
-          "values": [
-            COUNTRY
-          ]
-        }
-      ]
-    },
-    "highlightedFilters": [
-      "q",
-      "countriesOfResearcher",
-      "countriesOfCoverage",
-      "year"
-    ]
-  }
 };
