@@ -1,8 +1,8 @@
 ---
-title: From base pairs to binomials: Sequence search is now available on GBIF
-date:   2026-08-6
+title: Sequence search is now available on GBIF.org
+date:  2026-07-28
 # categories: jekyll update
-background: /assets/images/Lilies_pond.jpg
+background: /assets/images/Protea_highres_cropped.jpg
 ---
 
 Users can discover occurrence records using DNA or RNA sequences
