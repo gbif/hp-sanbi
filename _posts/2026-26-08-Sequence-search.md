@@ -1,5 +1,5 @@
 ---
-title: From base pairs to binomials: Sequence search is now available on GBIF.org
+title: From base pairs to binomials: Sequence search is now available on GBIF
 date:   2026-08-6
 # categories: jekyll update
 background: /assets/images/Lilies_pond.jpg
