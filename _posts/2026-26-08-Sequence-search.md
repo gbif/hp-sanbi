@@ -1,6 +1,6 @@
 ---
 title: Sequence search is now available on GBIF.org
-date:  2026-07-28
+date:  2026-08-26
 # categories: jekyll update
 background: /assets/images/Protea_highres_cropped.jpg
 ---
