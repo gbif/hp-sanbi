@@ -7,13 +7,14 @@ background: /assets/images/Protea_highres_cropped.jpg
 
 Users can discover occurrence records using DNA or RNA sequences
 
-Nucleotide sequence searches are now possible through GBIF.org, allowing users to discover occurrence records not only through names
-but also genetic sequences. This new feature follows recent major upgrades to the GBIF.org website, which consolidate developments
-in taxonomic backbone handling and enhanced data exploration capabilities.
+Nucleotide sequence searches are now possible through [GBIF.org](https://www.gbif.org/), allowing users to discover
+occurrence records not only through names but also genetic sequences. This new feature follows 
+recent [major upgrades to the GBIF.org website](https://www.gbif.org/news/4LbSrCst35Afw9XLa6YWAP/new-and-improved-gbiforg-website), 
+which consolidate developments in taxonomic backbone handling and enhanced data exploration capabilities.
 
 Using the "sequence similarity" filter in the occurrence search tool, users can search for nucleotide (DNA) sequences of up to 2,048 base pairs. 
-Searches are matched to existing biodiversity data in GBIF indexed against the Catalogue of Life Extended Release. Based on sequence similarity, 
-matches will allow users to explore spatial diversity patterns for exact or related matches.
+Searches are matched to existing biodiversity data in GBIF indexed against the [Catalogue of Life Extended Release.](https://www.gbif.org/news/4NYN9w8HdlGrD2mRqdvw9o/catalogue-of-life-enhancement-supports-improved-global-taxonomic-reference-for-gbif) 
+Based on sequence similarity, matches will allow users to explore spatial diversity patterns for exact or related matches.
 
 The sequence search functionality can be combined with additional filters such as target gene and sequence length. 
 Additional capabilities are available through the GBIF occurrence API. To support enhanced exploration of DNA data, 
