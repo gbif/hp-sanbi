@@ -21,3 +21,5 @@ Additional capabilities are available through the GBIF occurrence API. To suppor
 GBIF has developed DNA sequence sanitization mechanism, allowing raw nucleotide sequences to be normalized, compared 
 and searched without altering the raw data. Standardizing sequences allows for consistent indexing while also generating 
 quality metrics that can be used to flag potential issues with individual sequences.
+
+[For more information click here](https://www.gbif.org/news/1RGAh9ay47GsvleOhDC9js/from-base-pairs-to-binomials-sequence-search-is-now-available-on-gbiforg)
