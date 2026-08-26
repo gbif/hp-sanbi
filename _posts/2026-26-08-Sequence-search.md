@@ -5,7 +5,7 @@ date:   2026-08-26
 background: /assets/images/Lilies_pond.jpg
 ---
 
-*Users can discover occurrence records using DNA or RNA sequences*
+Users can discover occurrence records using DNA or RNA sequences
 
 Nucleotide sequence searches are now possible through GBIF.org, allowing users to discover occurrence records not only through names
 but also genetic sequences. This new feature follows recent major upgrades to the GBIF.org website, which consolidate developments
