@@ -5,11 +5,6 @@ height: 70vh
 toc: true
 ---
 
-## Science-Policy Resources
-* [G20 RIWG NHCs Report 18Sep2025](https://github.com/gbif/hp-sanbi/blob/master/assets/images/G20_RIWG_NHCs_Report_18Sep'25_Final.pdf)
-* [Mpumalanga Roadmap NHCs 18Sep2025](https://github.com/gbif/hp-sanbi/blob/master/assets/images/Mpumalanga_Roadmap_NHCs_18Sep2025_Final.pdf)
-
-
 ## Strategy Documents
 * [GBIF Strategic Plan 2017-2021](https://assets.ctfassets.net/uo17ejk9rkwj/3UnrwAF9tC8siA644COw8W/5c0a0068364b0b632c1bf20ad2954a4b/GBIF-strategic-plan-2017-2021.pdf)
 * [SANBI Annual Reports](https://www.sanbi.org/about/annual-reports/sanbi-annual-reports-overview)
