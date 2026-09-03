@@ -13,13 +13,13 @@ toc: true
 ## Strategy Documents
 * [GBIF Strategic Plan 2017-2021](https://assets.ctfassets.net/uo17ejk9rkwj/3UnrwAF9tC8siA644COw8W/5c0a0068364b0b632c1bf20ad2954a4b/GBIF-strategic-plan-2017-2021.pdf)
 * [SANBI Annual Reports](https://www.sanbi.org/about/annual-reports/sanbi-annual-reports-overview)
-* [Twenty Year Review of GBIF (CODATA,Paris 2020)](https://zenodo.org/record/3779922#.YZO4oY4zY2w)
+* [Twenty Year Review of GBIF (CODATA,Paris 2020)](https://codata.org/twenty-years-of-gbif-codatas-independent-review-charts-successes-and-challenges/)
 * [A World That Counts: Mobilising the Data Revolution for Sustainable Development](https://www.undatarevolution.org/wp-content/uploads/2014/11/A-World-That-Counts.pdf)
 
 ## Technical Documents
 * [Global Biodiversity Informatics Outlook](https://assets.ctfassets.net/uo17ejk9rkwj/7Kj8EyXDwW2IUWKk2WYOaE/85947f585b9c6255c9b72b9325ba44b6/GBIO.pdf)
-* [White Paper on Science, Technology and Innovation](https://www.dst.gov.za/images/2019/White_paper_web_copyv1.pdf)
-* [GBIF Science Review 2020](https://assets.ctfassets.net/uo17ejk9rkwj/37mOTkUYsVfAc4e080MEVV/237e2229af7c8537dbff213f7cbd7576/SR2020_interactive_v2.pdf)
+* [White Paper on Science, Technology and Innovation](https://www.gov.za/sites/default/files/gcis_document/201912/white-paper-science-technology-and-innovation.pdf)
+*  [GBIF Science Review 2020](https://assets.ctfassets.net/uo17ejk9rkwj/37mOTkUYsVfAc4e080MEVV/237e2229af7c8537dbff213f7cbd7576/SR2020_interactive_v2.pdf)
 * [Georeferencing Best Practices 2020](https://docs.gbif.org/georeferencing-best-practices/1.0/en/georeferencing-best-practices.en.pdf)
 * [Current Best Practices for Generalizing Sensitive Species Occurence Data 2020](https://docs.gbif.org/sensitive-species-best-practices/master/en/current-best-practices-for-generalizing-sensitive-species-occurrence-data.en.pdf)
 * [New guide released to support freshwater data publishing](https://docs.gbif.org/freshwater-data-publishing-guide/en/)
