@@ -6,8 +6,8 @@ toc: true
 ---
 
 ## Science-Policy Resources
-* [G20_RIWG_NHCs_Report_18Sep'25_Final.pdf](https://github.com/gbif/hp-sanbi/blob/master/assets/images/G20_RIWG_NHCs_Report_18Sep'25_Final.pdf)
-* [Mpumalanga_Roadmap_NHCs_18Sep2025_Final.pdf](https://github.com/gbif/hp-sanbi/blob/master/assets/images/Mpumalanga_Roadmap_NHCs_18Sep2025_Final.pdf)
+* [G20 RIWG NHCs Report 18Sep2025](https://github.com/gbif/hp-sanbi/blob/master/assets/images/G20_RIWG_NHCs_Report_18Sep'25_Final.pdf)
+* [Mpumalanga Roadmap NHCs 18Sep2025](https://github.com/gbif/hp-sanbi/blob/master/assets/images/Mpumalanga_Roadmap_NHCs_18Sep2025_Final.pdf)
 
 
 ## Strategy Documents
