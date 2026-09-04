@@ -4,6 +4,9 @@ background: assets/images/Protea3.jpg
 height: 70vh
 toc: true
 ---
+## Science-Policy Resources
+* [G20 Research and Innovation Working Group, Mpumalanga report: Global collaboration supporting museums and natural history collections.](https://zenodo.org/records/22304318)
+* [G20 Research and Innovation Working Group, Mpumalanga Roadmap: Considerations (or Principles) for Global Natural History Collections Roadmap](https://zenodo.org/records/22280956)
 
 ## Strategy Documents
 * [GBIF Strategic Plan 2017-2021](https://assets.ctfassets.net/uo17ejk9rkwj/3UnrwAF9tC8siA644COw8W/5c0a0068364b0b632c1bf20ad2954a4b/GBIF-strategic-plan-2017-2021.pdf)
