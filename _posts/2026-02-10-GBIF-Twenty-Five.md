@@ -1,7 +1,7 @@
 title: Twenty-five years of GBIF
 date:   2026-10-02
 # categories: jekyll update
-background: /assets/images/GRA-2026-15.webp
+background: /assets/images/assets/images/25GBIF.jpg
 ---
 
 *New article offers historical overview of the organization, the infrastructure, its services and the global community underpinning it*
