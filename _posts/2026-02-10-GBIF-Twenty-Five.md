@@ -1,3 +1,4 @@
+---
 title: Twenty-five years of GBIF
 date:   2026-10-02
 # categories: jekyll update
