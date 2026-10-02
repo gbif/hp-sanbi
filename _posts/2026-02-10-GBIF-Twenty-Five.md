@@ -16,4 +16,4 @@ Oslo, Norway, at which the anniversary will be celebrated at a public [symposium
 
 GBIF's work is carried out through a distributed [network](https://www.gbif.org/the-gbif-network) of 70 country participants and 42 organizational participants, each represented by a national or thematic node that mobilizes data, builds local capacity and connects biodiversity communities to GBIF's infrastructure. More than 2,700 institutions, including museums, universities, government agencies, citizen science platforms and a growing number of private-sector organizations, have published data through the network, with new publishers joining at a rate of more than four per week.
 
-[Click here to see details](https://www.gbif.org/news/6CMzMgeS8S4lDuwbD7U6Yx/twenty-five-years-of-gbif)
+[Click here for more information](https://www.gbif.org/news/6CMzMgeS8S4lDuwbD7U6Yx/twenty-five-years-of-gbif)
